@@ -31,7 +31,7 @@ format:
 
 ## Chapter 3
 
-### Semantic Trees 
+### Semantic Trees
 
 > A Semantic tree is a device for displaying all the valuations on which a formula or set of formulas is true. [Nolt's, 65]
 
