@@ -5,6 +5,7 @@ project:
   render:
     - "./index.qmd"
     - "/2026_logic/*"
+    - "./2026_logic/syllabus.qmd"
 
 website:
   title: "Logic, Spring 2026"
@@ -21,6 +22,9 @@ website:
   sidebar:
     style: docked
     contents:
+      - section: "Syllabus"
+        contents:
+         - href: "./2026_logic/syllabus.qmd"
       - section: "🗓️ Logic"
         contents:
          - href: 2026_logic/weeks/week01/page.qmd
@@ -28,8 +32,8 @@ website:
            contents:
              - href: 2026_logic/weeks/week01/page.qmd
                text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/lab.qmd
-            #    text: 💻 Lab Roadmap
+             - href: "./2026_logic/syllabus.qmd"
+               text: 💻 Syllabus
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
          - href: 2026_logic/weeks/week02/page.qmd
@@ -175,7 +179,7 @@ website:
     background: light
     left: "Copyright 2025, Montaque Reynolds"
 
-bibliography: ./../My-Library.bib
+bibliography: ./Un-Duplicates.bib
 csl: references/chicago-author-date.csl
 
 format:

@@ -1,5 +1,5 @@
 ---
-title: "PHIL104Q - Introduction to Logic"
+title: "PHIL101B - Introduction to Logic"
 subtitle: "Academic Year: 2025/26"
 format: html
 ---
@@ -9,7 +9,11 @@ format: html
 
 (01/16/2026)
 
-- [🗓️ Week 01 lecture material](./2026_logic/weeks/week01/page.qmd) is now available!
+[Download the Text Book Here!](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
+
+[Access Additional Logic Resources Here!](https://www.logicmatters.net/ifl/)
+
+[Download the Syllabus Here!](./../_output/2026_logic/syllabus/index.pdf)
 
 :::
 
@@ -44,6 +48,9 @@ Student Peer Instructor<br>
 ~~📧 [EMAIL](mailto:)~~
 
 
+## Syllabus
+
+![Slides](./../_output/2026_logic/syllabus/index.pdf){width=640px height=480px}
 :::
 
 ### Learning Outcomes
@@ -64,7 +71,25 @@ See Class Times Below
 
 # 💻 Class Meeting Times
 
-**Aesthetics 343A**
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Phil 101B (7951)**
 
 - 📆 Mondays and Wednesdays
-- ⌚ 10:30am - 12:45pm
+- ⌚ 9:00am - 10:15pm
+
+:::
+
+::: {.column width="50%"}
+**Phil 101B (8012)**
+
+- Tuesdays and Thursdays
+- ⌚ 10:00am - 11:15am
+:::
+
+::::
+
+
