@@ -1,14 +1,14 @@
 ---
-title: "Logic, Spring 2026"
 format:
-  html:
-    include-before-body: helpers/remove-nav.html
-    include-after-body: helpers/remove-title.html
+  dashboard:
+    orientation: columns
 ---
 
 <a href="./2026_logic/index.qmd">
-    <button class="button-61">Click Here for Logic, Spring 2026</button>
+    <button class="button-61">Click Here to Enter Spring 2026 Course</button>
 </a>
+
+## Introduction
 
 Previously, this course used John Nolt's *Logics* as its text book. While I still believe that the heavy emphasis on formal logic is important, the book itself did not provide enough informal support for the students to grasp the concepts in an intuitive manner. I discovered Peter @smit21's [*Logic Matters*](https://www.logicmatters.net/) towards the end of the semester. I recommeneded it to students as a supplementary reading and was pleased with the feedback and the improvement in their understanding. I am now relying on Smith's introductory text as the main text for this course, although I will contrast it with Nolt's more formal approach at various points.
 
@@ -17,6 +17,9 @@ Previously, this course used John Nolt's *Logics* as its text book. While I stil
 **Focus:** the focus of this course is informal and formal logics
 
 **How:** hands-on learning
+
+**Course Text:** [Smith, Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted with corrections. Logic Matters.
+](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
 
 ### 🎯 Learning Objectives
 
@@ -30,4 +33,7 @@ This course will begins by looking at informal systems of logic. It then proceed
 
 In the image below, Sherlock Holmes is wearing a top hat. This image is from a favorite paper of mine where David @lewi78a uses logical reasoning to address the question of whether or not it is false to say 'Holmes wears a top hat' or that 'Holmes lived in Baker Street'.
 
+## Summary {height=10%}
+
 !['Holmes wears a top hat'](./2025-logic/holmes.jpg)
+
