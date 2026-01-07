@@ -1,0 +1,3338 @@
+[
+  {
+    "objectID": "2026_logic/weeks/week03/page.html",
+    "href": "2026_logic/weeks/week03/page.html",
+    "title": "🗓️ Week 03 - Argument Forms, Formalization, Formation Rules",
+    "section": "",
+    "text": "9\nPL syntax\n72\n\n\n10\nPL semantics\n81\n\n\n11\n’P’s, ’Q’s, ’α’s, ’β’s – and form again\n94\n\n\n12\nTruth functions\n104",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week03/page.html#lecture-slides",
+    "title": "🗓️ Week 03 - Argument Forms, Formalization, Formation Rules",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/page.html#coursework",
+    "href": "2026_logic/weeks/week03/page.html#coursework",
+    "title": "🗓️ Week 03 - Argument Forms, Formalization, Formation Rules",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week03/page.html#recommended-reading",
+    "title": "🗓️ Week 03 - Argument Forms, Formalization, Formation Rules",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/page.html#communication",
+    "href": "2026_logic/weeks/week03/page.html#communication",
+    "title": "🗓️ Week 03 - Argument Forms, Formalization, Formation Rules",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/page.html",
+    "href": "2026_logic/weeks/week01/page.html",
+    "title": "🗓️ Introduction to Logic, Week 01",
+    "section": "",
+    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week01/page.html#lecture-slides",
+    "title": "🗓️ Introduction to Logic, Week 01",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/page.html#coursework",
+    "href": "2026_logic/weeks/week01/page.html#coursework",
+    "title": "🗓️ Introduction to Logic, Week 01",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week01/page.html#recommended-reading",
+    "title": "🗓️ Introduction to Logic, Week 01",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/page.html#communication",
+    "href": "2026_logic/weeks/week01/page.html#communication",
+    "title": "🗓️ Introduction to Logic, Week 01",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/page.html",
+    "href": "2026_logic/weeks/week09-QLs/page.html",
+    "title": "🗓️ Week 09 - More QL Language",
+    "section": "",
+    "text": "33\nMore QL Proofs\n315\n\n\n34\nEmpty Domains\n329\n\n\n35\nQ-Valuations\n333",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week09-QLs/page.html#lecture-slides",
+    "title": "🗓️ Week 09 - More QL Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/page.html#coursework",
+    "href": "2026_logic/weeks/week09-QLs/page.html#coursework",
+    "title": "🗓️ Week 09 - More QL Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week09-QLs/page.html#recommended-reading",
+    "title": "🗓️ Week 09 - More QL Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/page.html#communication",
+    "href": "2026_logic/weeks/week09-QLs/page.html#communication",
+    "title": "🗓️ Week 09 - More QL Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week09-QLs/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html",
+    "href": "2026_logic/weeks/week06/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week06/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week06/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week06/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#we-have",
+    "href": "2026_logic/weeks/week06/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week06/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week06/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#he-either",
+    "href": "2026_logic/weeks/week06/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week06/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week06/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week06/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week06/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week06/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week06/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week06/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week06/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week06/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week06/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week06/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#or",
+    "href": "2026_logic/weeks/week06/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/page.html",
+    "href": "2026_logic/weeks/week14/page.html",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "",
+    "text": "42\nFunctions\n391",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week14/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/page.html#coursework",
+    "href": "2026_logic/weeks/week14/page.html#coursework",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week14/page.html#recommended-reading",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/page.html#communication",
+    "href": "2026_logic/weeks/week14/page.html#communication",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week14/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html",
+    "href": "2026_logic/weeks/week04/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Argument Forms Informal and Formal Last Week, can you guess? This Week\n\n\n\n\nContent\nStructure\n\nSyntax  Semantics\n\n\n\n\n\n\nI was a ghost, I was alone 어두워진 앞길 속에 (hah)\n\n\nGiven the throne, I didn’t know how to believe\n\n\nI was the queen that I’m meant to be\n\n\nI lived two lives, tried to play both sides\n\n\nBut I couldn’t find my own place\n\n\nCalled a problem child ’cause I got too wild\n\n\nBut now that’s how I’m getting paid 끝없이 on stage\n\n\n\n\nWhat is the conclusion? What are the supporting premises?\n\nI was a ghost, I was alone 어두워진 앞길 속에 (hah) (?)\n\n\nIs it valid?\nIs it sound?\n\n\n\n\n\n\n\n\n\nI was a ghost\nI was alone 어두워진 앞길 속에 (hah)\nGiven the throne I didn’t know how to believe\n\n\n\n\nTrue\nTrue\nTrue\n\n\nTrue\nTrue\nFalse\n\n\nTrue\nFalse\nTrue\n\n\nTrue\nFalse\nFalse\n\n\nFalse\nTrue\nTrue\n\n\nFalse\nTrue\nFalse\n\n\nFalse\nFalse\nTrue\n\n\nFalse\nFalse\nFalse\n\n\n\n\n\n\n\nLogical truth, a statement true in all possible situations.\nA set of propositions (or a single proposition) is inconsistent if there is no possible situation in which they are all true (or in which it is true).\nLook for logical operators, terms representing logical relationships between propositions, except in the case of negations.\nSome are contingent, true in some possible situations but false in others.\n\n\n\n\nWords or phrases taht signal the presence of an argument.\n\nPremise Indicators\n\nsince, because, for, as shown by, given that, may be inferred from, follows from, inasmuch as, in view of the fact that, seeing that, for the reason that, etc.\n\nConclusion Indicators\n\ntherefore, thus, hence, so, consequently, it follows that, we may infer that, entails that, which implies that, accordingly, as a result, etc.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#syntax",
+    "href": "2026_logic/weeks/week04/summary.html#syntax",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Argument Forms Informal and Formal Last Week, can you guess? This Week\n\n\n\n\nContent\nStructure\n\nSyntax  Semantics",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#sentences",
+    "href": "2026_logic/weeks/week04/summary.html#sentences",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "I was a ghost, I was alone 어두워진 앞길 속에 (hah)\n\n\nGiven the throne, I didn’t know how to believe\n\n\nI was the queen that I’m meant to be\n\n\nI lived two lives, tried to play both sides\n\n\nBut I couldn’t find my own place\n\n\nCalled a problem child ’cause I got too wild\n\n\nBut now that’s how I’m getting paid 끝없이 on stage",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#classify-the-following-as-valid-or-invalid",
+    "href": "2026_logic/weeks/week04/summary.html#classify-the-following-as-valid-or-invalid",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "What is the conclusion? What are the supporting premises?\n\nI was a ghost, I was alone 어두워진 앞길 속에 (hah) (?)\n\n\nIs it valid?\nIs it sound?\n\n\n\n\n\n\n\n\n\nI was a ghost\nI was alone 어두워진 앞길 속에 (hah)\nGiven the throne I didn’t know how to believe\n\n\n\n\nTrue\nTrue\nTrue\n\n\nTrue\nTrue\nFalse\n\n\nTrue\nFalse\nTrue\n\n\nTrue\nFalse\nFalse\n\n\nFalse\nTrue\nTrue\n\n\nFalse\nTrue\nFalse\n\n\nFalse\nFalse\nTrue\n\n\nFalse\nFalse\nFalse",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#relevance",
+    "href": "2026_logic/weeks/week04/summary.html#relevance",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Logical truth, a statement true in all possible situations.\nA set of propositions (or a single proposition) is inconsistent if there is no possible situation in which they are all true (or in which it is true).\nLook for logical operators, terms representing logical relationships between propositions, except in the case of negations.\nSome are contingent, true in some possible situations but false in others.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#argument-indicators",
+    "href": "2026_logic/weeks/week04/summary.html#argument-indicators",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Words or phrases taht signal the presence of an argument.\n\nPremise Indicators\n\nsince, because, for, as shown by, given that, may be inferred from, follows from, inasmuch as, in view of the fact that, seeing that, for the reason that, etc.\n\nConclusion Indicators\n\ntherefore, thus, hence, so, consequently, it follows that, we may infer that, entails that, which implies that, accordingly, as a result, etc.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#classical-propositional-logic-syntax",
+    "href": "2026_logic/weeks/week04/summary.html#classical-propositional-logic-syntax",
+    "title": "Classical Propositional Logic",
+    "section": "Classical Propositional Logic: Syntax",
+    "text": "Classical Propositional Logic: Syntax\nIn this chapter, we cover syntax, which is its grammar and rules for constructing sentences.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#argument-forms",
+    "href": "2026_logic/weeks/week04/summary.html#argument-forms",
+    "title": "Classical Propositional Logic",
+    "section": "Argument Forms",
+    "text": "Argument Forms\n\nInformal Logic: Studying arguments as they occur in natural language\nFormal Logic: Argument forms",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#some-valid-argument-forms",
+    "href": "2026_logic/weeks/week04/summary.html#some-valid-argument-forms",
+    "title": "Classical Propositional Logic",
+    "section": "Some Valid Argument Forms",
+    "text": "Some Valid Argument Forms\n\n\nModus Ponens\nP1. P \\(\\rightarrow\\) Q.\nP2. P.\nC. \\(\\therefore\\) Q.\nModus Tollens\nP1. P \\(\\rightarrow\\) Q.\nP2. ~Q.\nC. \\(\\therefore\\) ~P.\n\nHypothetical Syllogism\nP1. P \\(\\rightarrow\\) Q.\nP2. Q \\(\\rightarrow\\) R.\nC. P \\(\\rightarrow\\) R\nDisjunctive Syllogism\nP1. P \\(\\lor\\) Q.\nP2. ~P. [or ~Q.]\nC. \\(\\therefore\\) Q. [∴ P.]\n\n\nConstructive Dilemma\nP1. P \\(\\lor\\) Q.\nP2. P \\(\\lor\\) R.\nP3. Q \\(\\rightarrow\\) S.\nC. \\(\\therefore\\) R \\(\\lor\\) S",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#some-terms-from-chapter-2",
+    "href": "2026_logic/weeks/week04/summary.html#some-terms-from-chapter-2",
+    "title": "Classical Propositional Logic",
+    "section": "Some Terms from Chapter 2",
+    "text": "Some Terms from Chapter 2\nTurnstile\nSequent\nPropositional Logic\nNegation Operator\nDisjunct\nScope Ambiguity\nAutomic Formulas",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#formation-rules-for-propositional-logic",
+    "href": "2026_logic/weeks/week04/summary.html#formation-rules-for-propositional-logic",
+    "title": "Classical Propositional Logic",
+    "section": "FORMATION RULES FOR PROPOSITIONAL LOGIC",
+    "text": "FORMATION RULES FOR PROPOSITIONAL LOGIC\n1 Any sentence letter, with or without a sequence of numerals as a subscript, is a formula.\n2 If \\(\\phi\\) is a formula, then so is ~\\(\\phi\\).\n3 If \\(\\phi\\) and \\(\\psi\\) are formulas, then so are (\\(\\phi\\) & \\(\\psi\\)), (\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)), (\\(\\phi\\) \\(\\rightarrow\\) \\(\\psi\\)) and (\\(\\phi\\) \\(\\Leftrightarrow\\) \\(\\psi\\)).\n\n~(P) (~P) (P): These are not formulas!\n\n\nWhat is classical logic? What is the principle of bivalence?\nDEFINITION: A valuation of a formula or set of formulas of propositional logic is an assigment of one and only one of the truth values T and F to each of the sentence letters occuring in that formula or in any formula of that set.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#what-are-the-valuation-rules",
+    "href": "2026_logic/weeks/week04/summary.html#what-are-the-valuation-rules",
+    "title": "Classical Propositional Logic",
+    "section": "What are the valuation rules?",
+    "text": "What are the valuation rules?\n\n\n\nValuation Rules",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#better",
+    "href": "2026_logic/weeks/week04/summary.html#better",
+    "title": "Classical Propositional Logic",
+    "section": "Better",
+    "text": "Better",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/summary.html#some-more-definitions",
+    "href": "2026_logic/weeks/week04/summary.html#some-more-definitions",
+    "title": "Classical Propositional Logic",
+    "section": "Some More Definitions",
+    "text": "Some More Definitions\nDEFINITION: A counterexample to a sequent or argument form is a valuation on which its premises are true and its conclusion is not true.\nDEFINITION: A sequent or argument form is valid iff there is no valuation on which its premises are true and its conclusion is not true.\nDEFINITION: A sequent or argument form is invalid iff there is at least one valuation on which its premises are true and its conclusion is not true.\nDEFINITION: A valid formula is a formula true on all its valuations.\nDEFINITION: A tautology is a formula whose truth table displays a column consisting entirely of ’T’s under its main operator.\nDEFINITION: A formula is inconsistent iff there is no valuation on which it is true.\nDEFINITION: A set of formulas is inconsistent iff there is no valuation on which all the formulas in the set are true.\nDEFINITION: A formula is consistent iff it is true on at least one valuation.\nDEFINITION: A set of formulas is consistent iff there is at least one valuation on which all the formulas in the set are true.\nDEFINITION: A formula is contingent iff it is true on some of its valuations and not true on others.\nDEFINITION: Two formulas are logically equivalent iff they have the same truth value on every valuation of both.\n\n\n\n\n\n\n\n\n\nType of formula\nDefinition\nTruth Table Indication\n\n\n\n\nValid (Tautologous)\nTrue on all Valutions\nColumn under main operator contains only ’T’s\n\n\nContingent\nTrue on at least one valuation\nColumn under main operator contains both ’T’s and ’F’s\n\n\nInconsistent\nTrue on no valuations\nColumn under main operator contains only ’F’s\n\n\n\n\n\n\n\n\n\n\n\n\nType of set\nDefinition\nTruth Table Indication\n\n\n\n\n\nConsistent\nThere is at least one valuation on which all formulas in the set are true\nThere is at least on Horizontal line on which all formulas in the set have ’T’s under their main operators\n\n\n\nInconsistent\nThere is no valuation on which all formulas in the set are true\nThere is no horizontal line on which all formulas in the set have ’T’s under their main operators",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04",
+      "💻 Study Guide"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/page.html",
+    "href": "2026_logic/weeks/week12-functions/page.html",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "",
+    "text": "42\nFunctions\n391",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week12-functions/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/page.html#coursework",
+    "href": "2026_logic/weeks/week12-functions/page.html#coursework",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week12-functions/page.html#recommended-reading",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/page.html#communication",
+    "href": "2026_logic/weeks/week12-functions/page.html#communication",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week12-functions/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#we-have",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#he-either",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/summary.html#or",
+    "href": "2026_logic/weeks/week10-q-validity/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/page.html",
+    "href": "2026_logic/weeks/week08-predicates/page.html",
+    "title": "🗓️ Week 08 - Translations and QL Proofs",
+    "section": "",
+    "text": "29\nSimple translations\n271\n\n\n30\nMore on translations\n282\n\n\n\nInterlude: Arguing in QL\n290\n\n\n31\nInformal quantifier rules\n293\n\n\n32\nQL proofs\n299",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week08-predicates/page.html#lecture-slides",
+    "title": "🗓️ Week 08 - Translations and QL Proofs",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/page.html#coursework",
+    "href": "2026_logic/weeks/week08-predicates/page.html#coursework",
+    "title": "🗓️ Week 08 - Translations and QL Proofs",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week08-predicates/page.html#recommended-reading",
+    "title": "🗓️ Week 08 - Translations and QL Proofs",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/page.html#communication",
+    "href": "2026_logic/weeks/week08-predicates/page.html#communication",
+    "title": "🗓️ Week 08 - Translations and QL Proofs",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week08-predicates/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/summary.html#informal-inferences",
+    "href": "2026_logic/weeks/week16_final-review/summary.html#informal-inferences",
+    "title": "Blah Stuff",
+    "section": "Informal Inferences",
+    "text": "Informal Inferences\nWhich of the following arguments are valid? Where an argument is valid, sketch an informal proof.\n\nOnly medical school graduates are good doctors. No existentialists are medical school graduates. Some existentialists are French doctors. So, some French doctors are not good doctors.\nEverything that happens is determined by a prior event. No action should be punished if the agent isn’t responsible for it. Agents are only responsible for actions they can avoid doing. Hence no action should be punished."
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/page.html",
+    "href": "2026_logic/weeks/week13/page.html",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "",
+    "text": "42\nFunctions\n391",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week13/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/page.html#coursework",
+    "href": "2026_logic/weeks/week13/page.html#coursework",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week13/page.html#recommended-reading",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/page.html#communication",
+    "href": "2026_logic/weeks/week13/page.html#communication",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week13/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#we-have",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#he-either",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/summary.html#or",
+    "href": "2026_logic/weeks/week11-ql-language/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/page.html",
+    "href": "2026_logic/weeks/week05/page.html",
+    "title": "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation",
+    "section": "",
+    "text": "17\nExplosion and absurdity\n145\n\n\n18\nThe truth-functional conditional\n148\n\n\n19\n’If’s and ’→’s\n162\n\n\n\nInterlude: Why natural deduction?\n172\n\n\n20\nPL proofs: conjunction and negation\n174",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week05/page.html#lecture-slides",
+    "title": "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/page.html#coursework",
+    "href": "2026_logic/weeks/week05/page.html#coursework",
+    "title": "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week05/page.html#recommended-reading",
+    "title": "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/page.html#communication",
+    "href": "2026_logic/weeks/week05/page.html#communication",
+    "title": "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/page.html",
+    "href": "2026_logic/weeks/week15/page.html",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "",
+    "text": "42\nFunctions\n391",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week15/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/page.html#coursework",
+    "href": "2026_logic/weeks/week15/page.html#coursework",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week15/page.html#recommended-reading",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/page.html#communication",
+    "href": "2026_logic/weeks/week15/page.html#communication",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week15/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/slides.html#syntax",
+    "href": "2026_logic/weeks/week02/slides.html#syntax",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Syntax",
+    "text": "Syntax\n\nExplain notions like\n\nitemize\ndeduction, deductive validity;\nlogical consistency;\ninduction, inference to best explanation.\n\nIntroduce tests for validity, provide tools for fallacy-spotting, etc.\nFamiliarize you with logical symbolism – i.e. give a ‘reading knowledge’ of some of the languages of logic."
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/slides.html#style",
+    "href": "2026_logic/weeks/week02/slides.html#style",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Style",
+    "text": "Style\n\\[\\begin{prooftree}\n\\rootAtTop\n\\AxiomC{A}\n\\AxiomC{F}\n\\BinaryInfC{P}\n\\AxiomC{Q}\n\\AxiomC{$\\lnot R$}\n\\BinaryInfC{$Q \\vee \\lnot R$}\n\\BinaryInfC{$P \\vee (Q \\vee \\lnot R)$}\n\\end{prooftree}\\]"
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/slides.html#natural-deduction-example",
+    "href": "2026_logic/weeks/week02/slides.html#natural-deduction-example",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Natural Deduction Example",
+    "text": "Natural Deduction Example\n\\[\\begin{prooftree}\n  \\AxiomC{$A \\to B$}\n  \\AxiomC{$A$}\n  \\BinaryInfC{$B$}\n\\end{prooftree}\n\\]"
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/slides.html#test",
+    "href": "2026_logic/weeks/week02/slides.html#test",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Test",
+    "text": "Test\n\\[\\begin{prooftree}\n  \\AxiomC{$A \\to B$}\n  \\AxiomC{$A$}\n  \\BinaryInfC{$B$}\n  \\AxiomC{$B \\to C$}\n  \\BinaryInfC{$C$}\n  \\RightLabel{($\\to$-E)}\n  \\UnaryInfC{$D$}\n  \\AxiomC{$A \\to B$}\n\\end{prooftree}\\]"
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html",
+    "href": "2026_logic/weeks/week07/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week07/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week07/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week07/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#we-have",
+    "href": "2026_logic/weeks/week07/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week07/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week07/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#he-either",
+    "href": "2026_logic/weeks/week07/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week07/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week07/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week07/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week07/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week07/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week07/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week07/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week07/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week07/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week07/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week07/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/summary.html#or",
+    "href": "2026_logic/weeks/week07/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/index.html",
+    "href": "2026_logic/index.html",
+    "title": "PHIL101B - Introduction to Logic",
+    "section": "",
+    "text": "Important📢 Important\n\n\n\n\n\n(01/16/2026)\nDownload the Text Book Here!\nAccess Additional Logic Resources Here!\nDownload the Syllabus Here!\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching StaffSyllabus\n\n\n Reynolds  Dr. Monty Reynolds Stetson University 📧 mreynolds1@stetson.edu ( at )\nOffice Hours:\n\nWhen: TTH 1-2pm or by appointment\nWhere: Elizabeth Hall 104\nHow to book: Drop in, email, or book via Microsoft Bookings\n\n\n\n Grey Smith  Student Peer Instructor 📧 asmith112@stetson.edu ( at )\n TA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\n\n\n\n\nSlides\n\n\n\n\n\n\nLearning Outcomes\nThrough this course students will:\n\nLearn basic logical concepts and principles of good reasoning.\nUnderstand logical form and truth functional logic.\nLearn techniques for translating sentences into logical notion and determining the validity of arguments.\nLearn truth tables and other means of determining the validity of arguments stated in sentential logical notation.\n\n\n\n\n📍 Lecture\nSee Class Times Below\n\n\n💻 Class Meeting Times\n\n\nPhil 101B (7951)\n\n📆 Mondays and Wednesdays\n⌚ 9:00am - 10:15pm\n\n\nPhil 101B (8012)\n\nTuesdays and Thursdays\n⌚ 10:00am - 11:15am"
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/slides.html#proofs",
+    "href": "2026_logic/weeks/week07/slides.html#proofs",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Proofs",
+    "text": "Proofs\n\nbreak down any valid sequent in propositional logic into a sequence of simple and (more or less) obviously valid patterns of reasoning. Such sequences, as exemplified by lines 1-8 above, are called proofs\n\n\nNatural Deduction Method\n\nTen distinct patterns of reasoning / rules of inference / inference rules\nThe proof technique is Sound\n\nIf we start with true assumptions on some valuation,\nwe shall always, no matter how many times we apply these rules, arrive at conclusions that are likewise true on that valuation.\n\nAnd complete\n\ncomplete, i.e., capable of providing a proof for every valid sequent of propositional logic. ## Modus Ponens\n\n\nGiven \\(\\phi\\rightarrow\\psi\\), and \\(\\phi\\), infer \\(\\psi\\)"
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/page.html",
+    "href": "2026_logic/weeks/week07/page.html",
+    "title": "🗓️ Week 07 - QL, Predicate Lanaguages",
+    "section": "",
+    "text": "25\nNames and predicates\n230\n\n\n26\nQuantifiers in ordinary language\n240\n\n\n27\nQuantifier-variable notation\n249\n\n\n28\nQL languages\n258",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week07/page.html#lecture-slides",
+    "title": "🗓️ Week 07 - QL, Predicate Lanaguages",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/page.html#coursework",
+    "href": "2026_logic/weeks/week07/page.html#coursework",
+    "title": "🗓️ Week 07 - QL, Predicate Lanaguages",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week07/page.html#recommended-reading",
+    "title": "🗓️ Week 07 - QL, Predicate Lanaguages",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week07/page.html#communication",
+    "href": "2026_logic/weeks/week07/page.html#communication",
+    "title": "🗓️ Week 07 - QL, Predicate Lanaguages",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/page.html",
+    "href": "2026_logic/weeks/week02/page.html",
+    "title": "🗓️ Week 02 - Concepts",
+    "section": "",
+    "text": "5\nThe counterexample method\n39\n\n\n6\nLogical validity\n44\n\n\n7\nPropositions and forms\n52\n\n\n\nInterlude: From informal to formal logic\n59\n\n\n8\nThree connectives\n61",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week02/page.html#lecture-slides",
+    "title": "🗓️ Week 02 - Concepts",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/page.html#coursework",
+    "href": "2026_logic/weeks/week02/page.html#coursework",
+    "title": "🗓️ Week 02 - Concepts",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week02/page.html#recommended-reading",
+    "title": "🗓️ Week 02 - Concepts",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week02/page.html#communication",
+    "href": "2026_logic/weeks/week02/page.html#communication",
+    "title": "🗓️ Week 02 - Concepts",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html",
+    "href": "2026_logic/weeks/week15/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week15/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week15/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week15/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#we-have",
+    "href": "2026_logic/weeks/week15/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week15/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week15/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#he-either",
+    "href": "2026_logic/weeks/week15/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week15/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week15/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week15/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week15/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week15/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week15/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week15/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week15/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week15/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week15/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week15/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week15/summary.html#or",
+    "href": "2026_logic/weeks/week15/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/slides.html#our-terms",
+    "href": "2026_logic/weeks/week05/slides.html#our-terms",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Our Terms",
+    "text": "Our Terms\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nSemantics\nStudy of Meaning\n\n\nTruth Conditions\nConditions on which a proposition is true or false\n\n\nTruth Value\nT or F, A kind of semantic property that chacterizes propositions\n\n\nPrinciple of Bivalence\nEvery proposition has exactly one of the two truth values, T or F\n\n\nAssertibility Conditions\nConditions under which a proposition can be asserted\n\n\nInterpretations\nAssociation of sentence letters with statements of natural language\n\n\nValuation\nA formula or set of formulas of propositional logic is an assignment of one and only one of the truth values T and F to each of the sentence letters occuring in that formula or any formula of that set"
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/slides.html#when-an-argument-form-has-more-than-2-letters",
+    "href": "2026_logic/weeks/week05/slides.html#when-an-argument-form-has-more-than-2-letters",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "When an argument form has more than 2 letters",
+    "text": "When an argument form has more than 2 letters\n\nIf either the peasants or the slaves revolt and the queen hesitates, then the revolution will succeed.\n\n\nIf the peasants revolt but the slaves don’t, the revolution will not succeed, and if both the peasants and slaves revolt, the revolution will succeed."
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/slides.html#type-of-set-consistent",
+    "href": "2026_logic/weeks/week05/slides.html#type-of-set-consistent",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "1. Type of set: Consistent",
+    "text": "1. Type of set: Consistent\n\nDefinition: There is at least one valuation on which all formulas in the set are true\nTruth Table Indication: Horizontal line on which all formulas in the set have ’T’s under their main operators"
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/slides.html#type-of-set-inconsistent",
+    "href": "2026_logic/weeks/week05/slides.html#type-of-set-inconsistent",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "2. Type of set: Inconsistent",
+    "text": "2. Type of set: Inconsistent\n\nDefinition: There is no valuation on which all formulas in the set are true\nTruth Table Indication: There is no horizontal line on which all formulas in the set have ’T’s under their main operators"
+  },
+  {
+    "objectID": "2026_logic/weeks/week05/slides.html#logically-equivalent-formulas",
+    "href": "2026_logic/weeks/week05/slides.html#logically-equivalent-formulas",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Logically Equivalent Formulas",
+    "text": "Logically Equivalent Formulas\n\n\n\nP\nQ\n~\n(\nP\nv\nQ\n)\n~\nP\n&\n~\nQ\n\n\n\nT\nT\nF\n\nT\nT\nT\n\nF\n\nF\n\nF\n\n\n\nT\nF\nF\n\nT\nT\nF\n\nF\n\nF\n\nT\n\n\n\nF\nT\nF\n\nF\nT\nT\n\nT\n\nF\n\nF\n\n\n\nF\nF\nT\n\nF\nF\nF\n\nT\n\nT\n\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week11-ql-language/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/page.html",
+    "href": "2026_logic/weeks/week11-ql-language/page.html",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "",
+    "text": "39\nQL=Languages\n367\n\n\n40\nDefinite Descriptions\n375\n\n\n41\nQL=Proofs\n382",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week11-ql-language/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/page.html#coursework",
+    "href": "2026_logic/weeks/week11-ql-language/page.html#coursework",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week11-ql-language/page.html#recommended-reading",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week11-ql-language/page.html#communication",
+    "href": "2026_logic/weeks/week11-ql-language/page.html#communication",
+    "title": "🗓️ Week 11 - QL-Language",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html",
+    "href": "2026_logic/weeks/week13/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week13/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week13/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week13/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#we-have",
+    "href": "2026_logic/weeks/week13/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week13/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week13/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#he-either",
+    "href": "2026_logic/weeks/week13/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week13/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week13/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week13/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week13/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week13/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week13/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week13/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week13/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week13/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week13/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week13/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week13/summary.html#or",
+    "href": "2026_logic/weeks/week13/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/slides.html#chapter-3",
+    "href": "2026_logic/weeks/week16_final-review/slides.html#chapter-3",
+    "title": "🗓️ Final Review Classical Predicate Logic",
+    "section": "Chapter 3",
+    "text": "Chapter 3\nSemantic Trees\n\nA Semantic tree is a device for displaying all the valuations on which a formula or set of formulas is true. [Nolt’s, 65]"
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/page.html",
+    "href": "2026_logic/weeks/week16_final-review/page.html",
+    "title": "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules",
+    "section": "",
+    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week16_final-review/page.html#lecture-slides",
+    "title": "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/page.html#coursework",
+    "href": "2026_logic/weeks/week16_final-review/page.html#coursework",
+    "title": "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week16_final-review/page.html#recommended-reading",
+    "title": "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week16_final-review/page.html#communication",
+    "href": "2026_logic/weeks/week16_final-review/page.html#communication",
+    "title": "🗓️ Week 02 - Argument Forms, Formalization, Formation Rules",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html",
+    "href": "2026_logic/weeks/week08-predicates/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#we-have",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#he-either",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . .",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week08-predicates/summary.html#or",
+    "href": "2026_logic/weeks/week08-predicates/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 08",
+      "💻 Notes and Summary"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/slides.html#some-exercises",
+    "href": "2026_logic/weeks/week10-q-validity/slides.html#some-exercises",
+    "title": "🗓️ Week 08 Classical Predicate Logic",
+    "section": "Some Exercises",
+    "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/page.html",
+    "href": "2026_logic/weeks/week10-q-validity/page.html",
+    "title": "🗓️ Week 10 - Q-Validity",
+    "section": "",
+    "text": "36\nQ-Validity\n346\n\n\n37\nQL Proofs, metatheory\n354\n\n\nInterlude: Extending QL\n359\n\n\n\n38\nIdentity\n361",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "👨‍🏫 Lecture Material/Propositional Logic Semantics"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week10-q-validity/page.html#lecture-slides",
+    "title": "🗓️ Week 10 - Q-Validity",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "👨‍🏫 Lecture Material/Propositional Logic Semantics"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/page.html#coursework",
+    "href": "2026_logic/weeks/week10-q-validity/page.html#coursework",
+    "title": "🗓️ Week 10 - Q-Validity",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "👨‍🏫 Lecture Material/Propositional Logic Semantics"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week10-q-validity/page.html#recommended-reading",
+    "title": "🗓️ Week 10 - Q-Validity",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "👨‍🏫 Lecture Material/Propositional Logic Semantics"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week10-q-validity/page.html#communication",
+    "href": "2026_logic/weeks/week10-q-validity/page.html#communication",
+    "title": "🗓️ Week 10 - Q-Validity",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 09 Quantified Logic",
+      "👨‍🏫 Lecture Material/Propositional Logic Semantics"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html",
+    "href": "2026_logic/weeks/week12-functions/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week12-functions/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week12-functions/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week12-functions/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#we-have",
+    "href": "2026_logic/weeks/week12-functions/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week12-functions/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week12-functions/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#he-either",
+    "href": "2026_logic/weeks/week12-functions/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week12-functions/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week12-functions/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week12-functions/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week12-functions/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week12-functions/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week12-functions/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week12-functions/summary.html#or",
+    "href": "2026_logic/weeks/week12-functions/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#semantics",
+    "href": "2026_logic/weeks/week04/slides.html#semantics",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Semantics",
+    "text": "Semantics\n\nSemantics is the Study of Meaning\n\n\n\nHow do you define meaning?\nHow does the book define meaning?\n\n\nThe logical meaning of an expression is usually understood as its contribution to the truth or falsity of sentences in which it occurs. [31]\n\n\nMeaning is a characterization of the meaning of the use of logical operators within a given sentence.\n\nWhat this correlates to, I think, is a question about how a logical operator attirbutes truth or falsehood to a sentence.\nFor instance, in what situations would the sentence “James knows that God exists” be true?\nHow might we imagine various sentences that confirm the truth of P?\n\nOne day, I asked James ‘do you know who God is?’ He said yes and then pointed down at a rock. I then asked James ‘does God exist?’ Again he pointed down at the rock and said yes, ‘God exists’.\n\nIs the sentence ‘James knows God exists’, true in this situation?\nIn otherwords, the meaning of a term is its ‘truth conditions’\nWhat are truth conditions? The meaning of a term. Conditions on which a proposition is true or false.\n\nThe truth conditions for a term are rules which specify the possible situations in which sentences containing that term are true and the possible situations in which sentences containing that term are false.\n\n\nIn this section, we will give the truth-conditional semantics for the five logical operators introduced in the previous section."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#truth-conditions",
+    "href": "2026_logic/weeks/week04/slides.html#truth-conditions",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Truth Conditions",
+    "text": "Truth Conditions\n\nThe truth value of a conjunction is T in a given situation iff the truth value of each of its conjuncts is T in that situation.\n\nand\n\nThe truth value of a conjunction is F in a given situation iff one or both of its conjuncts does not have the value T in that situation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#how-do-the-truth-values-of-sentences-containing-a-given-logical-operator-depend-on-the-truth-values-of-their-components.",
+    "href": "2026_logic/weeks/week04/slides.html#how-do-the-truth-values-of-sentences-containing-a-given-logical-operator-depend-on-the-truth-values-of-their-components.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "How do the truth values of sentences containing a given logical operator depend on the truth values of their components.",
+    "text": "How do the truth values of sentences containing a given logical operator depend on the truth values of their components.\n\nAs we have seen, a valuation is a pattern of truth values."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#weve-seen-this-before",
+    "href": "2026_logic/weeks/week04/slides.html#weve-seen-this-before",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "We’ve seen this before:",
+    "text": "We’ve seen this before:\n\nThe truth value of a conjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of each of its conjuncts is T in that situation.\n\nand\n\nThe truth value of a conjunction is F \\(\\underline{\\text{on a given valuation}}\\) iff one or both of its conjuncts does not have the value T in that situation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#valuation-rules",
+    "href": "2026_logic/weeks/week04/slides.html#valuation-rules",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Valuation Rules",
+    "text": "Valuation Rules\n\nBecause these more abstract truth conditions are stated in terms of valuations, they are often referred to as valuation rules."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#as-weve-seen",
+    "href": "2026_logic/weeks/week04/slides.html#as-weve-seen",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "As we’ve seen,",
+    "text": "As we’ve seen,\n\n\\(\\upsilon\\) stands for valuation\n\nand\n\nGreek letters stand for formulas"
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#so-instead-of-writing",
+    "href": "2026_logic/weeks/week04/slides.html#so-instead-of-writing",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "So instead of writing,",
+    "text": "So instead of writing,\n\nThe truth value of a conjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of each of its conjuncts is T on that valuation.\n\n\nor\n\n\nThe truth value of a disjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of at least one of its disjuncts is T on that valuation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#where",
+    "href": "2026_logic/weeks/week04/slides.html#where",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Where",
+    "text": "Where\n\n\\(\\upsilon\\)(\\(\\phi\\)) = T\n\n\nand\n\n\n\\(\\upsilon\\)(\\(\\psi\\)) = T"
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#and",
+    "href": "2026_logic/weeks/week04/slides.html#and",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "and",
+    "text": "and\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = F or \\(\\upsilon\\)(\\(\\psi\\)) = F, or both.\nor\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both.\n\n\nIf you read the footnote, you’d realize I did it the other way.\n\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#finally-truth-tables",
+    "href": "2026_logic/weeks/week04/slides.html#finally-truth-tables",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Finally, Truth Tables",
+    "text": "Finally, Truth Tables\nIn tabular form, the previous rules can be expressed in the following way:\n\n\n\n\\(\\phi\\)\n\\(\\psi\\)\n(\\(\\phi\\)\n\\(\\&\\)\n\\(\\psi\\))\n\n\n\n\nT\nT\n\nT\n\n\n\nT\nF\n\nF\n\n\n\nF\nT\n\nF\n\n\n\nF\nF\n\nF"
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#truth-conditions-for-the-negation-operator",
+    "href": "2026_logic/weeks/week04/slides.html#truth-conditions-for-the-negation-operator",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Truth Conditions for the Negation Operator",
+    "text": "Truth Conditions for the Negation Operator\n\\(\\upsilon\\)(\\(\\neg\\phi\\)) = T iff \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T.\n\\(\\upsilon\\)(\\(\\neg\\phi\\)) = F iff \\(\\upsilon\\)(\\(\\phi\\)) = T.\n\n\n\n\\(\\phi\\)\n\\(\\neg\\phi\\)\n\n\n\n\n\n\n\n\nT\nF\n\n\n\n\n\n\nF\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#disjunction-or",
+    "href": "2026_logic/weeks/week04/slides.html#disjunction-or",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Disjunction, ‘Or’",
+    "text": "Disjunction, ‘Or’\nInclusive\n\nEither . . . or . . ., possibly both\n\nExclusive\n\nEither . . . or . . ., not both\n\n\nFour is both even and square, so\nFour is either an even number or a square number, or both.\nSo you can mark it both wrong and right."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#upsilonphi-lor-psi-t-iff-underlinetexteither-upsilonphi-t-or-upsilonpsi-t-or-both.",
+    "href": "2026_logic/weeks/week04/slides.html#upsilonphi-lor-psi-t-iff-underlinetexteither-upsilonphi-t-or-upsilonpsi-t-or-both.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) = T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = T or \\(\\upsilon\\)(\\(\\psi\\)) = T, or both.",
+    "text": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) = T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = T or \\(\\upsilon\\)(\\(\\psi\\)) = T, or both."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/slides.html#upsilonphi-lor-psi-neq-t-iff-underlinetexteither-upsilonphi-neq-t-or-upsilonpsi-neq-t-or-both.",
+    "href": "2026_logic/weeks/week04/slides.html#upsilonphi-lor-psi-neq-t-iff-underlinetexteither-upsilonphi-neq-t-or-upsilonpsi-neq-t-or-both.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) \\(\\neq\\) T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both.",
+    "text": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) \\(\\neq\\) T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both."
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/page.html",
+    "href": "2026_logic/weeks/week04/page.html",
+    "title": "🗓️ Week 04 - Entailment, Tautologies",
+    "section": "",
+    "text": "13\nExpressive adequacy\n113\n\n\n14\nTautologies\n120\n\n\n15\nTautological entailment\n127\n\n\n16 More about tautological entailment\n137",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week04/page.html#lecture-slides",
+    "title": "🗓️ Week 04 - Entailment, Tautologies",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/page.html#coursework",
+    "href": "2026_logic/weeks/week04/page.html#coursework",
+    "title": "🗓️ Week 04 - Entailment, Tautologies",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week04/page.html#recommended-reading",
+    "title": "🗓️ Week 04 - Entailment, Tautologies",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week04/page.html#communication",
+    "href": "2026_logic/weeks/week04/page.html#communication",
+    "title": "🗓️ Week 04 - Entailment, Tautologies",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html",
+    "href": "2026_logic/weeks/week14/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week14/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week14/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week14/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#we-have",
+    "href": "2026_logic/weeks/week14/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week14/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week14/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#he-either",
+    "href": "2026_logic/weeks/week14/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week14/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week14/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week14/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week14/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week14/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week14/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week14/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week14/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week14/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week14/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week14/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week14/summary.html#or",
+    "href": "2026_logic/weeks/week14/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#valuation-rules",
+    "href": "2026_logic/weeks/week06/slides.html#valuation-rules",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Valuation Rules",
+    "text": "Valuation Rules\n\nValuation Rules"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week06/slides.html#whats-the-point-in-all-of-this",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "What’s the point in all of this?",
+    "text": "What’s the point in all of this?\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#we-have",
+    "href": "2026_logic/weeks/week06/slides.html#we-have",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week06/slides.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week06/slides.html#any-one-of-these-can-be-true",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#he-either",
+    "href": "2026_logic/weeks/week06/slides.html#he-either",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week06/slides.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week06/slides.html#semantic-properties-we-can-test-for",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\nSemantic Properties"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week06/slides.html#this-is-an-argument",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week06/slides.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death."
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week06/slides.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week06/slides.html#is-it-possible-for-.-.-.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week06/slides.html#will-our-paths-close-like-this",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week06/slides.html#then-look-at-the-main-operator-.-.-.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week06/slides.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week06/slides.html#in-other-words-.-.-.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#this-means-that",
+    "href": "2026_logic/weeks/week06/slides.html#this-means-that",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#or",
+    "href": "2026_logic/weeks/week06/slides.html#or",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#lets-imagine-that-this-is-an-argument",
+    "href": "2026_logic/weeks/week06/slides.html#lets-imagine-that-this-is-an-argument",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Let’s Imagine that this is an Argument",
+    "text": "Let’s Imagine that this is an Argument\n\nI was supposed to be sent away But they forgot to come and get me I was a functioning alcoholic ’Til nobody noticed my new aesthetic All of this to say I hope you’re okay But you’re the reason And no one here’s to blame But what about your quiet treason?\n\n\nWe first want to ask ourselves what is the conclusion?\nThere are several ways to do this. First, we attempt to recognize those sentences which most closely proximate a claim.\n\nThen we want to order these according to premises and conclusions.\nAnd also there are subconclusions.\nThese are conclusions that act as premises for more fundamental conclusions."
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/slides.html#maybe-this-will-help",
+    "href": "2026_logic/weeks/week06/slides.html#maybe-this-will-help",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Maybe this will help",
+    "text": "Maybe this will help\n[Chorus: Taylor Swift]\n\nAnd for a fortnight there, we were forever Run into you sometimes, ask about the weather Now you’re in my backyard, turned into good neighbors Your wife waters flowers, I wanna kill her"
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/page.html",
+    "href": "2026_logic/weeks/week06/page.html",
+    "title": "🗓️ Week 06 - Argument Forms, Formalization, Formation Rules",
+    "section": "",
+    "text": "21\nPL proofs: disjunction\n191\n\n\n22\nPL proofs: conditionals\n203\n\n\n23\nPL proofs: theorems\n211\n\n\n24\nPL proofs: metatheory\n216\n\n\n\nInterlude: Formalizing general propositions\n228",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/page.html#lecture-slides",
+    "href": "2026_logic/weeks/week06/page.html#lecture-slides",
+    "title": "🗓️ Week 06 - Argument Forms, Formalization, Formation Rules",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/page.html#coursework",
+    "href": "2026_logic/weeks/week06/page.html#coursework",
+    "title": "🗓️ Week 06 - Argument Forms, Formalization, Formation Rules",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/page.html#recommended-reading",
+    "href": "2026_logic/weeks/week06/page.html#recommended-reading",
+    "title": "🗓️ Week 06 - Argument Forms, Formalization, Formation Rules",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/page.html#communication",
+    "href": "2026_logic/weeks/week06/page.html#communication",
+    "title": "🗓️ Week 06 - Argument Forms, Formalization, Formation Rules",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html",
+    "href": "2026_logic/weeks/week09-QLs/summary.html",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy\n\n\n\n\n\n\n\n\n\n\nnegation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional\n\n\n\n\n\nConsider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#valuation-rules-hard",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#valuation-rules-hard",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "See? Hard\n\n\n\n\n\n\nSee? Easy"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#valuation-rules-easy",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#valuation-rules-easy",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "negation  negated negation  conjunction  negated conjunction  disjunction  negated disjunction  conditional  negated conditional  biconditional  negated bi-conditional"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#whats-the-point-in-all-of-this",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#whats-the-point-in-all-of-this",
+    "title": "Classical Propositional Logic",
+    "section": "",
+    "text": "Consider the following proposition:"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#we-have",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#we-have",
+    "title": "Classical Propositional Logic",
+    "section": "We have",
+    "text": "We have\nA number of formulas that together form the proposition below. (Formula is a fancy way of saying ‘claim’)\nClaim / Formula: P \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#this-claim-formula-is-made-up-of-the-following-claims-formulas",
+    "title": "Classical Propositional Logic",
+    "section": "This claim / formula is made up of the following claims / formulas:",
+    "text": "This claim / formula is made up of the following claims / formulas:\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#any-one-of-these-can-be-true",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#any-one-of-these-can-be-true",
+    "title": "Classical Propositional Logic",
+    "section": "Any one of these can be true,",
+    "text": "Any one of these can be true,\nOr . . . they can all be true. What we ultimately want to know, is whether together, they make a true proposition, that if:\n\nJim stole the cookie,\n\nThen\n\nJim is guilty,\n\nand"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#he-either",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#he-either",
+    "title": "Classical Propositional Logic",
+    "section": "He either",
+    "text": "He either\n\ndeserves life in prison,"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#but-there-are-many-other-claims-as-well-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "But there are many other claims as well . . .",
+    "text": "But there are many other claims as well . . .\n\nIf Jim stole the cookie, then he is guilty.\n\nThis claim is an independent one.\n\nJim is guilty and deserves either life in prison, or death\nHe deserves life in prison or he deserves death\n\nThese are all independent claims\n\nWhat we want to know, is whether any of them acts as a logical contradiction, or fail in some other way when combined with the others. Consider the two claims below:\n\n‘The boy is tall’\n‘The boy is not tall’"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#semantic-properties-we-can-test-for",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#semantic-properties-we-can-test-for",
+    "title": "Classical Propositional Logic",
+    "section": "4 Semantic properties we can test for",
+    "text": "4 Semantic properties we can test for\n\n\n\nSemantic Properties\n\n\n\n\nValid: The formula or sequent (argument), is true on all valuations. No counter examples (open paths)\nContingent: True on at least one, but not all valuations. (At least one open path, but not all)\nInconsistent: True on no valuations. All paths are closed.\nConsistent: At least one valuation where all formulas are true. (Open paths show valuations that make the formula or set of formulas true)\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nValid Sequent\nThere are no counter examples\nNo Open Paths\n\n\nInvalid Sequent\nThere is at least one valuation where the sequent is not true\nAt least one open path\n\n\nValid Formula\nThe formula is true on all its valuations (T under main operator)\nAll the paths are closed\n\n\nInvalid\nThere is at least one valuation on which the formula is False\nOpen paths display valuations on which formula is false\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType of Formula\nDefinition\nTruth Tree Result\n\n\n\n\nContingent\nTrue on at least one, but not all valuations\nAt least one open path, but not all\n\n\nInconsistent\nNot true on any valuations\nAll paths are closed\n\n\nConsistent\nAt least one valuation where all formulas are true\nOpen paths show valuations that make the formula or set of formulas true"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#this-is-an-argument",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#this-is-an-argument",
+    "title": "Classical Propositional Logic",
+    "section": "This is an argument",
+    "text": "This is an argument"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#jim-is-guilty-and-deserves-life-in-prison-or-death",
+    "title": "Classical Propositional Logic",
+    "section": "Jim is guilty and deserves life in prison or death",
+    "text": "Jim is guilty and deserves life in prison or death\nIf Jim stole the cookie, then Jim is guilty and either he deserves life in prison or he deserves death.\nJim did steal the cookie.\nTherefore, Jim is guilty and either he deserves life in prison or he deserves death.\n\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))\nP\nTherefore,\n(Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#however-we-are-only-looking-at-a-formula-a-single-claim.-not-an-argument.",
+    "title": "Classical Propositional Logic",
+    "section": "However, we are only looking at a formula, a single claim. Not an argument.",
+    "text": "However, we are only looking at a formula, a single claim. Not an argument.\n\nAn argument has a premise\nAnd an argument has a conclusion\nOurs is a single claim"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#is-it-possible-for-.-.-.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#is-it-possible-for-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Is it possible for . . .",
+    "text": "Is it possible for . . .\n\nThe claim that: ‘Jim stole the cookie’; ‘P’\nThe claim that: ‘Jim is guilty’; ‘Q’\nThe claim that: ‘Jim deserves life in prison’; ‘R’\nThe claim that: ‘Jim deserves death’; ‘S’\n\nTo all be true at the same time?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#will-our-paths-close-like-this",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#will-our-paths-close-like-this",
+    "title": "Classical Propositional Logic",
+    "section": "Will our paths close like this?",
+    "text": "Will our paths close like this?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#then-look-at-the-main-operator-.-.-.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#then-look-at-the-main-operator-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "Then look at the main operator . . .",
+    "text": "Then look at the main operator . . .\nP \\(\\rightarrow\\) (Q & (R \\(\\lor\\) S))"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#this-is-what-we-are-paying-attention-to-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "This is what we are paying attention to . . .",
+    "text": "This is what we are paying attention to . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#in-other-words-.-.-.",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#in-other-words-.-.-.",
+    "title": "Classical Propositional Logic",
+    "section": "In other words . . .",
+    "text": "In other words . . ."
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#this-means-that",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#this-means-that",
+    "title": "Classical Propositional Logic",
+    "section": "This means that",
+    "text": "This means that\n\n\n\n~ P\nQ\nR\nS\n\n\n\n\nT\nT\nT\nT\n\n\n\nor\n\n\n\nP\nQ\nR\nS\n\n\n\n\nF\nT\nT\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week09-QLs/summary.html#or",
+    "href": "2026_logic/weeks/week09-QLs/summary.html#or",
+    "title": "Classical Propositional Logic",
+    "section": "Or",
+    "text": "Or"
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#semantics",
+    "href": "2026_logic/weeks/week03/slides.html#semantics",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Semantics",
+    "text": "Semantics\n\nSemantics is the Study of Meaning\n\n\n\nHow do you define meaning?\nHow does the book define meaning?\n\n\nThe logical meaning of an expression is usually understood as its contribution to the truth or falsity of sentences in which it occurs. [31]\n\n\nMeaning is a characterization of the meaning of the use of logical operators within a given sentence.\n\nWhat this correlates to, I think, is a question about how a logical operator attirbutes truth or falsehood to a sentence.\nFor instance, in what situations would the sentence “James knows that God exists” be true?\nHow might we imagine various sentences that confirm the truth of P?\n\nOne day, I asked James ‘do you know who God is?’ He said yes and then pointed down at a rock. I then asked James ‘does God exist?’ Again he pointed down at the rock and said yes, ‘God exists’.\n\nIs the sentence ‘James knows God exists’, true in this situation?\nIn otherwords, the meaning of a term is its ‘truth conditions’\nWhat are truth conditions? The meaning of a term. Conditions on which a proposition is true or false.\n\nThe truth conditions for a term are rules which specify the possible situations in which sentences containing that term are true and the possible situations in which sentences containing that term are false.\n\n\nIn this section, we will give the truth-conditional semantics for the five logical operators introduced in the previous section."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#truth-conditions",
+    "href": "2026_logic/weeks/week03/slides.html#truth-conditions",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Truth Conditions",
+    "text": "Truth Conditions\n\nThe truth value of a conjunction is T in a given situation iff the truth value of each of its conjuncts is T in that situation.\n\nand\n\nThe truth value of a conjunction is F in a given situation iff one or both of its conjuncts does not have the value T in that situation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#how-do-the-truth-values-of-sentences-containing-a-given-logical-operator-depend-on-the-truth-values-of-their-components.",
+    "href": "2026_logic/weeks/week03/slides.html#how-do-the-truth-values-of-sentences-containing-a-given-logical-operator-depend-on-the-truth-values-of-their-components.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "How do the truth values of sentences containing a given logical operator depend on the truth values of their components.",
+    "text": "How do the truth values of sentences containing a given logical operator depend on the truth values of their components.\n\nAs we have seen, a valuation is a pattern of truth values."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#weve-seen-this-before",
+    "href": "2026_logic/weeks/week03/slides.html#weve-seen-this-before",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "We’ve seen this before:",
+    "text": "We’ve seen this before:\n\nThe truth value of a conjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of each of its conjuncts is T in that situation.\n\nand\n\nThe truth value of a conjunction is F \\(\\underline{\\text{on a given valuation}}\\) iff one or both of its conjuncts does not have the value T in that situation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#valuation-rules",
+    "href": "2026_logic/weeks/week03/slides.html#valuation-rules",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Valuation Rules",
+    "text": "Valuation Rules\n\nBecause these more abstract truth conditions are stated in terms of valuations, they are often referred to as valuation rules."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#as-weve-seen",
+    "href": "2026_logic/weeks/week03/slides.html#as-weve-seen",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "As we’ve seen,",
+    "text": "As we’ve seen,\n\n\\(\\upsilon\\) stands for valuation\n\nand\n\nGreek letters stand for formulas"
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#so-instead-of-writing",
+    "href": "2026_logic/weeks/week03/slides.html#so-instead-of-writing",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "So instead of writing,",
+    "text": "So instead of writing,\n\nThe truth value of a conjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of each of its conjuncts is T on that valuation.\n\n\nor\n\n\nThe truth value of a disjunction is T \\(\\underline{\\text{on a given valuation}}\\) iff the truth value of at least one of its disjuncts is T on that valuation."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#where",
+    "href": "2026_logic/weeks/week03/slides.html#where",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Where",
+    "text": "Where\n\n\\(\\upsilon\\)(\\(\\phi\\)) = T\n\n\nand\n\n\n\\(\\upsilon\\)(\\(\\psi\\)) = T"
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#and",
+    "href": "2026_logic/weeks/week03/slides.html#and",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "and",
+    "text": "and\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = F or \\(\\upsilon\\)(\\(\\psi\\)) = F, or both.\nor\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both.\n\n\nIf you read the footnote, you’d realize I did it the other way.\n\n\\(\\upsilon\\)(\\(\\phi\\) \\(\\&\\) \\(\\psi\\)) = F iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#finally-truth-tables",
+    "href": "2026_logic/weeks/week03/slides.html#finally-truth-tables",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Finally, Truth Tables",
+    "text": "Finally, Truth Tables\nIn tabular form, the previous rules can be expressed in the following way:\n\n\n\n\\(\\phi\\)\n\\(\\psi\\)\n(\\(\\phi\\)\n\\(\\&\\)\n\\(\\psi\\))\n\n\n\n\nT\nT\n\nT\n\n\n\nT\nF\n\nF\n\n\n\nF\nT\n\nF\n\n\n\nF\nF\n\nF"
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#truth-conditions-for-the-negation-operator",
+    "href": "2026_logic/weeks/week03/slides.html#truth-conditions-for-the-negation-operator",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Truth Conditions for the Negation Operator",
+    "text": "Truth Conditions for the Negation Operator\n\\(\\upsilon\\)(\\(\\neg\\phi\\)) = T iff \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T.\n\\(\\upsilon\\)(\\(\\neg\\phi\\)) = F iff \\(\\upsilon\\)(\\(\\phi\\)) = T.\n\n\n\n\\(\\phi\\)\n\\(\\neg\\phi\\)\n\n\n\n\n\n\n\n\nT\nF\n\n\n\n\n\n\nF\nT"
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#disjunction-or",
+    "href": "2026_logic/weeks/week03/slides.html#disjunction-or",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "Disjunction, ‘Or’",
+    "text": "Disjunction, ‘Or’\nInclusive\n\nEither . . . or . . ., possibly both\n\nExclusive\n\nEither . . . or . . ., not both\n\n\nFour is both even and square, so\nFour is either an even number or a square number, or both.\nSo you can mark it both wrong and right."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#upsilonphi-lor-psi-t-iff-underlinetexteither-upsilonphi-t-or-upsilonpsi-t-or-both.",
+    "href": "2026_logic/weeks/week03/slides.html#upsilonphi-lor-psi-t-iff-underlinetexteither-upsilonphi-t-or-upsilonpsi-t-or-both.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) = T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = T or \\(\\upsilon\\)(\\(\\psi\\)) = T, or both.",
+    "text": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) = T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) = T or \\(\\upsilon\\)(\\(\\psi\\)) = T, or both."
+  },
+  {
+    "objectID": "2026_logic/weeks/week03/slides.html#upsilonphi-lor-psi-neq-t-iff-underlinetexteither-upsilonphi-neq-t-or-upsilonpsi-neq-t-or-both.",
+    "href": "2026_logic/weeks/week03/slides.html#upsilonphi-lor-psi-neq-t-iff-underlinetexteither-upsilonphi-neq-t-or-upsilonpsi-neq-t-or-both.",
+    "title": "🗓️ Week 03 Introduction",
+    "section": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) \\(\\neq\\) T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both.",
+    "text": "\\(\\upsilon\\)(\\(\\phi\\) \\(\\lor\\) \\(\\psi\\)) \\(\\neq\\) T iff \\(\\underline{\\text{either}}\\) \\(\\upsilon\\)(\\(\\phi\\)) \\(\\neq\\) T or \\(\\upsilon\\)(\\(\\psi\\)) \\(\\neq\\) T, or both."
+  }
+]

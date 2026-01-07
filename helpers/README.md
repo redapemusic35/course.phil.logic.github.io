@@ -1,1 +1,0 @@
-This directory contains cheap hacks to hide the navigation bar and title from the home page of the website.
