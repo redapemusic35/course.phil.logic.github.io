@@ -10,7 +10,7 @@ format:
 
 ## Introduction
 
-Previously, this course used John Nolt's *Logics* as its text book. While I still believe that the heavy emphasis on formal logic is important, the book itself did not provide enough informal support for the students to grasp the concepts in an intuitive manner. I discovered Peter @smit21b's [*Logic Matters*](https://www.logicmatters.net/) towards the end of the semester. I recommeneded it to students as a supplementary reading and was pleased with the feedback and the improvement in their understanding. I am now relying on Smith's introductory text as the main text for this course, although I will contrast it with Nolt's more formal approach at various points.
+Previously, this course used John Nolt's *Logics* as its text book. While I still believe that the heavy emphasis on formal logic is important, it was not intuitive, and logic done well is intuitive. I discovered Peter @smit21b's [*Logic Matters*](https://www.logicmatters.net/) towards the end of the semester. I recommeneded it to students as a supplementary reading and was pleased with the feedback and the improvement in their understanding. I am now relying on Smith's introductory text as the main text for this course, although I will contrast it with Nolt's more formal approach at various points.
 
 ### 📑 Course Brief
 
