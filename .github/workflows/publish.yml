@@ -27,6 +27,8 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true  # This fixes the "No TeX installation detected" error
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -199,6 +199,7 @@ format:
       - css/custom_style.css
       - css/syllabus.css
     toc: true
+    pdf: default
     html:
     html-math-method: mathjax
     include-in-header:
