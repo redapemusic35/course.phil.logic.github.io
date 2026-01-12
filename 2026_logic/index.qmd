@@ -13,7 +13,7 @@ format: html
 
 [Access Additional Logic Resources Here!](https://www.logicmatters.net/ifl/)
 
-[Download the Syllabus Here!](./../_output/2026_logic/syllabus/index.pdf)
+[Download the Syllabus Here!](./weeks/syllabus.qmd)
 
 :::
 
@@ -47,10 +47,30 @@ Student Peer Instructor<br>
 ~~PhD Candidate at PLACE <br>~~
 ~~📧 [EMAIL](mailto:)~~
 
+## Course Schedule
 
-## Syllabus
+| Week | Unit | Topic | Pages |
+|---|---|---|---|
+| Week 1 |1 | What is deductive logic, validity and soundness? | 1-8 |
+| Week 2 | 4 | Proofs and counter examples, and logical validity | 28 |
+| Week 3 | 7 | Propositions, forms, and some syntax | 52 |
+| Week 4 | 9 | More syntax, some semantics, and form | 72 |
+| Week 5 | 12 | Truth functions, adequacy and tautologies | 104 |
+| Week 6 | 15 | Entailing tautologies, and absurdity | 127 |
+| Week 7 | 18 | The truth-functional conditionals and natural deduction | 148 |
+| Week 8 | 20 | Predicate proofs: conjunction, negation, disjunction and conditionals | 174 |
+| Week 9 | 23 | PL proofs: theorems, and metatheory | 211 |
+| Week 10 | 25 | Names, predicates, quantifiers, and variables | 230 |
+| Week 11 | 28 | QL languages, simple translations, and QL argumentation | 258 |
+| Week 12 || Interlude: Arguing in QL, informal QL rules, QL proofs | 290 |
+| Week 13 | 33 | More QL Proofs, empty domains, Q-Valuations | 315 |
+| Week 14 | 36 | Q-Validity | 346 |
+| | 37 | QL Proofs, metatheory | 354 |
+| Week 15 | 38 | Identity | 361 |
+| | 39 | QL=Languages | 367 |
+| | 40 | Definite Descriptions | 375 |
+| | 41 | QL=Proofs | 382 |
 
-![Slides](./../_output/2026_logic/syllabus/index.pdf){width=640px height=480px}
 :::
 
 ### Learning Outcomes
@@ -71,25 +91,8 @@ See Class Times Below
 
 # 💻 Class Meeting Times
 
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-**Phil 101B (7951)**
+**Phil 101B (5068)**
 
 - 📆 Mondays and Wednesdays
 - ⌚ 9:00am - 10:15pm
-
-:::
-
-::: {.column width="50%"}
-**Phil 101B (8012)**
-
-- Tuesdays and Thursdays
-- ⌚ 10:00am - 11:15am
-:::
-
-::::
-
 
