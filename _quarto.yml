@@ -22,9 +22,9 @@ website:
   sidebar:
     style: docked
     contents:
-      #- section: "Syllabus"
-        #contents:
-      #   - href: "./2026_logic/syllabus.qmd"
+      - section: "Syllabus"
+        contents:
+          - href: "./2026_logic/weeks/syllabus.qmd"
       - section: "🗓️ Logic"
         contents:
          - href: 2026_logic/weeks/week01/page.qmd
