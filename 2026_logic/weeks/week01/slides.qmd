@@ -28,92 +28,71 @@ format:
 |1 | What is deductive logic? | 1-8 |
 |2 | Validity and soundness | 9-19 |
 | 3 | Forms of inference | 20 |
-| 4 | Proofs | 28 |
 
----
+# What is an argument?
 
-| 5 | The counterexample method | 39 |
+::: {.notes}
 
-6 Logical validity 44
+As I mentioned previously, the most important component of this course, is being able to evaluate arguments for *internal* cogency. There is more than one kind of internal cogency however. Perhaps at a latter time, we will talk about these other kinds of internal cogency, but today and the foreceable future, we will be talking about ***logical validity***. Internal cogency and logical validity are what underlie the kinds "systematic" evaluations of arguments that we will learn about in this course. Once again, there are more than one of these.
 
-7 Propositions and forms 52
+## What is an argument?
 
-Interlude: From informal to formal logic 59
+## Kinds of Evaluation
 
-8 Three connectives 61
+## Deduction and Induction
 
-9 PL syntax 72
+## Argument Patterns
 
-10 PL semantics 81
+# Validity and Soundness
 
-11 ‘P’s, ‘Q’s, ‘α’s, ‘β’s – and form again 94
+## Defining Validity
 
-12 Truth functions 104
+## Consistency and Equivalency
 
-13 Expressive adequacy 113
+## Validity, Invalidity, and Truth
 
-14 Tautologies 120
+***The Invalidity Principle***
 
-15 Tautological entailment 127
+> The only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive
+validity is about the necessary preservation of truth – and therefore a valid
+inference step cannot take us from actually true premisses to an actually
+false conclusion. [@smit94, 13]
 
-16 More about tautological entailment 137
+## Inference and Argument
 
-17 Explosion and absurdity 145
+1. Whatever Donald Trump says is true.
+2. Donald Trump says that the Flying Spaghetti Monster exists.
 
-18 The truth-functional conditional 148
+So,
 
-19 ‘If’s and ‘→’s 162  Interlude: Why natural deduction? 172
+3. It is true that the Flying Spaghetti Monster exists.
 
-20 PL proofs: conjunction and negation 174
+#### Note three easy consequences of our definition of soundness:
 
-21 PL proofs: disjunction 191
+1. any sound argument has a true conclusion;
+2. no pair of sound arguments can have conclusions inconsistent with each
+other;
+3. no sound argument has inconsistent premisses.
 
-22 PL proofs: conditionals 203
+Why do these claims hold? For the following reasons:
 
-23 PL proofs: theorems 211
+4. A sound argument starts from true premisses and involves a necessarily truth-preserving inference move – so it must end up with a true
+conclusion.
+5. Since a pair of sound arguments will have a pair of true conclusions,
+this means that the conclusions are true together. If they actually are
+true together, then of course they can be true together. And if they
+can be true together then (by definition) the conclusions are consistent
+with each other.
+6. Since inconsistent premisses cannot all be true together, an argument
+starting from those premisses cannot satisfy the first of the conditions
+for being sound.
 
-24 PL proofs: metatheory 216  Interlude: Formalizing general propositions 228
+## Valid or True
 
-25 Names and predicates 230
+> Despite the common misuse of the terms, resolve to never again say that
+a premiss or conclusion or other proposition is ‘valid’ when you mean it is
+true. And never again say that an argument is ‘true’ when you mean that
+it is valid (or sound). [15]
 
-26 Quantifiers in ordinary language 240  v vi Contents
 
-27 Quantifier-variable notation 249
 
-28 QL languages 258
-
-29 Simple translations 271
-
-30 More on translations 282  Interlude: Arguing in QL 290
-
-31 Informal quantifier rules 293
-
-32 QL proofs 299
-
-33 More QL proofs 315
-
-34 Empty domains? 329
-
-35 Q-valuations 333
-
-36 Q-validity 346
-
-37 QL proofs: metatheory 354  Interlude: Extending QL 359
-
-38 Identity 361
-
-39 QL= languages 367
-
-40 Definite descriptions 375
-
-41 QL= proofs 382
-
-42 Functions 391
-
-Appendix : Soundness and completeness 402
-
-The Greek alphabet 412
-
-Further reading 413
-
-Index
