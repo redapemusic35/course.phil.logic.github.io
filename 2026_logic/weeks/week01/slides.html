@@ -180,62 +180,88 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
 <td>Forms of inference</td>
 <td>20</td>
 </tr>
-<tr class="even">
-<td>4</td>
-<td>Proofs</td>
-<td>28</td>
-</tr>
 </tbody>
 </table>
 </section>
-<section class="slide level2">
+<section>
+<section id="what-is-an-argument" class="title-slide slide level1">
+<h1>What is an argument?</h1>
 
-<div class="line-block">5 | The counterexample method | 39 |</div>
-<p>6 Logical validity 44</p>
-<p>7 Propositions and forms 52</p>
-<p>Interlude: From informal to formal logic 59</p>
-<p>8 Three connectives 61</p>
-<p>9 PL syntax 72</p>
-<p>10 PL semantics 81</p>
-<p>11 ’P’s, ’Q’s, ’α’s, ’β’s – and form again 94</p>
-<p>12 Truth functions 104</p>
-<p>13 Expressive adequacy 113</p>
-<p>14 Tautologies 120</p>
-<p>15 Tautological entailment 127</p>
-<p>16 More about tautological entailment 137</p>
-<p>17 Explosion and absurdity 145</p>
-<p>18 The truth-functional conditional 148</p>
-<p>19 ’If’s and ’→’s 162 Interlude: Why natural deduction? 172</p>
-<p>20 PL proofs: conjunction and negation 174</p>
-<p>21 PL proofs: disjunction 191</p>
-<p>22 PL proofs: conditionals 203</p>
-<p>23 PL proofs: theorems 211</p>
-<p>24 PL proofs: metatheory 216 Interlude: Formalizing general propositions 228</p>
-<p>25 Names and predicates 230</p>
-<p>26 Quantifiers in ordinary language 240 v vi Contents</p>
-<p>27 Quantifier-variable notation 249</p>
-<p>28 QL languages 258</p>
-<p>29 Simple translations 271</p>
-<p>30 More on translations 282 Interlude: Arguing in QL 290</p>
-<p>31 Informal quantifier rules 293</p>
-<p>32 QL proofs 299</p>
-<p>33 More QL proofs 315</p>
-<p>34 Empty domains? 329</p>
-<p>35 Q-valuations 333</p>
-<p>36 Q-validity 346</p>
-<p>37 QL proofs: metatheory 354 Interlude: Extending QL 359</p>
-<p>38 Identity 361</p>
-<p>39 QL= languages 367</p>
-<p>40 Definite descriptions 375</p>
-<p>41 QL= proofs 382</p>
-<p>42 Functions 391</p>
-<p>Appendix : Soundness and completeness 402</p>
-<p>The Greek alphabet 412</p>
-<p>Further reading 413</p>
-<p>Index</p>
+</section>
+<aside class="notes">
+<p>As I mentioned previously, the most important component of this course, is being able to evaluate arguments for <em>internal</em> cogency. There is more than one kind of internal cogency however. Perhaps at a latter time, we will talk about these other kinds of internal cogency, but today and the foreceable future, we will be talking about <strong><em>logical validity</em></strong>. Internal cogency and logical validity are what underlie the kinds “systematic” evaluations of arguments that we will learn about in this course. Once again, there are more than one of these.</p>
+<section id="what-is-an-argument-1" class="slide level2">
+<h2>What is an argument?</h2>
+</section>
+<section id="kinds-of-evaluation" class="slide level2">
+<h2>Kinds of Evaluation</h2>
+</section>
+<section id="deduction-and-induction" class="slide level2">
+<h2>Deduction and Induction</h2>
+</section>
+<section id="argument-patterns" class="slide level2">
+<h2>Argument Patterns</h2>
+</section>
+<section id="validity-and-soundness" class="title-slide slide level1">
+<h1>Validity and Soundness</h1>
+
+</section>
+<section id="defining-validity" class="slide level2">
+<h2>Defining Validity</h2>
+</section>
+<section id="consistency-and-equivalency" class="slide level2">
+<h2>Consistency and Equivalency</h2>
+</section>
+<section id="validity-invalidity-and-truth" class="slide level2">
+<h2>Validity, Invalidity, and Truth</h2>
+<p><strong><em>The Invalidity Principle</em></strong></p>
+<blockquote>
+<p>The only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. <span class="citation" data-cites="smit94">(<a href="" role="doc-biblioref" onclick="return false;"><strong>smit94?</strong></a>)</span></p>
+</blockquote>
+</section>
+<section id="inference-and-argument" class="slide level2">
+<h2>Inference and Argument</h2>
+<ol type="1">
+<li>Whatever Donald Trump says is true.</li>
+<li>Donald Trump says that the Flying Spaghetti Monster exists.</li>
+</ol>
+<p>So,</p>
+<ol start="3" type="1">
+<li>It is true that the Flying Spaghetti Monster exists.</li>
+</ol>
+<h4 id="note-three-easy-consequences-of-our-definition-of-soundness">Note three easy consequences of our definition of soundness:</h4>
+<ol type="1">
+<li>any sound argument has a true conclusion;</li>
+<li>no pair of sound arguments can have conclusions inconsistent with each other;</li>
+<li>no sound argument has inconsistent premisses.</li>
+</ol>
+<p>Why do these claims hold? For the following reasons:</p>
+<ol start="4" type="1">
+<li>A sound argument starts from true premisses and involves a necessarily truth-preserving inference move – so it must end up with a true conclusion.</li>
+<li>Since a pair of sound arguments will have a pair of true conclusions, this means that the conclusions are true together. If they actually are true together, then of course they can be true together. And if they can be true together then (by definition) the conclusions are consistent with each other.</li>
+<li>Since inconsistent premisses cannot all be true together, an argument starting from those premisses cannot satisfy the first of the conditions for being sound.</li>
+</ol>
+</section>
+<section id="valid-or-true" class="slide level2">
+<h2>Valid or True</h2>
+<blockquote>
+<p>Despite the common misuse of the terms, resolve to never again say that a premiss or conclusion or other proposition is ‘valid’ when you mean it is true. And never again say that an argument is ‘true’ when you mean that it is valid (or sound). [15]</p>
+</blockquote>
 
 
 </section>
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../../../figures/icons/course_favicon.png" class="slide-logo"></p>

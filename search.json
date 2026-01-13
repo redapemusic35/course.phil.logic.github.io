@@ -3293,6 +3293,69 @@
     ]
   },
   {
+    "objectID": "2026_logic/weeks/week01/slides.html#what-is-an-argument-1",
+    "href": "2026_logic/weeks/week01/slides.html#what-is-an-argument-1",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "What is an argument?",
+    "text": "What is an argument?"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#kinds-of-evaluation",
+    "href": "2026_logic/weeks/week01/slides.html#kinds-of-evaluation",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Kinds of Evaluation",
+    "text": "Kinds of Evaluation"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#deduction-and-induction",
+    "href": "2026_logic/weeks/week01/slides.html#deduction-and-induction",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Deduction and Induction",
+    "text": "Deduction and Induction"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#argument-patterns",
+    "href": "2026_logic/weeks/week01/slides.html#argument-patterns",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Argument Patterns",
+    "text": "Argument Patterns"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#defining-validity",
+    "href": "2026_logic/weeks/week01/slides.html#defining-validity",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Defining Validity",
+    "text": "Defining Validity"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#consistency-and-equivalency",
+    "href": "2026_logic/weeks/week01/slides.html#consistency-and-equivalency",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Consistency and Equivalency",
+    "text": "Consistency and Equivalency"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#validity-invalidity-and-truth",
+    "href": "2026_logic/weeks/week01/slides.html#validity-invalidity-and-truth",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Validity, Invalidity, and Truth",
+    "text": "Validity, Invalidity, and Truth\nThe Invalidity Principle\n\nThe only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. (smit94?)"
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#inference-and-argument",
+    "href": "2026_logic/weeks/week01/slides.html#inference-and-argument",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Inference and Argument",
+    "text": "Inference and Argument\n\nWhatever Donald Trump says is true.\nDonald Trump says that the Flying Spaghetti Monster exists.\n\nSo,\n\nIt is true that the Flying Spaghetti Monster exists.\n\nNote three easy consequences of our definition of soundness:\n\nany sound argument has a true conclusion;\nno pair of sound arguments can have conclusions inconsistent with each other;\nno sound argument has inconsistent premisses.\n\nWhy do these claims hold? For the following reasons:\n\nA sound argument starts from true premisses and involves a necessarily truth-preserving inference move – so it must end up with a true conclusion.\nSince a pair of sound arguments will have a pair of true conclusions, this means that the conclusions are true together. If they actually are true together, then of course they can be true together. And if they can be true together then (by definition) the conclusions are consistent with each other.\nSince inconsistent premisses cannot all be true together, an argument starting from those premisses cannot satisfy the first of the conditions for being sound."
+  },
+  {
+    "objectID": "2026_logic/weeks/week01/slides.html#valid-or-true",
+    "href": "2026_logic/weeks/week01/slides.html#valid-or-true",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Valid or True",
+    "text": "Valid or True\n\nDespite the common misuse of the terms, resolve to never again say that a premiss or conclusion or other proposition is ‘valid’ when you mean it is true. And never again say that an argument is ‘true’ when you mean that it is valid (or sound). [15]"
+  },
+  {
     "objectID": "2026_logic/weeks/week03/slides.html#semantics",
     "href": "2026_logic/weeks/week03/slides.html#semantics",
     "title": "🗓️ Week 03 Introduction",
