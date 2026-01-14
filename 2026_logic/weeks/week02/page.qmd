@@ -4,11 +4,9 @@ title: "🗓️ Week 02 - Concepts"
 
 ||||
 |---|---|---|
+| 4 | Proofs | 28 |
 | 5 | The counterexample method | 39 |
 | 6 | Logical validity | 44 |
-| 7 | Propositions and forms | 52 |
-| | Interlude: From informal to formal logic | 59 |
-| 8 | Three connectives | 61 |
 
 ## 👨‍🏫 Lecture Slides
 
