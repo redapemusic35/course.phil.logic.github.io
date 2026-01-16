@@ -5,6 +5,7 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+
 ## 📢 Important
 
 (01/16/2026)
@@ -17,10 +18,10 @@ format: html
 
 :::
 
-
 # 🧑🏻‍🏫 Our Team
 
 ::: {.panel-tabset}
+
 ## Course Convenor
 
 ![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
@@ -41,11 +42,8 @@ Office Hours:
 **[Grey Smith](#)** <br/>
 Student Peer Instructor<br>
 📧 [asmith112@stetson.edu](mailto:)
-
-~~[](/figures/people/ta_octopunian2.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}~~
-~~**[TA_NAME](#)** <br/>~~
-~~PhD Candidate at PLACE <br>~~
-~~📧 [EMAIL](mailto:)~~
+Location: Eliabeth Hall 135
+Times: Tue and Thurs 2:30-3:30pm
 
 ## Course Schedule
 
