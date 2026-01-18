@@ -27,10 +27,6 @@ format:
 * Formalization Rules and General Propositions
 * Predicate (Quantification Rules) Logic Semantics and Inference
 
-**Free Course Text:** [Smith, Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted with corrections. Logic Matters:](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
-
-[https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
-
 :::
 
 :::
@@ -121,7 +117,8 @@ structures effectively.
 
 Required Text: [Smith, Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted with corrections. Logic Matters:](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
 
-[https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
+[Available Here: https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
+
 
 :::
 

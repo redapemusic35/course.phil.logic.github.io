@@ -6,10 +6,9 @@ In this first week, we will cover what you can expect to learn from this course 
 
 | Unit | Topic | Pages |
 |---|---|---|
-|1 | What is deductive logic? | 1-8 |
-|2 | Validity and soundness | 9-19 |
+| 1 | What is deductive logic? | 1-8 |
+| 2 | Validity and soundness | 9-19 |
 | 3 | Forms of inference | 20 |
-| 4 | Proofs | 28 |
 
 ## 👨‍🏫 Lecture Slides
 
