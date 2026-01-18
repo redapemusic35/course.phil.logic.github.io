@@ -1,14 +1,14 @@
 ---
-subtitle: "PHIL104Q -- Classical Propositional Logic, (Syntax)"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Introduction</font>"
+subtitle: "PHIL104Q -- Proofs, Counter Examples and Logical Validity"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Introduction to Logic</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
-date: 02 September 2026
-date-meta: 14 March 2023
+date: 14 Jan 2026
+date-meta: 14 Jan 2026
 date-format: "MMM DD YYYY"
 toc: false
 toc-depth: 1
-toc-title: "Argument Forms, Formalization, Formation Rules:"
+toc-title: "Proofs, Counter Examples and Logical Validity"
 center-title-slide: false
 from: markdown+emoji
 format:
