@@ -74,7 +74,7 @@ In this course, we will look at how critical thinking and reasoning will help us
 
 Office Hours:
 
-- When: 
+- When:
   * Tuesday: 1:00–3:00 PM
   * Thursday: 1:00–3:00 PM
 - Where: Elizabeth Hall 104
@@ -154,16 +154,17 @@ Required Text: [Smith, Peter. 2021. An Introduction to Formal Logic. Second edit
 
 ::: {.column width="50%" height="30%" style="font-size: 80%;"}
 
+
 | Week | Unit | Topic | Pages |
 |---|---|---|---|
-| Week 1 |1 | What is deductive logic, validity and soundness? | 1-8 |
-| Week 2 | 4 | Proofs and counter examples, and logical validity | 28 |
-| Week 3 | 7 | Propositions, forms, and some syntax | 52 |
-| Week 4 | 9 | Exam 1, Plus more syntax, some semantics, and form | 72 |
-| Week 5 | 12 | Truth functions, adequacy and tautologies | 104 |
-| Week 6 | 15 | Entailing tautologies, and absurdity | 127 |
-| Week 7 | 18 | The truth-functional conditionals and natural deduction | 148 |
-| Week 8 | 20 | Exam 2, Plus predicate proofs: conjunction, negation, disjunction and conditionals | 174 |
+| Week 1 |1-3 | What is deductive logic, validity and soundness? | 1-8 |
+| Week 2 | 4-6 | Proofs and counter examples, and logical validity | 28 |
+| Week 3 | 7-8 | Propositions, forms, and some syntax | 52 |
+| Week 4 | 9-11 | More syntax, some semantics, and form | 72 |
+| Week 5 | 12-14 | Truth functions, adequacy and tautologies | 104 |
+| Week 6 | 15-17 | Entailing tautologies, and absurdity | 127 |
+| Week 7 | 18-19 | The truth-functional conditionals and natural deduction | 148 |
+| Week 8 | 20-22 | Predicate proofs: conjunction, negation, disjunction and conditionals | 174 |
 
 :::
 
@@ -171,18 +172,17 @@ Required Text: [Smith, Peter. 2021. An Introduction to Formal Logic. Second edit
 
 | Week | Unit | Topic | Pages |
 |---|---|---|---|
-| Week 9 | 23 | PL proofs: theorems, and metatheory | 211 |
-| Week 10 | 25 | Names, predicates, quantifiers, and variables | 230 |
-| Week 11 | 28 | QL languages, simple translations, and QL argumentation | 258 |
-| Week 12 || Exam 3, Interlude: Arguing in QL, informal QL rules, QL proofs | 290 |
-| Week 13 | 33 | More QL Proofs, empty domains, Q-Valuations | 315 |
+| Week 9 | 23-24 | PL proofs: theorems, and metatheory | 211 |
+| Week 10 | 25-27 | Names, predicates, quantifiers, and variables | 230 |
+| Week 11 | 28-31 | QL languages, simple translations, and QL argumentation | 258 |
+| Week 12 || Interlude: Arguing in QL, informal QL rules, QL proofs | 290 |
+| Week 13 | 33-35 | More QL Proofs, empty domains, Q-Valuations | 315 |
 | Week 14 | 36 | Q-Validity | 346 |
 | | 37 | QL Proofs, metatheory | 354 |
 | Week 15 | 38 | Identity | 361 |
 | | 39 | QL=Languages | 367 |
 | | 40 | Definite Descriptions | 375 |
 | | 41 | QL=Proofs | 382 |
-| | | Final Exam | |
 
 :::
 
