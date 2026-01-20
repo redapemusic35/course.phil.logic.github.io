@@ -162,97 +162,146 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
   <p class="date">Jan 14 2026</p>
 </section>
 <section>
-<section id="classical-propositional-logic" class="title-slide slide level1">
-<h1>Classical Propositional Logic</h1>
+<section id="proofs" class="title-slide slide level1">
+<h1>Proofs</h1>
 
 </section>
-<section id="syntax" class="slide level2 smaller">
-<h2>Syntax</h2>
-<ul>
-<li class="fragment">Explain notions like
-<ul>
-<li class="fragment">itemize</li>
-<li class="fragment">deduction, deductive validity;</li>
-<li class="fragment">logical consistency;</li>
-<li class="fragment">induction, inference to best explanation.</li>
-</ul></li>
-<li class="fragment">Introduce tests for validity, provide tools for fallacy-spotting, etc.</li>
-<li class="fragment">Familiarize you with logical symbolism – i.e.&nbsp;give a ‘reading knowledge’ of some of the languages of logic.</li>
-</ul>
-</section></section>
-<section>
-<section id="test-done" class="title-slide slide level1">
-<h1>Test Done</h1>
-<span class="math display">\[\begin{prooftree}
-  \AxiomC{$A \to B$}
-  \AxiomC{$A$}
-  \BinaryInfC{$B$}
-  \AxiomC{$B \to C$}
-  \BinaryInfC{$C$}
-  \RightLabel{($\to$-E)}
-  \UnaryInfC{$D$}
-  \AxiomC{$A \to B$}
-\end{prooftree}\]</span>
+<section id="first-examples" class="slide level2">
+<h2>First Examples</h2>
+<div class="columns">
+<div class="column" style="width:10%;">
+<p><strong><em>A</em></strong></p>
+</div><div class="column" style="width:6%;">
+
+</div><div class="column" style="width:70%;">
+<p>Babies are illogical; nobody is despised who can manage a crocodile; illogical persons are despised; so babies cannot manage a crocodile.</p>
+</div></div>
 </section>
-<section id="style" class="slide level2">
-<h2>Style</h2>
-<span class="math display">\[\begin{prooftree}
-\rootAtTop
-\AxiomC{A}
-\AxiomC{F}
-\BinaryInfC{P}
-\AxiomC{Q}
-\AxiomC{$\lnot R$}
-\BinaryInfC{$Q \vee \lnot R$}
-\BinaryInfC{$P \vee (Q \vee \lnot R)$}
-\end{prooftree}\]</span>
+<section id="derivations-and-validity" class="slide level2 scrollable">
+<h2>Derivations and Validity</h2>
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>A’</em></strong></p>
+</div><div class="column" style="width:70%;">
+<ol type="1">
+<li class="fragment"><p>Babies are illogical</p></li>
+<li class="fragment"><p>Nobody is despised who can manage a crocodile</p></li>
+<li class="fragment"><p>Illogical persons are despised</p></li>
+<li class="fragment"><p>Babies are despised</p></li>
+<li class="fragment"><p>Babies cannot manage a crocodile</p></li>
+</ol>
+</div><div class="column" style="width:20%;">
+<p>(premiss)</p>
+<p>(Premiss)</p>
+<p>(premiss)</p>
+<p>(from 1, 3)</p>
+<p>(from 2, 4)</p>
+</div></div>
 </section>
-<section id="natural-deduction-example" class="slide level2">
-<h2>Natural Deduction Example</h2>
-<p><span class="math display">\[\begin{prooftree}
-  \AxiomC{$A \to B$}
-  \AxiomC{$A$}
-  \BinaryInfC{$B$}
-\end{prooftree}
-\]</span></p>
+<section id="exercises" class="slide level2 scrollable">
+<h2>Exercises</h2>
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>A’</em></strong></p>
+</div><div class="column" style="width:70%;">
+<ol type="1">
+<li class="fragment">No philosopher is illogical.</li>
+<li class="fragment">Jones keeps making argumentative mistakes.</li>
+<li class="fragment">No logical person keeps making argumentative mistakes.</li>
+<li class="fragment">All existentialists are philosophers.</li>
+<li class="fragment">Jones is illogical</li>
+<li class="fragment">Jones is not a philosopher</li>
+<li class="fragment">Jones is not an existentialist</li>
+</ol>
+</div><div class="column" style="width:20%;">
+<ol type="1">
+<li class="fragment"><p>(premiss)</p></li>
+<li class="fragment"><p>(Premiss)</p></li>
+<li class="fragment"><p>(premiss)</p></li>
+<li class="fragment"><p>(premiss)</p></li>
+<li class="fragment"><p>from 2, 3</p></li>
+<li class="fragment"><p>from 1, 5</p></li>
+<li class="fragment"><p>from 4, 6</p></li>
+</ol>
+</div></div>
 </section>
-<section id="test" class="slide level2">
-<h2>Test</h2>
-<span class="math display">\[\begin{prooftree}
-  \AxiomC{$A \to B$}
-  \AxiomC{$A$}
-  \BinaryInfC{$B$}
-  \AxiomC{$B \to C$}
-  \BinaryInfC{$C$}
-  \RightLabel{($\to$-E)}
-  \UnaryInfC{$D$}
-  \AxiomC{$A \to B$}
-\end{prooftree}\]</span>
-</section></section>
-<section>
-<section id="blah" class="title-slide slide level1">
-<h1>Blah</h1>
-<p>Prove <span class="math inline">\(P \vee (Q \vee \lnot R) \vdash \lnot P\)</span></p>
-<span class="math display">\[\begin{prooftree}
-\rootAtTop
-\AxiomC{A}
-\AxiomC{F}
-\BinaryInfC{P}
-\AxiomC{Q}
-\AxiomC{$\lnot R$}
-\BinaryInfC{$Q \vee \lnot R$}
-\BinaryInfC{$P \vee (Q \vee \lnot R)$}
-\end{prooftree}\]</span>
+<section id="fully-annotated-proofs" class="slide level2">
+<h2>Fully annotated proofs</h2>
+</section>
+<section class="slide level2 scrollable">
+
+<h3 id="two-types-of-valid-argument-forms">Two types of valid argument forms</h3>
+<div class="columns">
+<div class="column" style="width:15%;">
+<p>R</p>
+</div><div class="column" style="width:20%;">
+<p>No <em>F</em> is <em>G</em></p>
+<p><em>n</em> is <em>F</em></p>
+<p>So: <em>n</em> is not <em>G</em></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:15%;">
+<p>S</p>
+</div><div class="column" style="width:20%;">
+<p>No <em>F</em> is <em>G</em></p>
+<p>So: <em>G</em> is <em>F</em></p>
+</div><div class="column" style="width:100%;">
+<ol type="1">
+<li class="fragment"><p>No [ . . . ] is [ . . .]</p></li>
+<li class="fragment"><p>[ some <em>x</em> ] is [ . . .]</p></li>
+<li class="fragment"><p>So: [ some <em>x</em> ] is <em>not</em> [ . . .]</p></li>
+</ol>
+</div></div>
+</section>
+<section class="slide level2 scrollable">
+
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>C</em></strong></p>
+</div><div class="column" style="width:95%;">
+<p>No logician is bad at abstract thought. Jo is bad at abstract thought. So Jo is not a logician</p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>C’</em></strong></p>
+</div><div class="column" style="width:95%;">
+<ol type="1">
+<li class="fragment">No logician is bad at abstract thought. (premiss)</li>
+<li class="fragment">Jo is bad at abstract thought. (premiss)</li>
+<li class="fragment">No one bad at abstract thought is a logician (from 1 by <strong><em>S</em></strong>)</li>
+<li class="fragment">So Jo is not a logician (from 3, 2 by <strong><em>R</em></strong>)</li>
+</ol>
+</div></div>
 </section>
 <section class="slide level2">
 
-<span class="math display">\[\begin{prooftree}
-  \AxiomC{$P \vee (Q \vee \lnot R)$}
-  \AxiomC{$P \rightarrow \lnot R$}
-  \BinaryInfC{$P \vee (Q \vee \lnot R)$}
-  \AxiomC{$P \rightarrow \lnot R$}
-  \UnaryInfC{$Q \rightarrow \lnot R$}
-\end{prooftree}\]</span>
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>D</em></strong></p>
+</div><div class="column" style="width:95%;">
+<p>Anyone who understand human nature is clever; every true poet can stir the heart; Shakespeare wrote Hamlet; no one who does not understand human nature can stir the heart; no one who is not a true poet wrote Hamlet: so Shakespeare is clever.</p>
+</div></div>
+</section>
+<section class="slide level2 scrollable">
+
+<div class="columns">
+<div class="column" style="width:5%;">
+<p><strong><em>D’</em></strong></p>
+</div><div class="column" style="width:85%;">
+<ol type="1">
+<li class="fragment">Anyone who understands human nature is clever.</li>
+<li class="fragment">Every true poet can stir the heart.</li>
+<li class="fragment">Shakespeare wrote Hamlet.</li>
+<li class="fragment">No one who does not understand human nature can stir the heart.</li>
+<li class="fragment">No one who is not a true poet wrote Hamlet.</li>
+<li class="fragment"></li>
+<li class="fragment">So Shakespeare is clever.</li>
+</ol>
+</div><div class="column" style="width:10%;">
+
+</div></div>
 
 
 </section></section>

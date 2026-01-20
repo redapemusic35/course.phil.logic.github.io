@@ -2057,32 +2057,32 @@
     ]
   },
   {
-    "objectID": "2026_logic/weeks/week02/slides.html#syntax",
-    "href": "2026_logic/weeks/week02/slides.html#syntax",
+    "objectID": "2026_logic/weeks/week02/slides.html#first-examples",
+    "href": "2026_logic/weeks/week02/slides.html#first-examples",
     "title": "🗓️ Week 03 Introduction to Logic",
-    "section": "Syntax",
-    "text": "Syntax\n\nExplain notions like\n\nitemize\ndeduction, deductive validity;\nlogical consistency;\ninduction, inference to best explanation.\n\nIntroduce tests for validity, provide tools for fallacy-spotting, etc.\nFamiliarize you with logical symbolism – i.e. give a ‘reading knowledge’ of some of the languages of logic."
+    "section": "First Examples",
+    "text": "First Examples\n\n\nA\n\n\n\nBabies are illogical; nobody is despised who can manage a crocodile; illogical persons are despised; so babies cannot manage a crocodile."
   },
   {
-    "objectID": "2026_logic/weeks/week02/slides.html#style",
-    "href": "2026_logic/weeks/week02/slides.html#style",
+    "objectID": "2026_logic/weeks/week02/slides.html#derivations-and-validity",
+    "href": "2026_logic/weeks/week02/slides.html#derivations-and-validity",
     "title": "🗓️ Week 03 Introduction to Logic",
-    "section": "Style",
-    "text": "Style\n\\[\\begin{prooftree}\n\\rootAtTop\n\\AxiomC{A}\n\\AxiomC{F}\n\\BinaryInfC{P}\n\\AxiomC{Q}\n\\AxiomC{$\\lnot R$}\n\\BinaryInfC{$Q \\vee \\lnot R$}\n\\BinaryInfC{$P \\vee (Q \\vee \\lnot R)$}\n\\end{prooftree}\\]"
+    "section": "Derivations and Validity",
+    "text": "Derivations and Validity\n\n\nA’\n\n\nBabies are illogical\nNobody is despised who can manage a crocodile\nIllogical persons are despised\nBabies are despised\nBabies cannot manage a crocodile\n\n\n(premiss)\n(Premiss)\n(premiss)\n(from 1, 3)\n(from 2, 4)"
   },
   {
-    "objectID": "2026_logic/weeks/week02/slides.html#natural-deduction-example",
-    "href": "2026_logic/weeks/week02/slides.html#natural-deduction-example",
+    "objectID": "2026_logic/weeks/week02/slides.html#exercises",
+    "href": "2026_logic/weeks/week02/slides.html#exercises",
     "title": "🗓️ Week 03 Introduction to Logic",
-    "section": "Natural Deduction Example",
-    "text": "Natural Deduction Example\n\\[\\begin{prooftree}\n  \\AxiomC{$A \\to B$}\n  \\AxiomC{$A$}\n  \\BinaryInfC{$B$}\n\\end{prooftree}\n\\]"
+    "section": "Exercises",
+    "text": "Exercises\n\n\nA’\n\n\nNo philosopher is illogical.\nJones keeps making argumentative mistakes.\nNo logical person keeps making argumentative mistakes.\nAll existentialists are philosophers.\nJones is illogical\nJones is not a philosopher\nJones is not an existentialist\n\n\n\n(premiss)\n(Premiss)\n(premiss)\n(premiss)\nfrom 2, 3\nfrom 1, 5\nfrom 4, 6"
   },
   {
-    "objectID": "2026_logic/weeks/week02/slides.html#test",
-    "href": "2026_logic/weeks/week02/slides.html#test",
+    "objectID": "2026_logic/weeks/week02/slides.html#fully-annotated-proofs",
+    "href": "2026_logic/weeks/week02/slides.html#fully-annotated-proofs",
     "title": "🗓️ Week 03 Introduction to Logic",
-    "section": "Test",
-    "text": "Test\n\\[\\begin{prooftree}\n  \\AxiomC{$A \\to B$}\n  \\AxiomC{$A$}\n  \\BinaryInfC{$B$}\n  \\AxiomC{$B \\to C$}\n  \\BinaryInfC{$C$}\n  \\RightLabel{($\\to$-E)}\n  \\UnaryInfC{$D$}\n  \\AxiomC{$A \\to B$}\n\\end{prooftree}\\]"
+    "section": "Fully annotated proofs",
+    "text": "Fully annotated proofs"
   },
   {
     "objectID": "2026_logic/weeks/week15/slides.html#some-exercises",
