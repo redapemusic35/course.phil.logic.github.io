@@ -12,7 +12,7 @@
 
   <meta name="author" content="Prof.&nbsp;Reynolds">
   <meta name="dcterms.date" content="14 March 2023">
-  <title>Logic, Spring 2026 – 🗓️ Week 03  Introduction</title>
+  <title>Logic, Spring 2026 – 🗓️ Week 04  Informal to Formal Logic</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -125,11 +125,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="🗓️ Week 03 Introduction – Logic, Spring 2026">
-<meta property="og:description" content="PHIL104Q – Classical Propositional Logic, (Semantics)">
+<meta property="og:title" content="🗓️ Week 04 Informal to Formal Logic – Logic, Spring 2026">
+<meta property="og:description" content="PHIL104Q – Logical validity, props and forms, connectives">
 <meta property="og:site_name" content="Logic, Spring 2026">
-<meta name="twitter:title" content="🗓️ Week 03 Introduction – Logic, Spring 2026">
-<meta name="twitter:description" content="PHIL104Q – Classical Propositional Logic, (Semantics)">
+<meta name="twitter:title" content="🗓️ Week 04 Informal to Formal Logic – Logic, Spring 2026">
+<meta name="twitter:description" content="PHIL104Q – Logical validity, props and forms, connectives">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
 <meta name="twitter:card" content="summary">
@@ -139,8 +139,8 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 03<br> Introduction</font></h1>
-  <p class="subtitle">PHIL104Q – Classical Propositional Logic, (Semantics)</p>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 04<br> Informal to Formal Logic</font></h1>
+  <p class="subtitle">PHIL104Q – Logical validity, props and forms, connectives</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -156,605 +156,128 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
   <p class="date">Sep 02 2026</p>
 </section>
 <section>
-<section id="classical-propositional-logic" class="title-slide slide level1">
-<h1>Classical Propositional Logic</h1>
-
-</section>
-<section id="semantics" class="slide level2">
-<h2>Semantics</h2>
+<section id="logical-validity" class="title-slide slide level1">
+<h1>Logical Validity</h1>
 <ul>
-<li class="fragment">Semantics is the Study of Meaning</li>
+<li class="fragment">logically valid arguments are deductively valid</li>
+<li class="fragment">deductively valid arguments are not logically valid</li>
 </ul>
-<aside class="notes">
-<ul>
-<li><p>How do you define meaning?</p></li>
-<li><p>How does the book define meaning?</p></li>
-</ul>
-<blockquote>
-<p>The logical meaning of an expression is usually understood as its contribution to the truth or falsity of sentences in which it occurs. [31]</p>
-</blockquote>
-<ul>
-<li>Meaning is a characterization of the meaning of the use of logical operators within a given sentence.</li>
-</ul>
-<p>What this correlates to, I think, is a question about how a logical operator attirbutes truth or falsehood to a sentence.</p>
-<p>For instance, in what situations would the sentence “James knows that God exists” be true?</p>
-<p>How might we imagine various sentences that confirm the truth of <em>P</em>?</p>
-<blockquote>
-<p>One day, I asked James ‘do you know who God is?’ He said yes and then pointed down at a rock. I then asked James ‘does God exist?’ Again he pointed down at the rock and said yes, ‘God exists’.</p>
-</blockquote>
-<p>Is the sentence ‘James knows God exists’, true in this situation?</p>
-<p>In otherwords, the meaning of a term is its <strong><em>‘truth conditions’</em></strong></p>
-<p>What are truth conditions? The meaning of a term. Conditions on which a proposition is true or false.</p>
-<blockquote>
-<p>The truth conditions for a term are rules which specify the possible situations in which sentences containing that term are true and the possible situations in which sentences containing that term are false.</p>
-</blockquote>
-<blockquote>
-<p>In this section, we will give the truth-conditional semantics for the five logical operators introduced in the previous section.</p>
-</blockquote>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
 </section>
-<section id="truth-conditions" class="slide level2">
-<h2>Truth Conditions</h2>
-<blockquote>
-<p>The truth value of a conjunction is T in a given situation iff the truth value of each of its conjuncts is T in that situation.</p>
-</blockquote>
-<p>and</p>
-<blockquote>
-<p>The truth value of a conjunction is F in a given situation iff one or both of its conjuncts does not have the value T in that situation.</p>
-</blockquote>
-</section>
-<section class="slide level2">
-
-<h3 id="interpretations">Interpretations</h3>
-<aside class="notes">
+<section id="topic-neutrality" class="slide level2 scrollable">
+<h2>Topic Neutrality</h2>
+<p>Vocabulary like ‘all’ and ‘some’ and ‘or’, ‘not’ and ‘if’ etc.</p>
 <ul>
-<li><p>How do we give meaning to a sentence letter such as <em>P</em>, or <em>Q</em>?</p></li>
-<li><p>We first look at a distinction between statements of natural language and their abstraction via formal logic.</p></li>
-</ul>
-<p><em>W &amp; H</em> could mean ‘it’s Wednesday and it’s hot’ or ‘Water is H<span class="math inline">\(_2\)</span>O’</p>
-<p>We use <strong><em>Interpretations</em></strong> to associate sentence letters with statements of natural language.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section class="slide level2">
-
-<h3 id="valuation-upsilon">Valuation: ‘<span class="math inline">\(\upsilon\)</span>’</h3>
-<p><strong><em>Valuations</em></strong>, are needed to make ‘sense of the notion of a possible situation’.</p>
-<blockquote>
-<p>A <strong><em>valuation</em></strong> of a formula or set of formulas of propositional logic is an assignment of one and only one of the truth values T and F to each of the sentence letters occuring in that formula or any formula of that set.</p>
-</blockquote>
-<aside class="notes">
-<ul>
-<li><p>Start by defining the meanings of each logical operator</p></li>
-<li><p>Begin with conjunction operator</p></li>
-</ul>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section class="slide level2">
-
-<h3 id="first-remember">First Remember:</h3>
-<blockquote>
-<p>The truth value of a conjunction is T in a given situation iff the truth value of each of its conjuncts is T in that situation.</p>
-</blockquote>
-<p>and</p>
-<blockquote>
-<p>The truth value of a conjunction is F in a given situation iff one or both of its conjuncts does not have the value T in that situation.</p>
-</blockquote>
-</section>
-<section class="slide level2 scrollable">
-
-<h4 id="therefore-there-are-four-valuations-upsilon-of-a-formula-that-contains-two-propositions-as-shown-below">Therefore, there are four valuations, <span class="math inline">\(\upsilon\)</span>, of a formula that contains two propositions as shown below:</h4>
-<div class="columns">
-<div class="column" style="display:inline-block;width:40%;height:60%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5">
-<figure>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th>W</th>
-<th>H</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>T</td>
-<td>T</td>
-</tr>
-<tr class="even">
-<td>T</td>
-<td>F</td>
-</tr>
-<tr class="odd">
-<td>F</td>
-<td>T</td>
-</tr>
-<tr class="even">
-<td>F</td>
-<td>F</td>
-</tr>
-</tbody>
-</table>
-</figure>
-</div><div class="column" style="width:50%;font-size:0.85em;margin-left:3%;">
-<p><img src="../../../figures/people/walker.webp" alt="Photo of Professor Octopian" role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;font-size:1em;" class="img-responsive atto_image_button_text-bottom"> <span class="tag" style="background-color:var(--quarto-hl-st-color)"><strong><em>W</em></strong> is True and <strong><em>H</em></strong> is True </span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)"><strong><em>W</em></strong> is True, but <strong><em>H</em></strong> is False</span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)"><strong><em>W</em></strong> is False, but <strong><em>H</em></strong> is True</span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)"><strong><em>W</em></strong> is False and <strong><em>H</em></strong> is False </span></p>
-</div></div>
-<aside class="notes">
-<ul>
-<li>Each valuation defines a situation</li>
+<li class="fragment">does not refer to specific things, properties or relations,</li>
+<li class="fragment">useful for discussing any topic (topic neutral)</li>
 </ul>
 <ol type="1">
-<li><p>There is some situation where <strong><em>W</em></strong>, say ‘Walker is a Texas Ranger’, and <strong><em>H</em></strong>, ‘Walker wears a hat’, are both true.</p></li>
-<li><p>But there is another situation where ‘Walker is a Texas Ranger’, but ‘Walker does not wear a hat’.</p></li>
-<li><p>Another where ‘Walker is not a Texas Ranger, but ’does wear a hat’.</p></li>
-<li><p>and another where ‘Walker is not a Texas Ranger’, nor does he wear a hat.</p></li>
+<li class="fragment"><p>Jill is a mother</p></li>
+<li class="fragment"><p>So, Jill is a parent</p></li>
+<li class="fragment"><p>Bob is a mother</p></li>
+<li class="fragment"><p>So Bob is a parent</p></li>
+<li class="fragment"><p>Jack has a first cousin</p></li>
+<li class="fragment"><p>So at least one of Jack’s parents is not an only child.</p></li>
+<li class="fragment"><p>Jack is a bachelor</p></li>
+<li class="fragment"><p>So Jack is unmarried</p></li>
 </ol>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+</section>
+<section id="logical-validity-1" class="slide level2">
+<h2>Logical Validity</h2>
+<ul>
+<li class="fragment">Inference step is <em>logically valid</em> iff it is deductively valid in virtue of the way that topic-enutral notions occur in the premisses and conclusion</li>
+<li class="fragment">Some premisses <em>logically entail</em> a certain concusaion if th einference from the premisses to the conclusion is logically valid.</li>
+</ul>
 </section>
 <section class="slide level2">
 
-<div class="columns">
-<div class="column">
-<p><img src="../../../figures/people/walker.webp" alt="Photo of Professor Octopian" role="presentation"></p>
-</div><div class="column" style="width:100%;font-size:0.85em;margin-left:3%;">
-<p><span class="tag" style="background-color:var(--quarto-hl-st-color)">‘Walker is a Texas Ranger’, and ‘wears a hat’. </span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)">‘Walker is a Texas Ranger’, and ‘does not wear a hat’. </span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)">‘Walker is not a Texas Ranger’, and ‘does wear a hat’. </span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)">‘Walker is not a Texas Ranger’, and ‘does not wear a hat’. </span></p>
-</div></div>
-</section>
-<section id="how-do-the-truth-values-of-sentences-containing-a-given-logical-operator-depend-on-the-truth-values-of-their-components." class="slide level2 center">
-<h2>How do the truth values of sentences containing a given logical operator depend on the truth values of their components.</h2>
-<aside class="notes">
-<p>As we have seen, a <strong><em>valuation</em></strong> is a pattern of truth values.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="weve-seen-this-before" class="slide level2">
-<h2>We’ve seen this before:</h2>
 <blockquote>
-<p>The truth value of a conjunction is T <span class="math inline">\(\underline{\text{on a given valuation}}\)</span> iff the truth value of each of its conjuncts is T in that situation.</p>
-</blockquote>
-<p>and</p>
-<blockquote>
-<p>The truth value of a conjunction is F <span class="math inline">\(\underline{\text{on a given valuation}}\)</span> iff one or both of its conjuncts does not have the value T in that situation.</p>
+<p>How can we show that an unobviously valid inference is logically valid? By a suitable proof, of course – meaning a proof where the pattern of inference used at each step can be displayed using a purely logical schema.</p>
 </blockquote>
 </section>
-<section id="valuation-rules" class="slide level2">
-<h2>Valuation <strong><em>Rules</em></strong></h2>
-<blockquote>
-<p>Because these more abstract truth conditions are stated in terms of valuations, they are often referred to as <strong><em>valuation rules</em></strong>.</p>
-</blockquote>
-</section>
-<section id="as-weve-seen" class="slide level2">
-<h2>As we’ve seen,</h2>
+<section class="slide level2">
+
+<h3 id="e.g.">E.g.,</h3>
 <ul>
-<li class="fragment"><span class="math inline">\(\upsilon\)</span> stands for <strong><em>valuation</em></strong></li>
-</ul>
-<p>and</p>
-<ul>
-<li class="fragment">Greek letters stand for formulas</li>
+<li class="fragment">There is something</li>
+<li class="fragment">Therefore there is not nothing</li>
 </ul>
 </section>
-<section id="so-instead-of-writing" class="slide level2">
-<h2>So instead of writing,</h2>
-<p class="fragment" data-fragment-index="1">
-The truth value of a conjunction is T <span class="math inline">\(\underline{\text{on a given valuation}}\)</span> iff the truth value of each of its conjuncts is T on that valuation.
-</p>
-<p class="fragment" data-fragment-index="2">
-or
-</p>
-<p class="fragment" data-fragment-index="3">
-The truth value of a disjunction is T <span class="math inline">\(\underline{\text{on a given valuation}}\)</span> iff the truth value of at least one of its disjuncts is T on that valuation.
-</p>
+<section id="logical-necessity" class="slide level2">
+<h2>Logical Necessity</h2>
+<blockquote>
+<p>Proposition is logically necessarily iff it is necessarily true in virtue of how topic-neutral notions feature in it.</p>
+</blockquote>
+<ul>
+<li class="fragment">true in virtue of the meanings of the topic-neutral logical notions
+<ul>
+<li class="fragment">whatever</li>
+<li class="fragment">is</li>
+<li class="fragment">and</li>
+</ul></li>
+<li class="fragment">type of proposition which can be specified by a purely logical schema
+<ul>
+<li class="fragment">variables and toopic-neutral vocabulary</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-boundaries-of-logical-validity" class="slide level2">
+<h2>The boundaries of logical validity</h2>
+<p>An argue is logically valid if it is valid in virtue of its topic-neutral form.</p>
+</section>
+<section id="definitions-of-validity-as-rational-reconstructions" class="slide level2">
+<h2>Definitions of validity as rational reconstructions</h2>
 </section></section>
 <section>
-<section id="we-use" class="title-slide slide level1">
-<h1>We use</h1>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\&amp;\)</span> <span class="math inline">\(\psi\)</span>) = T iff both <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = T and <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) = T.</p>
+<section id="propositions-and-forms" class="title-slide slide level1">
+<h1>Propositions and Forms</h1>
+
 </section>
-<section id="where" class="slide level2">
-<h2>Where</h2>
-<p class="fragment" data-fragment-index="1">
-<span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = T
-</p>
-<p class="fragment" data-fragment-index="2">
-and
-</p>
-<p class="fragment" data-fragment-index="3">
-<span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) = T
-</p>
+<section id="types-vs.-tokens" class="slide level2">
+<h2>Types vs.&nbsp;Tokens</h2>
+</section>
+<section id="sense-vs.-tone" class="slide level2">
+<h2>Sense vs.&nbsp;Tone</h2>
+</section>
+<section id="are-propositions-sentences" class="slide level2">
+<h2>Are propositions sentences</h2>
+</section>
+<section id="are-propositions-truth-relevant-contents" class="slide level2">
+<h2>Are propositions truth-relevant contents</h2>
+</section>
+<section id="why-we-can-be-indecisive" class="slide level2">
+<h2>Why we can be indecisive</h2>
+</section>
+<section id="forms-of-inference-again" class="slide level2">
+<h2>Forms of inference again</h2>
+</section></section>
+<section>
+<section id="connectives" class="title-slide slide level1">
+<h1>Connectives</h1>
+
+</section>
+<section id="two-simple-arguments" class="slide level2">
+<h2>Two Simple Arguments</h2>
 </section>
 <section id="and" class="slide level2">
-<h2>and</h2>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\&amp;\)</span> <span class="math inline">\(\psi\)</span>) = F iff <span class="math inline">\(\underline{\text{either}}\)</span> <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = F or <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) = F, or both.</p>
-<p>or</p>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\&amp;\)</span> <span class="math inline">\(\psi\)</span>) = F iff <span class="math inline">\(\underline{\text{either}}\)</span> <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T or <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T, or both.</p>
-<aside class="notes">
-<ul>
-<li>If you read the footnote, you’d realize I did it the other way.</li>
-</ul>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\&amp;\)</span> <span class="math inline">\(\psi\)</span>) = F iff <span class="math inline">\(\underline{\text{either}}\)</span> <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T or <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T, or both.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+<h2>‘And’</h2>
 </section>
-<section class="slide level2">
-
-<h3 id="in-otherwords">In otherwords,</h3>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\&amp;\)</span> <span class="math inline">\(\psi\)</span>) = F</p>
-<p class="fragment" data-fragment-index="1">
-<strong><em>If and only If either</em></strong>
-</p>
-<p class="fragment" data-fragment-index="2">
-<span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = F
-</p>
-<p class="fragment" data-fragment-index="3">
-or
-</p>
-<p class="fragment" data-fragment-index="4">
-<span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) = F
-</p>
-<p class="fragment" data-fragment-index="5">
-or both
-</p>
+<section id="or" class="slide level2">
+<h2>‘Or’</h2>
 </section>
-<section id="finally-truth-tables" class="slide level2">
-<h2>Finally, Truth Tables</h2>
-<p>In tabular form, the previous rules can be expressed in the following way:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th><span class="math inline">\(\phi\)</span></th>
-<th><span class="math inline">\(\psi\)</span></th>
-<th>(<span class="math inline">\(\phi\)</span></th>
-<th><span class="math inline">\(\&amp;\)</span></th>
-<th><span class="math inline">\(\psi\)</span>)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>T</td>
-<td>T</td>
-<td></td>
-<td>T</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>T</td>
-<td>F</td>
-<td></td>
-<td>F</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>F</td>
-<td>T</td>
-<td></td>
-<td>F</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>F</td>
-<td>F</td>
-<td></td>
-<td>F</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="not" class="slide level2">
+<h2>‘Not’</h2>
 </section>
-<section id="truth-conditions-for-the-negation-operator" class="slide level2">
-<h2>Truth Conditions for the Negation Operator</h2>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\neg\phi\)</span>) = T iff <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T.</p>
-<p><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\neg\phi\)</span>) = F iff <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = T.</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th><span class="math inline">\(\phi\)</span></th>
-<th><span class="math inline">\(\neg\phi\)</span></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>T</td>
-<td>F</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>F</td>
-<td>T</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="scope" class="slide level2">
+<h2>Scope</h2>
 </section>
-<section id="disjunction-or" class="slide level2">
-<h2>Disjunction, ‘Or’</h2>
-<p>Inclusive</p>
-<ul>
-<li class="fragment">Either . . . or . . ., possibly both</li>
-</ul>
-<p>Exclusive</p>
-<ul>
-<li class="fragment">Either . . . or . . ., not both</li>
-</ul>
-<aside class="notes">
-<p>Four is both even and square, so</p>
-<p>Four is either an even number or a square number, or both.</p>
-<p>So you can mark it both wrong and right.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+<section id="formalization" class="slide level2">
+<h2>Formalization</h2>
 </section>
-<section class="slide level2">
-
-<p>latin <em>vel</em> is inclusive sense of or, whereas latin <em>aut</em> is the exclusive sense.</p>
-<blockquote>
-<p>Licet tibi habere aut vim aut laetitiam.</p>
-</blockquote>
-<ul>
-<li class="fragment">“You are allowed to have either power or happiness but definitely not both, and this is a matter of fact.”</li>
-</ul>
-<aside class="notes">
-<p>This means, “You are allowed to have either power or happiness but definitely not both, and this is a matter of fact.”</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+<section id="the-design-brief-for-pl-languages" class="slide level2">
+<h2>The design brief for PL languages</h2>
 </section>
-<section class="slide level2">
-
-<p class="fragment" data-fragment-index="1">
-Licet tibi habere vel vim vel laetitiam.
-</p>
-<p class="fragment" data-fragment-index="2">
-quī aethēr vel caelum nōminātur, which is called aether or heaven
-</p>
-<aside class="notes">
-<p>This conflicts with the idea of other possibilities, though (introduced through the use of licet), so while probably possible, it isn’t recommended.</p>
-<p>But there is a distinction between subjective and objective inclusivity and exclusivity. So the following example is more illustrative.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="upsilonphi-lor-psi-t-iff-underlinetexteither-upsilonphi-t-or-upsilonpsi-t-or-both." class="slide level2 center smaller">
-<h2><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\lor\)</span> <span class="math inline">\(\psi\)</span>) = T iff <span class="math inline">\(\underline{\text{either}}\)</span> <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) = T or <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) = T, or both.</h2>
-</section>
-<section id="upsilonphi-lor-psi-neq-t-iff-underlinetexteither-upsilonphi-neq-t-or-upsilonpsi-neq-t-or-both." class="slide level2 center smaller">
-<h2><span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\lor\)</span> <span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T iff <span class="math inline">\(\underline{\text{either}}\)</span> <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T or <span class="math inline">\(\upsilon\)</span>(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T, or both.</h2>
-</section>
-<section class="slide level2">
-
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th><span class="math inline">\(\phi\)</span></th>
-<th><span class="math inline">\(\psi\)</span></th>
-<th>(<span class="math inline">\(\phi\)</span></th>
-<th><span class="math inline">\(\lor\)</span></th>
-<th><span class="math inline">\(\psi\)</span>)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>T</td>
-<td>T</td>
-<td></td>
-<td>T</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>T</td>
-<td>F</td>
-<td></td>
-<td>T</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>F</td>
-<td>T</td>
-<td></td>
-<td>T</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>F</td>
-<td>F</td>
-<td></td>
-<td>F</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section></section>
-<section>
-<section id="our-terms" class="title-slide slide level1">
-<h1>Our Terms</h1>
-<table class="caption-top">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Term</th>
-<th>Definition</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Semantics</td>
-<td>Study of Meaning</td>
-</tr>
-<tr class="even">
-<td>Truth Conditions</td>
-<td>Conditions on which a proposition is true or false</td>
-</tr>
-<tr class="odd">
-<td>Truth Value</td>
-<td>T or F, A kind of semantic property that chacterizes propositions</td>
-</tr>
-<tr class="even">
-<td>Principle of Bivalence</td>
-<td>Every proposition has exactly one of the two truth values, T or F</td>
-</tr>
-<tr class="odd">
-<td>Assertibility Conditions</td>
-<td>Conditions under which a proposition can be asserted</td>
-</tr>
-<tr class="even">
-<td>Interpretations</td>
-<td>Association of sentence letters with statements of natural language</td>
-</tr>
-<tr class="odd">
-<td>Valuation</td>
-<td>A formula or set of formulas of propositional logic is an assignment of one and only one of the truth values T and F to each of the sentence letters occuring in that formula or any formula of that set</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section class="slide level2">
-
-<table class="caption-top">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Terms</th>
-<th>Definition</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Valuation Rules</td>
-<td>Rules which specify the possible situations in which sentences containing that term are true and the possible situations in which sentences containing that term are false</td>
-</tr>
-<tr class="even">
-<td>Truth Tables</td>
-<td>A table showing the truth values of a compound proposition for every possible combination of truth values of its components</td>
-</tr>
-<tr class="odd">
-<td>Inclusive and Exclusive ‘Or’, disjunction</td>
-<td>Inclusive ‘or’ is true if at least one of its disjuncts is true, including the case where both are true. Exclusive ‘or’ is true if exactly one of its disjuncts is true, but false if both are true or both are false.</td>
-</tr>
-<tr class="even">
-<td>Material Conditional</td>
-<td>A logical connective that is false only when the antecedent is true and the consequent is false; otherwise, it is true.</td>
-</tr>
-<tr class="odd">
-<td>Truth-Functional</td>
-<td>A property of logical connectives where the truth value of a compound statement is determined solely by the truth values of its components.</td>
-</tr>
-<tr class="even">
-<td>Material Biconditional</td>
-<td>A logical connective that is true when both components have the same truth value (both true or both false) and false when they differ.</td>
-</tr>
-<tr class="odd">
-<td>Materially Equivalent</td>
-<td>Two statements are materially equivalent if they have the same truth value in every possible valuation.</td>
-</tr>
-<tr class="even">
-<td>Material Equivalents</td>
-<td>Statements that are logically equivalent, meaning they have the same truth value in all possible valuations.</td>
-</tr>
-<tr class="odd">
-<td>Calculus</td>
-<td>Affirm our understanding that in some cases one forumla must be true if others are true</td>
-</tr>
-<tr class="even">
-<td>Counter-example</td>
-<td>A situation in which the premises are true and the conclusion false.</td>
-</tr>
-</tbody>
-</table>
-<p>Valuation Rules</p>
+<section id="one-pl-language" class="slide level2">
+<h2>One PL language</h2>
 
 
 </section></section>
@@ -762,7 +285,7 @@ quī aethēr vel caelum nōminātur, which is called aether or heaven
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../../../figures/icons/course_favicon.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>PHIL104Q – Introduction to Logic</p>
+<p>PHIL104Q – Informal to Formal Logic</p>
 </div>
 </div></div>
 
