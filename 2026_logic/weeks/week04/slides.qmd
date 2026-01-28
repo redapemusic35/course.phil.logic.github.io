@@ -28,9 +28,34 @@ format:
 # Logical Validity
 
 * logically valid arguments are deductively valid
-* deductively valid arguments are not logically valid
+* but not all deductively valid arguments are logically valid
 
-## Topic Neutrality
+---
+
+::: {.r-fit-text}
+
+1. Vocabulary such as: 'all' and 'some', 'and' and 'or' and 'if', that does not refer to specific things, properties or relations, are topic-neutral
+2. An inference step is logically valid iff it is deductively valid
+   * given how the topic-neutral notions occur in the premisses and conclusion
+   * ***and*** some premisses logically entail a certain conclusion if the inference from premisses to conclusion is logically valid.
+3. A proposition is logically necessary iff it is necessarily true, in virtue of how topic-neutral notions feature in it.
+4. We only need to concern ourselves with validity which depends on uncontroversially topic-neutral vocabulary: 'all', 'some', 'and' and 'or' etc.
+5. We will accept that our given definitions of validity lead to strange arguments
+
+:::
+
+---
+
+
+5. We will accept that our given definitions of validity lead to strange arguments
+
+> Jack is married. Jack is not married. So the world will end tomorrow!
+
+The above is logically valid given our definition in 2.1:
+
+* An inference step is *valid* iff there is no possible situation in which its premisses would be true and its conclusion false.
+
+## Topic Neutral Terminology
 
 Vocabulary like 'all' and 'some' and 'or', 'not' and 'if' etc.
 
@@ -38,6 +63,10 @@ Vocabulary like 'all' and 'some' and 'or', 'not' and 'if' etc.
 * useful for discussing any topic (topic neutral)
 
 1. Jill is a mother
+2. So, Jill is a parent
+
+1. Anything that is a mother is a parent
+2. Jill is a mother
 2. So, Jill is a parent
 
 1. Bob is a mother
@@ -55,7 +84,6 @@ Vocabulary like 'all' and 'some' and 'or', 'not' and 'if' etc.
 * Some premisses *logically entail* a certain concusaion if th einference from the premisses to the conclusion is logically valid.
 
 ---
-
 
 > How can we show that an unobviously valid inference is logically valid? By
 a suitable proof, of course – meaning a proof where the pattern of inference used
