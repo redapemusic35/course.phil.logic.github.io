@@ -695,11 +695,11 @@
     ]
   },
   {
-    "objectID": "2026_logic/weeks/week04/slides.html#topic-neutrality",
-    "href": "2026_logic/weeks/week04/slides.html#topic-neutrality",
+    "objectID": "2026_logic/weeks/week04/slides.html#topic-neutral-terminology",
+    "href": "2026_logic/weeks/week04/slides.html#topic-neutral-terminology",
     "title": "🗓️ Week 04 Informal to Formal Logic",
-    "section": "Topic Neutrality",
-    "text": "Topic Neutrality\nVocabulary like ‘all’ and ‘some’ and ‘or’, ‘not’ and ‘if’ etc.\n\ndoes not refer to specific things, properties or relations,\nuseful for discussing any topic (topic neutral)\n\n\nJill is a mother\nSo, Jill is a parent\nBob is a mother\nSo Bob is a parent\nJack has a first cousin\nSo at least one of Jack’s parents is not an only child.\nJack is a bachelor\nSo Jack is unmarried"
+    "section": "Topic Neutral Terminology",
+    "text": "Topic Neutral Terminology\nVocabulary like ‘all’ and ‘some’ and ‘or’, ‘not’ and ‘if’ etc.\n\ndoes not refer to specific things, properties or relations,\nuseful for discussing any topic (topic neutral)\n\n\nJill is a mother\nSo, Jill is a parent\nAnything that is a mother is a parent\nJill is a mother\nSo, Jill is a parent\nBob is a mother\nSo Bob is a parent\nJack has a first cousin\nSo at least one of Jack’s parents is not an only child.\nJack is a bachelor\nSo Jack is unmarried"
   },
   {
     "objectID": "2026_logic/weeks/week04/slides.html#logical-validity-1",
