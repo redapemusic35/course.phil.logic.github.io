@@ -4,10 +4,9 @@ title: "🗓️ Week 04 - Entailment, Tautologies"
 
 ||||
 |---|---|---|
-| 13 |Expressive adequacy | 113 |
-| 14 | Tautologies | 120 |
-| 15 | Tautological entailment | 127 |
-| 16 More about tautological entailment | 137 |
+| 6 | Informal to Formal Logic | 113 |
+| | Validity, Propositions, Forms, and Connectives | |
+
 
 ## 👨‍🏫 Lecture Slides
 
@@ -18,7 +17,11 @@ Use your keypad to navigate the slides.
 <iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
-🎥 Looking for lecture recordings? You can only find those on Moodle.
+🎥 Looking for lecture recordings?
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1161191958?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="connectives-final"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1161192107?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="inf-for"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## ✍️ Coursework
 
