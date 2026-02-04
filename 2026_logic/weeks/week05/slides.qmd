@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL104Q -- Classical Propositional Logic, (Semantics)"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Introduction</font>"
+subtitle: "PHIL104Q -- Connectives, PL Syntax"
+title: "<font style='font-size:1em;'>🗓️ Week 4<br/> Review of Chapter 6, Chapters 8 and 9</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -13,6 +13,8 @@ center-title-slide: false
 from: markdown+emoji
 format:
   revealjs:
+    header-includes:
+      - \usepackage{mathpartir}
     theme: moon
     fig-responsive: true
     slide-number: true
@@ -25,131 +27,110 @@ format:
     footer: 'PHIL104Q -- Introduction to Logic'
 ---
 
-# Classical Propositional Logic
+# PL Syntax
 
-# Semantics
+> We start our more formal work by looking at length at a very restricted class of arguments, namely those whose relevant logical structure turns simply on the presence in premisses and/or conclusions of ‘and’, ‘or’, and ‘not’ (used as so-called sentential or propositional connectives).
 
-## Our Terms
+## Syntatic Rules for PL Languages
 
-| Term | Definition |
-|-|-|
-| Semantics | Study of Meaning |
-| Truth Conditions | Conditions on which a proposition is true or false |
-| Truth Value | T or F, A kind of semantic property that chacterizes propositions |
-| Principle of Bivalence | Every proposition has exactly one of the two truth values, T or F |
-| Assertibility Conditions | Conditions under which a proposition can be asserted |
-| Interpretations | Association of sentence letters with statements of natural language |
-| Valuation | A formula or set of formulas of propositional logic is an assignment of one and only one of the truth values T and F to each of the sentence letters occuring in that formula or any formula of that set |
+Three stages for defining well-formed formulas
 
----
+![](../../../readings/wff-definition.png)
 
-| Terms | Definition |
-|-|-|
-| Valuation Rules | Rules which specify the possible situations in which sentences containing that term are true and the possible situations in which sentences containing that term are false |
-| Truth Tables | A table showing the truth values of a compound proposition for every possible combination of truth values of its components |
-| Inclusive and Exclusive 'Or', disjunction | Inclusive 'or' is true if at least one of its disjuncts is true, including the case where both are true. Exclusive 'or' is true if exactly one of its disjuncts is true, but false if both are true or both are false. |
-| Material Conditional | A logical connective that is false only when the antecedent is true and the consequent is false; otherwise, it is true. |
-| Truth-Functional | A property of logical connectives where the truth value of a compound statement is determined solely by the truth values of its components. |
-| Material Biconditional | A logical connective that is true when both components have the same truth value (both true or both false) and false when they differ. |
-| Materially Equivalent | Two statements are materially equivalent if they have the same truth value in every possible valuation. |
-| Material Equivalents | Statements that are logically equivalent, meaning they have the same truth value in all possible valuations. |
-| Calculus | Affirm our understanding that in some cases one forumla must be true if others are true |
-| Counter-example | A situation in which the premises are true and the conclusion false. |
-Valuation Rules
+(a) we fix the alphabet of symbols we
+can use in a PL language;
+(b) we stipulate what count as the ‘atomic’ wffs of a
+given language; finally,
+(c) we explain how other, ‘molecular’, wffs are built up
+from the atoms.
 
 ---
 
-# Valuation Rules
+![](./../../../readings/pl-languages.png)
 
-These can be stated as the truth conditions for each of the logical connectives.
+---
 
-::: {.nonincremental}
+![](./../../../readings/atomic-wffs.png)
 
-1. Negation
-   * V($\neg\phi$) = T iff V ($\phi$) $\neq$ T;
-   * V($\neg\phi$) = F iff V($\phi$) = T.
+---
 
-2. Conjunction
-   * V($\phi$ $\land$ $\psi$) = T iff both V($\phi$) = T and V($\psi$) = T;
-   * V($\phi$ $\land$ $\psi$) = F iff either V($\phi$) $\neq$ T or V($\psi$) $\neq$ T, or both
+## Remember the Three Connectives
+
+| | | | | |
+|---|---|---|---|---|
+| And | | $\land$ | \* | & |
+| Or | | $\lor$ | | |
+| Not | | $\neg$ | \~ | |
+
+---
+
+![](./../../../readings/jack-jill-pl.png)
+
+---
+
+::: {.r-text-fit}
+
+Then let’s render the following into this miniature formalized language:
+
+(1) Jack doesn’t love Jill.
+(2) Jack is wise and he loves Jill.
+(3) Either Jack loves Jill or Jo does.
+(4) Jack and Jill love each other.
+(5) Neither Jack loves Jill nor does Jo.
+(6) It isn’t the case that Jack loves Jill nor does Jill love Jack.
+(7) Either Jack is not wise or both he and Jo love Jill.
+(8) It isn’t the case that either Jack loves Jill or Jill loves Jack.
 
 :::
 
 ---
 
-::: {.nonincremental}
+::: {.r-text-fit}
 
-3. Disjunction
-   * V($\phi$ $\lor$ $\psi$) = T iff either V($\phi$) = T or V($\psi$) = T, or both;
-   * V($\phi$ $\lor$ $\psi$) = F iff both V($\phi$) $\neq$ T and V($\psi$) $\neq$ T
+Give negations of the following in natural English:
 
-4. Material Conditional
-   * V($\phi$ $\rightarrow$ $\psi$) = T iff either V($\phi$) $\neq$ T or V($\psi$) = T, or both;
-   * V($\phi$ $\rightarrow$ $\psi$) = F iff both V($\phi$) = T and V($\psi$) $\neq$ T.
-
-5. Biconditional
-   * V($\phi$ $\Leftrightarrow$ $\psi$) = T iff either V($\phi$) = T and V($\psi$) = T, or V($\phi$) $\neq$ T and V($\psi$) $\neq$ T;
-   * V($\phi$ $\Leftrightarrow$ $\psi$) = F iff either V($\phi$) = T and V($\psi$) $\neq$ T, or V($\psi$) $\neq$ T and V($\psi$) = T
-
-:::
-
-# Multi-Propositional Sequents, an Exercise
-
-## When an argument form has more than 2 letters
-
-> If either the peasants or the slaves revolt and the queen hesitates, then the revolution will succeed.
-
-> If the peasants revolt but the slaves don't, the revolution will not succeed, and if both the peasants and slaves revolt, the revolution will
-succeed.
-
----
-
-1. P = The peasants revolt
-2. S = The slaves revolt
-3. R = The revolution succeeds
-4. Q = The queen hesitates
-
----
-
->  Where the number of sentence letters in a sequent is n, the number of valuations of the sequent, and the number of lines on its truth table is 2n.  Thus a sequent containing only one sentence letter has 21 = 2 valuations, a sequent containing three has 2$^3$ = 8 valuations, a sequent containing four has 2$^4$ = 16 valuations, and so on.
-
----
-
-
-| | Type of formula Definition | Truth Table Indication |
-|-|-|-|
-| Valid (Tautologous) | True on all valuations | Column under main operator contains only 'T's |
-| Contingent  | True on at least one but not all valuations | Column under main operator contains both 'T's and 'F's |
-| Inconsistent | True on no valuations | Column under main operator contains only 'F's |
-
----
-
-## 1. **Type of set:** Consistent
-
-::: {.nonincremental}
-
-* **Definition:**  There is at least one valuation on which all formulas in the set are true
-
-* **Truth Table Indication:** Horizontal line on which all formulas in the set have 'T's under their main operators
+(1) It is not the case that both Jack and Jill went up the hill.
+(2) Neither Jack nor Jill went up the hill.
+(3) No one loves Jack.
+(4) Only tall men love Jill.
+(5) Everyone who loves Jack admires Jill.
+(6) Someone loves both Jack and Jill.
+(7) Some who love Jill are not themselves loveable.
+(8) Jill always arrives on time.
+(9) Whoever did that ought to pay for the damage.
+(10) Whenever it rains, it pours.
+(11) No one may smoke.
 
 :::
 
-## 2. **Type of set:** Inconsistent
+---
 
-::: {.nonincremental}
-* **Definition:** There is no valuation on which all formulas in the set are true
+::: {.r-text-fit}
 
-* **Truth Table Indication:** There is no horizontal line on which all formulas in the set have 'T's under their main operators
+(1) Jack is unwise and loves Jill.
+(2) Jack and Jo both love Jill.
+(3) It isn’t true that Jack doesn’t love Jill.
+(4) Jack loves Jill but Jo doesn’t.
+(5) Jack doesn’t love Jill, neither is he wise.
+(6) Either Jack loves Jill or Jill loves Jack.
+(7) Either Jack loves Jill or Jill loves Jack, but not both.
+(8) Either Jack is unwise or he loves Jill and Jo loves Jill.
+
 :::
+
+## 9.2 Construction histories, parse trees
+
+(a) Assume we are dealing with a PL language whose atoms are ‘P’, ‘Q’, ‘R’, ‘S’. Let’s use our stated W-rules to prove that the sequence of symbols ¬((P ∨ Q) ∧ ¬(¬Q ∨ R))
 
 ---
 
-## Logically Equivalent Formulas
+(1) ‘P’ is a wff. (premise)
+(2) ‘Q’ is a wff. (premise)
+(3) ‘R’ is a wff. (premise)
+(4) ‘(P ∨ Q)’ is a wff. (from 1, 2 by W3)
+(5) ‘¬Q’ is a wff. (from 2 by W4)
+(6) ‘(¬Q ∨ R)’ is a wff. (from 5, 3 by W3)
+(7) ‘¬(¬Q ∨ R)’ is a wff. (from 6 by W4)
+(8) ‘((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 4, 7 by W2)
+(9) ‘¬((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 8 by W4)
 
-| | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| P | Q | ~ | ( | P | v | Q | ) | ~ | P | & | ~ | Q |
-| T | T | F | | T | T | T | | F | | F | | F  |
-| T | F | F | | T | T | F | | F | | F | | T  |
-| F | T | F | | F | T | T | | T | | F | | F  |
-| F | F | T | | F | F | F | | T | | T | | T  |

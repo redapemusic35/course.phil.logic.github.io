@@ -1,14 +1,12 @@
 ---
-title: "🗓️ Week 05 - Absurdity, conditionals, conjunction and negation"
+title: "🗓️ Week 05 - PL Syntax, WFFs"
 ---
 
 ||||
 |---|---|---|
-| 17 | Explosion and absurdity | 145 |
-| 18 | The truth-functional conditional | 148 |
-| 19 | ‘If’s and ‘→’s | 162 |
-| | Interlude: Why natural deduction? | 172 |
-| 20 | PL proofs: conjunction and negation | 174 |
+| 6-8 | Review and Connectives | |
+| 9 |PL syntax | 72 |
+| 11 | ‘P’s, ‘Q’s, ‘α’s, ‘β’s – and form again | 94 |
 
 ## 👨‍🏫 Lecture Slides
 

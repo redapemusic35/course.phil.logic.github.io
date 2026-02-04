@@ -1,5 +1,5 @@
 ---
-subtitle: "PHIL104Q -- Logical validity, props and forms, connectives"
+subtitle: "PHIL104Q -- Logical validity, Propositions, forms, and connectives"
 title: "<font style='font-size:1em;'>🗓️ Week 04<br/> Informal to Formal Logic</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
