@@ -4,10 +4,7 @@ title: "🗓️ Week 04 - Entailment, Tautologies"
 
 ||||
 |---|---|---|
-| 13 |Expressive adequacy | 113 |
-| 14 | Tautologies | 120 |
-| 15 | Tautological entailment | 127 |
-| 16 More about tautological entailment | 137 |
+| ch. 6 & 7 | Validity & Connectives | ch. 6 & 7 |
 
 ## 👨‍🏫 Lecture Slides
 
