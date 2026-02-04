@@ -12,7 +12,7 @@
 
   <meta name="author" content="Prof.&nbsp;Reynolds">
   <meta name="dcterms.date" content="14 March 2023">
-  <title>Logic, Spring 2026 – 🗓️ Week 4  Review of Chapter 6, Chapters 8 and 9</title>
+  <title>Logic, Spring 2026 – 🗓️ Week 03  Introduction</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -125,23 +125,22 @@
       margin-right: 0; 
     }
   </style>
-  <meta property="og:title" content="🗓️ Week 4 Review of Chapter 6, Chapters 8 and 9 – Logic, Spring 2026">
-<meta property="og:description" content="PHIL104Q – Connectives, PL Syntax">
+<meta property="og:title" content="🗓️ Week 03 Introduction – Logic, Spring 2026">
+<meta property="og:description" content="PHIL104Q – Classical Propositional Logic, (Semantics)">
 <meta property="og:site_name" content="Logic, Spring 2026">
-<meta name="twitter:title" content="🗓️ Week 4 Review of Chapter 6, Chapters 8 and 9 – Logic, Spring 2026">
-<meta name="twitter:description" content="PHIL104Q – Connectives, PL Syntax">
+<meta name="twitter:title" content="🗓️ Week 03 Introduction – Logic, Spring 2026">
+<meta name="twitter:description" content="PHIL104Q – Classical Propositional Logic, (Semantics)">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
 <meta name="twitter:card" content="summary">
-</head><body class="quarto-dark">\usepackage{mathpartir}
-
-
+</head>
+<body class="quarto-dark">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 4<br> Review of Chapter 6, Chapters 8 and 9</font></h1>
-  <p class="subtitle">PHIL104Q – Connectives, PL Syntax</p>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 03<br> Introduction</font></h1>
+  <p class="subtitle">PHIL104Q – Classical Propositional Logic, (Semantics)</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -157,8 +156,8 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
   <p class="date">Sep 02 2026</p>
 </section>
 <section>
-<section id="pl-syntax" class="title-slide slide level1">
-<h1>PL Syntax</h1>
+<section id="semantics" class="title-slide slide level1">
+<h1>Semantics</h1>
 <blockquote>
 <p>We start our more formal work by looking at length at a very restricted class of arguments, namely those whose relevant logical structure turns simply on the presence in premisses and/or conclusions of ‘and’, ‘or’, and ‘not’ (used as so-called sentential or propositional connectives).</p>
 </blockquote>
@@ -181,8 +180,8 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
 
 
 <img data-src="./../../../readings/atomic-wffs.png" class="img-fluid r-stretch"></section>
-<section id="remember-the-three-connectives" class="slide level2">
-<h2>Remember the Three Connectives</h2>
+<section id="three-connectives" class="slide level2">
+<h2>Three Connectives</h2>
 <table class="caption-top">
 <tbody>
 <tr class="odd">
@@ -229,59 +228,209 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
 </ol>
 </div>
 </section>
-<section class="slide level2 scrollable">
+<section class="slide level2">
 
-<div class="r-text-fit">
-<p>Give negations of the following in natural English:</p>
+</section></section>
+<section>
+<section id="valuation-rules" class="title-slide slide level1 scrollable">
+<h1>Valuation Rules</h1>
+<p>These can be stated as the truth conditions for each of the logical connectives.</p>
 <ol type="1">
-<li class="fragment">It is not the case that both Jack and Jill went up the hill.</li>
-<li class="fragment">Neither Jack nor Jill went up the hill.</li>
-<li class="fragment">No one loves Jack.</li>
-<li class="fragment">Only tall men love Jill.</li>
-<li class="fragment">Everyone who loves Jack admires Jill.</li>
-<li class="fragment">Someone loves both Jack and Jill.</li>
-<li class="fragment">Some who love Jill are not themselves loveable.</li>
-<li class="fragment">Jill always arrives on time.</li>
-<li class="fragment">Whoever did that ought to pay for the damage.</li>
-<li class="fragment">Whenever it rains, it pours.</li>
-<li class="fragment">No one may smoke.</li>
-</ol>
-</div>
-</section>
-<section class="slide level2 scrollable">
-
-<div class="r-text-fit">
-<ol type="1">
-<li class="fragment">Jack is unwise and loves Jill.</li>
-<li class="fragment">Jack and Jo both love Jill.</li>
-<li class="fragment">It isn’t true that Jack doesn’t love Jill.</li>
-<li class="fragment">Jack loves Jill but Jo doesn’t.</li>
-<li class="fragment">Jack doesn’t love Jill, neither is he wise.</li>
-<li class="fragment">Either Jack loves Jill or Jill loves Jack.</li>
-<li class="fragment">Either Jack loves Jill or Jill loves Jack, but not both.</li>
-<li class="fragment">Either Jack is unwise or he loves Jill and Jo loves Jill.</li>
-</ol>
-</div>
-</section>
-<section id="construction-histories-parse-trees" class="slide level2 scrollable">
-<h2>9.2 Construction histories, parse trees</h2>
-<ol type="a">
-<li class="fragment">Assume we are dealing with a PL language whose atoms are ‘P’, ‘Q’, ‘R’, ‘S’. Let’s use our stated W-rules to prove that the sequence of symbols ¬((P ∨ Q) ∧ ¬(¬Q ∨ R))</li>
+<li>Negation
+<ul>
+<li>V(<span class="math inline">\(\neg\phi\)</span>) = T iff V (<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T;</li>
+<li>V(<span class="math inline">\(\neg\phi\)</span>) = F iff V(<span class="math inline">\(\phi\)</span>) = T.</li>
+</ul></li>
+<li>Conjunction
+<ul>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\land\)</span> <span class="math inline">\(\psi\)</span>) = T iff both V(<span class="math inline">\(\phi\)</span>) = T and V(<span class="math inline">\(\psi\)</span>) = T;</li>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\land\)</span> <span class="math inline">\(\psi\)</span>) = F iff either V(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T or V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T, or both</li>
+</ul></li>
 </ol>
 </section>
 <section class="slide level2 scrollable">
 
-<ol type="1">
-<li class="fragment">‘P’ is a wff. (premise)</li>
-<li class="fragment">‘Q’ is a wff. (premise)</li>
-<li class="fragment">‘R’ is a wff. (premise)</li>
-<li class="fragment">‘(P ∨ Q)’ is a wff. (from 1, 2 by W3)</li>
-<li class="fragment">‘¬Q’ is a wff. (from 2 by W4)</li>
-<li class="fragment">‘(¬Q ∨ R)’ is a wff. (from 5, 3 by W3)</li>
-<li class="fragment">‘¬(¬Q ∨ R)’ is a wff. (from 6 by W4)</li>
-<li class="fragment">‘((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 4, 7 by W2)</li>
-<li class="fragment">‘¬((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 8 by W4)</li>
+<ol start="3" type="1">
+<li>Disjunction
+<ul>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\lor\)</span> <span class="math inline">\(\psi\)</span>) = T iff either V(<span class="math inline">\(\phi\)</span>) = T or V(<span class="math inline">\(\psi\)</span>) = T, or both;</li>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\lor\)</span> <span class="math inline">\(\psi\)</span>) = F iff both V(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T and V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T</li>
+</ul></li>
+<li>Material Conditional
+<ul>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\rightarrow\)</span> <span class="math inline">\(\psi\)</span>) = T iff either V(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T or V(<span class="math inline">\(\psi\)</span>) = T, or both;</li>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\rightarrow\)</span> <span class="math inline">\(\psi\)</span>) = F iff both V(<span class="math inline">\(\phi\)</span>) = T and V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T.</li>
+</ul></li>
+<li>Biconditional
+<ul>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\Leftrightarrow\)</span> <span class="math inline">\(\psi\)</span>) = T iff either V(<span class="math inline">\(\phi\)</span>) = T and V(<span class="math inline">\(\psi\)</span>) = T, or V(<span class="math inline">\(\phi\)</span>) <span class="math inline">\(\neq\)</span> T and V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T;</li>
+<li>V(<span class="math inline">\(\phi\)</span> <span class="math inline">\(\Leftrightarrow\)</span> <span class="math inline">\(\psi\)</span>) = F iff either V(<span class="math inline">\(\phi\)</span>) = T and V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T, or V(<span class="math inline">\(\psi\)</span>) <span class="math inline">\(\neq\)</span> T and V(<span class="math inline">\(\psi\)</span>) = T</li>
+</ul></li>
 </ol>
+</section></section>
+<section>
+<section id="multi-propositional-sequents-an-exercise" class="title-slide slide level1">
+<h1>Multi-Propositional Sequents, an Exercise</h1>
+
+</section>
+<section id="when-an-argument-form-has-more-than-2-letters" class="slide level2">
+<h2>When an argument form has more than 2 letters</h2>
+<blockquote>
+<p>If either the peasants or the slaves revolt and the queen hesitates, then the revolution will succeed.</p>
+</blockquote>
+<blockquote>
+<p>If the peasants revolt but the slaves don’t, the revolution will not succeed, and if both the peasants and slaves revolt, the revolution will succeed.</p>
+</blockquote>
+</section>
+<section class="slide level2 scrollable">
+
+<ol type="1">
+<li class="fragment">P = The peasants revolt</li>
+<li class="fragment">S = The slaves revolt</li>
+<li class="fragment">R = The revolution succeeds</li>
+<li class="fragment">Q = The queen hesitates</li>
+</ol>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>Where the number of sentence letters in a sequent is n, the number of valuations of the sequent, and the number of lines on its truth table is 2n. Thus a sequent containing only one sentence letter has 21 = 2 valuations, a sequent containing three has 2<span class="math inline">\(^3\)</span> = 8 valuations, a sequent containing four has 2<span class="math inline">\(^4\)</span> = 16 valuations, and so on.</p>
+</blockquote>
+</section>
+<section class="slide level2">
+
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Type of formula Definition</th>
+<th>Truth Table Indication</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Valid (Tautologous)</td>
+<td>True on all valuations</td>
+<td>Column under main operator contains only ’T’s</td>
+</tr>
+<tr class="even">
+<td>Contingent</td>
+<td>True on at least one but not all valuations</td>
+<td>Column under main operator contains both ’T’s and ’F’s</td>
+</tr>
+<tr class="odd">
+<td>Inconsistent</td>
+<td>True on no valuations</td>
+<td>Column under main operator contains only ’F’s</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="type-of-set-consistent" class="slide level2">
+<h2>1. <strong>Type of set:</strong> Consistent</h2>
+<ul>
+<li><p><strong>Definition:</strong> There is at least one valuation on which all formulas in the set are true</p></li>
+<li><p><strong>Truth Table Indication:</strong> Horizontal line on which all formulas in the set have ’T’s under their main operators</p></li>
+</ul>
+</section>
+<section id="type-of-set-inconsistent" class="slide level2">
+<h2>2. <strong>Type of set:</strong> Inconsistent</h2>
+<ul>
+<li><p><strong>Definition:</strong> There is no valuation on which all formulas in the set are true</p></li>
+<li><p><strong>Truth Table Indication:</strong> There is no horizontal line on which all formulas in the set have ’T’s under their main operators</p></li>
+</ul>
+</section>
+<section id="logically-equivalent-formulas" class="slide level2">
+<h2>Logically Equivalent Formulas</h2>
+<table class="caption-top">
+<tbody>
+<tr class="odd">
+<td>P</td>
+<td>Q</td>
+<td>~</td>
+<td>(</td>
+<td>P</td>
+<td>v</td>
+<td>Q</td>
+<td>)</td>
+<td>~</td>
+<td>P</td>
+<td>&amp;</td>
+<td>~</td>
+<td>Q</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>T</td>
+<td>T</td>
+<td>F</td>
+<td></td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td></td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>T</td>
+<td>F</td>
+<td>F</td>
+<td></td>
+<td>T</td>
+<td>T</td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td></td>
+<td>T</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>T</td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+<td></td>
+<td>T</td>
+<td></td>
+<td>F</td>
+<td></td>
+<td>F</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>F</td>
+<td>F</td>
+<td>T</td>
+<td></td>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+<td></td>
+<td>T</td>
+<td></td>
+<td>T</td>
+<td></td>
+<td>T</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 </section></section>
