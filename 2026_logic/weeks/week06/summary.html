@@ -78,6 +78,35 @@ ul.task-list li input[type="checkbox"] {
   };
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
@@ -525,6 +554,18 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#exercise-set-4-problem-5" id="toc-exercise-set-4-problem-5" class="nav-link" data-scroll-target="#exercise-set-4-problem-5">Exercise Set 4, problem 5</a></li>
   </ul></li>
   </ul></li>
+  <li><a href="#chapter-8-three-connectives-p.-61" id="toc-chapter-8-three-connectives-p.-61" class="nav-link" data-scroll-target="#chapter-8-three-connectives-p.-61">Chapter 8 Three Connectives (p.&nbsp;61)</a>
+  <ul class="collapse">
+  <li><a href="#two-simple-arguments" id="toc-two-simple-arguments" class="nav-link" data-scroll-target="#two-simple-arguments">8.1 Two Simple Arguments</a>
+  <ul class="collapse">
+  <li><a href="#b" id="toc-b" class="nav-link" data-scroll-target="#b">B</a></li>
+  </ul></li>
+  <li><a href="#and-p.-62" id="toc-and-p.-62" class="nav-link" data-scroll-target="#and-p.-62">8.2 ‘And’ (p.&nbsp;62)</a></li>
+  <li><a href="#or-p.-63" id="toc-or-p.-63" class="nav-link" data-scroll-target="#or-p.-63">8.3 ‘Or’ (p.&nbsp;63)</a></li>
+  <li><a href="#not-p.-64" id="toc-not-p.-64" class="nav-link" data-scroll-target="#not-p.-64">8.4 ‘Not’ (p.&nbsp;64)</a></li>
+  <li><a href="#scope-p.-65" id="toc-scope-p.-65" class="nav-link" data-scroll-target="#scope-p.-65">8.5 Scope (p.&nbsp;65)</a></li>
+  <li><a href="#exercise-8" id="toc-exercise-8" class="nav-link" data-scroll-target="#exercise-8">Exercise 8</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -557,17 +598,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="study-guide-for-wednesday-february-11" class="level1">
 <h1>Study Guide for Wednesday February 11</h1>
-<ul>
-<li>Argument: A group of sentential assertions (claims, propositions) is an argument when one or more of these sentences in the group is/are used to give evidence (or if you like, reasons, or grounds) in support of one of the other sentences in the group that is receiving support.</li>
-<li>Conclusion: A sentential assertion that is the part of an argument that is being supported by the premises.</li>
-<li>Deductive Argument: An argument whose premises are claimed to guarantee the truth of its conclusion. Deductive arguments can be either valid or invalid and either sound or unsound.</li>
-<li>Inductive Argument: An argument whose premises are claimed to increase the likelihood that its conclusion is true. Inductive arguments can be weak or strong.</li>
-<li>Logic: The basic principles and techniques that are used in distinguishing correct (good) reasoning from incorrect (bad) reasoning.</li>
-<li>Premise: A sentential assertion that is part of an argument and is used to offer support for the conclusion.</li>
-<li>Sentence: A unit of connected speech or writing that can have various uses, including that of expressing true/false claims.</li>
-<li>Sound Argument: A valid deductive argument all of whose premises are true.</li>
-<li>Valid Argument: A deductive argument whose conclusion would have to be true if its premises were true.</li>
-</ul>
+<p>The exam will have 10 questions on it. It will cover chapters 1, 2, 3, 4, 8 and 9.</p>
 <section id="what-is-an-argument-p.-1" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-an-argument-p.-1">1.1 What is An Argument? (p.&nbsp;1)</h2>
 <p>By ‘argument’ we mean a chain of reasoning, short or long, in support of some conclusion.</p>
@@ -939,9 +970,157 @@ So: No G is F</p>
 <li>Agents cannot avoid doing any actions. (from d and a)</li>
 <li>Hence no action should be punished. (d and e)</li>
 </ol>
-
-
 </section>
+</section>
+</section>
+<section id="chapter-8-three-connectives-p.-61" class="level1">
+<h1>Chapter 8 Three Connectives (p.&nbsp;61)</h1>
+<blockquote class="blockquote">
+<p>We start our more formal work by looking at length at a very restricted class of arguments, namely those whose relevant logical structure turns simply on the presence in premisses and/or conclusions of ‘and’, ‘or’, and ‘not’ (used as so-called sentential or propositional connectives).</p>
+</blockquote>
+<section id="two-simple-arguments" class="level2">
+<h2 class="anchored" data-anchor-id="two-simple-arguments">8.1 Two Simple Arguments</h2>
+<p>A</p>
+<ol type="1">
+<li>Either Jill is in the library or she is in the coffee bar.</li>
+<li>Jill isn’t in the library. So (3) Jill is in the coffee bar.</li>
+</ol>
+<p>We can represent this as having the form</p>
+<p>Either A or B<br>
+Not-A<br>
+So: B.</p>
+<p>Here is another valid argument:</p>
+<section id="b" class="level3">
+<h3 class="anchored" data-anchor-id="b">B</h3>
+<ol type="1">
+<li>It’s not the case that Jack played lots of football and also did well in his exams.</li>
+<li>Jack played lots of football.</li>
+<li>So, Jack did not do well in his exams.</li>
+</ol>
+<p>This also instantiates a reliable pattern of inference, which we might represent:</p>
+<p>Not-(A and B)<br>
+A<br>
+So: Not-B.</p>
+</section>
+</section>
+<section id="and-p.-62" class="level2">
+<h2 class="anchored" data-anchor-id="and-p.-62">8.2 ‘And’ (p.&nbsp;62)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>For example, take the sentences ‘Lyon is in France’ and ‘Turin is in Italy’; we can conjoin them to get ‘Lyon is in France and Turin is in Italy’.</p>
+</div>
+</div>
+</section>
+<section id="or-p.-63" class="level2">
+<h2 class="anchored" data-anchor-id="or-p.-63">8.3 ‘Or’ (p.&nbsp;63)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This is true if Jack didn’t work, and also true if Jack is not good at abstract thought. But I don’t mean to rule out that he is both a slacker and hopelessly illogical. The ‘or’ here is inclusive.</p>
+</div>
+</div>
+</section>
+<section id="not-p.-64" class="level2">
+<h2 class="anchored" data-anchor-id="not-p.-64">8.4 ‘Not’ (p.&nbsp;64)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>To deny a claim A outright is equivalent to asserting some strict negation of A (meaning a sentence which is true when A is false and false when A is true).</p>
+</div>
+</div>
+</section>
+<section id="scope-p.-65" class="level2">
+<h2 class="anchored" data-anchor-id="scope-p.-65">8.5 Scope (p.&nbsp;65)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When it comes to considering sentences with multiple connectives in logical contexts, we evidently need some device to block scope ambiguities.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>We will sidestep the complexities of natural language by reformulating the arguments we want to discuss; we will render them into more austere and regimented formalized languages, languages which are designed from the start to be very well-behaved, entirely clear and quite free of ambiguities and shifting meanings – at least as far as their logical apparatus is concerned.</p>
+</div>
+</div>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>‘Or’</td>
+<td>= <span class="math inline">\(\lor\)</span></td>
+</tr>
+<tr class="even">
+<td>‘And’</td>
+<td>= <span class="math inline">\(\land\)</span> or &amp;</td>
+</tr>
+<tr class="odd">
+<td>‘Not’</td>
+<td>= <span class="math inline">\(\neg\)</span> or ~</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="exercise-8" class="level2">
+<h2 class="anchored" data-anchor-id="exercise-8">Exercise 8</h2>
+<p>Give negations of the following in natural English:</p>
+<ol type="1">
+<li>It is not the case that both Jack and Jill went up the hill.</li>
+<li>Neither Jack nor Jill went up the hill.</li>
+<li>No one loves Jack.</li>
+<li>Only tall men love Jill.</li>
+<li>Everyone who loves Jack admires Jill.</li>
+<li>Someone loves both Jack and Jill</li>
+</ol>
+<p>Render the following as best you can into the PL language with the following glossary:</p>
+<p>P: Jack loves Jill.<br>
+Q: Jill loves Jack.<br>
+R: Jo loves Jill.<br>
+S: Jack is wise.</p>
+<ol type="1">
+<li>Jack is unwise and loves Jill. (¬S ∧ P)</li>
+<li>Jack and Jo both love Jill. (P ∧ R)</li>
+<li>It isn’t true that Jack doesn’t love Jill. ¬¬P</li>
+<li>Jack loves Jill but Jo doesn’t. (P ∧ ¬R)</li>
+<li>Jack doesn’t love Jill, neither is he wise.</li>
+</ol>
+
+
 </section>
 </section>
 

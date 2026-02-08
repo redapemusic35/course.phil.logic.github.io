@@ -2946,7 +2946,7 @@
     "href": "2026_logic/weeks/week06/summary.html",
     "title": "Study Guide for Wednesday February 11",
     "section": "",
-    "text": "Argument: A group of sentential assertions (claims, propositions) is an argument when one or more of these sentences in the group is/are used to give evidence (or if you like, reasons, or grounds) in support of one of the other sentences in the group that is receiving support.\nConclusion: A sentential assertion that is the part of an argument that is being supported by the premises.\nDeductive Argument: An argument whose premises are claimed to guarantee the truth of its conclusion. Deductive arguments can be either valid or invalid and either sound or unsound.\nInductive Argument: An argument whose premises are claimed to increase the likelihood that its conclusion is true. Inductive arguments can be weak or strong.\nLogic: The basic principles and techniques that are used in distinguishing correct (good) reasoning from incorrect (bad) reasoning.\nPremise: A sentential assertion that is part of an argument and is used to offer support for the conclusion.\nSentence: A unit of connected speech or writing that can have various uses, including that of expressing true/false claims.\nSound Argument: A valid deductive argument all of whose premises are true.\nValid Argument: A deductive argument whose conclusion would have to be true if its premises were true.\n\n\n\nBy ‘argument’ we mean a chain of reasoning, short or long, in support of some conclusion.\n\n\n\nLogic, then, is concerned with evaluating stretches of reasoning. First, we can ask whether this argument’s premisses A(1) and A(2) are true. Second, we can ask about the quality of the inference step, the move which takes you from the premisses A(1) and A(2) to the conclusion A(3).\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\nAny inference step of the form\n\nAll F are G\nn is F\nSo: n is G\n\nIs reliable\n\n\n\nAll logicians are cool.\nRussell is a logician.\nTherefore, Russell is cool.\n\n\n\n\n\nAll robins have red breasts.\nTweety is a robin.\nTherefore, Tweety has a red breast.\n\n\n\n\n\nAll post-modernists write nonsense.\nDerrida is a post-modernist.\nTherefore, Derrida writes nonsense.\n\nHowever, this is not reliable:\n\nMost G are H\nMost H are K\nSo: At least some G are K.\n\n\n\n\n\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Which involve inductive reasoning?\n\nMost politicians are corrupt. After all, most ordinary people are corrupt – and politicians are ordinary people.\nAnyone who is well prepared for the exam, even if she doesn’t get an A grade, will at least get a B. Jane is well prepared, so she will get at least a B grade.\nJohn is taller than Mary and Jane is shorter than Mary. So John is taller than Jane.\nAt eleven, Fred is always either in the library or in the coffee bar. And assuming he’s in the coffee bar, he’s drinking an espresso. Fred was not in the library at eleven. So he was drinking an espresso then.\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nDogs have four legs. Fido is a dog. Therefore Fido has four legs.",
+    "text": "The exam will have 10 questions on it. It will cover chapters 1, 2, 3, 4, 8 and 9.\n\n\nBy ‘argument’ we mean a chain of reasoning, short or long, in support of some conclusion.\n\n\n\nLogic, then, is concerned with evaluating stretches of reasoning. First, we can ask whether this argument’s premisses A(1) and A(2) are true. Second, we can ask about the quality of the inference step, the move which takes you from the premisses A(1) and A(2) to the conclusion A(3).\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\nAny inference step of the form\n\nAll F are G\nn is F\nSo: n is G\n\nIs reliable\n\n\n\nAll logicians are cool.\nRussell is a logician.\nTherefore, Russell is cool.\n\n\n\n\n\nAll robins have red breasts.\nTweety is a robin.\nTherefore, Tweety has a red breast.\n\n\n\n\n\nAll post-modernists write nonsense.\nDerrida is a post-modernist.\nTherefore, Derrida writes nonsense.\n\nHowever, this is not reliable:\n\nMost G are H\nMost H are K\nSo: At least some G are K.\n\n\n\n\n\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Which involve inductive reasoning?\n\nMost politicians are corrupt. After all, most ordinary people are corrupt – and politicians are ordinary people.\nAnyone who is well prepared for the exam, even if she doesn’t get an A grade, will at least get a B. Jane is well prepared, so she will get at least a B grade.\nJohn is taller than Mary and Jane is shorter than Mary. So John is taller than Jane.\nAt eleven, Fred is always either in the library or in the coffee bar. And assuming he’s in the coffee bar, he’s drinking an espresso. Fred was not in the library at eleven. So he was drinking an espresso then.\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nDogs have four legs. Fido is a dog. Therefore Fido has four legs.",
     "crumbs": [
       "🗓️ Logic",
       "Week 06",
@@ -3091,6 +3091,78 @@
     "title": "Study Guide for Wednesday February 11",
     "section": "4.2 Fully annotated proofs (30)",
     "text": "4.2 Fully annotated proofs (30)\n\n\n\n\n\n\nTip\n\n\n\nIn our first two examples of proofs, we have indicated at each new step which earlier statements the inference depended on. But we can do even better by also explicitly indicating what type or form of inference move is being invoked at each stage.\n\n\nConsider:\n\nR:\nNo F is G\nn is F\nSo: n is not G\nand\n\n\nS\nNo F is G\nSo: No G is F\nAnd the argument:\n\nNo logician is bad at abstract thought. (premiss)\nJo is bad at abstract thought. (premiss)\nNo one bad at abstract thought is a logician. (from 1 by S)\nJo is not a logician. (from 3, 2 by R)\n\nIn form:\n\nNo F is G. (premiss)\nn is G. (premiss)\nNo G is F. (from 1 by S)\nSo n is not F. (from 3, 2 by R)\n\nAnother one:\n\nAnyone who understands human nature is clever\nevery true poet can stir the heart\nShakespeare wrote Hamlet\nno one who does not understand human nature can stir the heart\nno one who is not a true poet wrote Hamlet\na true poet wrote Hamlet\nwhoever wrote Hamlet can stir the heart\nShakespeare can stir the heart\nwhoever can stir the heart understands human nature\nShakespeare understands human nature\nso Shakespeare is clever.\n\nConsider example 8 from the book\n\nEither the butler or the cook committed the murder.\nThe victim died from poison if the cook was the murderer.\nThe butler carried out the murder only if the victim was stabbed.\nThe victim didn’t die from poison.\nSo, the victim was stabbed.\n\nThere are two ways to complete this exercise. The book gives us:\nAnother valid argument. We could argue like this (careful with the ’if’s and ’only if’s):\n\nEither the butler or the cook committed the murder. premiss\nThe victim died from poison if the cook did the murder. premiss\nThe butler did the murder only if the victim was stabbed. premiss\nThe victim didn’t die from poison. premiss\nThe cook committed the murder. supposition (Let’s suppose the cook committed the murder)\nThe victim died from poison. (If the cook committed the murder, then from 2, 5)\nContradiction (from 4, 6, but the victim did not die from poison)\nThe cook didn’t commit the murder. (from 5–7, by RAA, so the cook did not commit the murder)\nThe butler committed the murder. (from 1, 8, if the cook did not commit the murder, then the butler did)\nThe victim was stabbed. (from 3, 9, if the butler did commit the murder, then the victim was stabbed)\n\nBut watch this shorter way:\n\nEither the butler or the cook committed the murder.\nThe victim died from poison if the cook was the murderer.\nThe butler carried out the murder only if the victim was stabbed.\nThe victim didn’t die from poison.\nEither the victim was stabbed or the victim died from poison (from a, b, and c)\nSo, the victim was stabbed. (from d and e)\n\n\n\nExercise Set 4, problem 5\n\nEvery event is causally determined. (premise)\nNo action should be punished if the agent isn’t responsible for it. (premise)\nAgents are only responsible for actions they can avoid doing. (premise)\nIf an events are causally determined, then an agent cannot avoid doing it. (premise)\nAgents should only be punished for actions they can avoid doing. (from b and c)\nAgents cannot avoid doing any actions. (from d and a)\nHence no action should be punished. (d and e)",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#two-simple-arguments",
+    "href": "2026_logic/weeks/week06/summary.html#two-simple-arguments",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "8.1 Two Simple Arguments",
+    "text": "8.1 Two Simple Arguments\nA\n\nEither Jill is in the library or she is in the coffee bar.\nJill isn’t in the library. So (3) Jill is in the coffee bar.\n\nWe can represent this as having the form\nEither A or B\nNot-A\nSo: B.\nHere is another valid argument:\n\nB\n\nIt’s not the case that Jack played lots of football and also did well in his exams.\nJack played lots of football.\nSo, Jack did not do well in his exams.\n\nThis also instantiates a reliable pattern of inference, which we might represent:\nNot-(A and B)\nA\nSo: Not-B.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#and-p.-62",
+    "href": "2026_logic/weeks/week06/summary.html#and-p.-62",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "8.2 ‘And’ (p. 62)",
+    "text": "8.2 ‘And’ (p. 62)\n\n\n\n\n\n\nNote\n\n\n\nFor example, take the sentences ‘Lyon is in France’ and ‘Turin is in Italy’; we can conjoin them to get ‘Lyon is in France and Turin is in Italy’.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#or-p.-63",
+    "href": "2026_logic/weeks/week06/summary.html#or-p.-63",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "8.3 ‘Or’ (p. 63)",
+    "text": "8.3 ‘Or’ (p. 63)\n\n\n\n\n\n\nNote\n\n\n\nThis is true if Jack didn’t work, and also true if Jack is not good at abstract thought. But I don’t mean to rule out that he is both a slacker and hopelessly illogical. The ‘or’ here is inclusive.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#not-p.-64",
+    "href": "2026_logic/weeks/week06/summary.html#not-p.-64",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "8.4 ‘Not’ (p. 64)",
+    "text": "8.4 ‘Not’ (p. 64)\n\n\n\n\n\n\nNote\n\n\n\nTo deny a claim A outright is equivalent to asserting some strict negation of A (meaning a sentence which is true when A is false and false when A is true).",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#scope-p.-65",
+    "href": "2026_logic/weeks/week06/summary.html#scope-p.-65",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "8.5 Scope (p. 65)",
+    "text": "8.5 Scope (p. 65)\n\n\n\n\n\n\nNote\n\n\n\nWhen it comes to considering sentences with multiple connectives in logical contexts, we evidently need some device to block scope ambiguities.\n\n\n\n\n\n\n\n\nTip\n\n\n\nWe will sidestep the complexities of natural language by reformulating the arguments we want to discuss; we will render them into more austere and regimented formalized languages, languages which are designed from the start to be very well-behaved, entirely clear and quite free of ambiguities and shifting meanings – at least as far as their logical apparatus is concerned.\n\n\n\n\n\n‘Or’\n= \\(\\lor\\)\n\n\n‘And’\n= \\(\\land\\) or &\n\n\n‘Not’\n= \\(\\neg\\) or ~",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#exercise-8",
+    "href": "2026_logic/weeks/week06/summary.html#exercise-8",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "Exercise 8",
+    "text": "Exercise 8\nGive negations of the following in natural English:\n\nIt is not the case that both Jack and Jill went up the hill.\nNeither Jack nor Jill went up the hill.\nNo one loves Jack.\nOnly tall men love Jill.\nEveryone who loves Jack admires Jill.\nSomeone loves both Jack and Jill\n\nRender the following as best you can into the PL language with the following glossary:\nP: Jack loves Jill.\nQ: Jill loves Jack.\nR: Jo loves Jill.\nS: Jack is wise.\n\nJack is unwise and loves Jill. (¬S ∧ P)\nJack and Jo both love Jill. (P ∧ R)\nIt isn’t true that Jack doesn’t love Jill. ¬¬P\nJack loves Jill but Jo doesn’t. (P ∧ ¬R)\nJack doesn’t love Jill, neither is he wise.",
     "crumbs": [
       "🗓️ Logic",
       "Week 06",
