@@ -12,11 +12,11 @@ format: html
 
 ::: {.callout-important collapse=false}
 
-### MLK Day Holiday
+### Study Guide is Out!
 
-(01/19/2026)
+(02/07/2026)
 
-Monday (Martin Luther King Jr. Day) → No classes!
+[Click Here for Study Guide](https://redapemusic35.github.io/course.phil.logic.github.io/2026_logic/weeks/week06/summary.html)
 
 :::
 
