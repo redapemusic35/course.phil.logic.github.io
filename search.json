@@ -2946,7 +2946,151 @@
     "href": "2026_logic/weeks/week06/summary.html",
     "title": "Study Guide for Wednesday February 11",
     "section": "",
-    "text": "Study Guide for Wednesday February 11\n\nArgument: A group of sentential assertions (claims, propositions) is an argument when one or more of these sentences in the group is/are used to give evidence (or if you like, reasons, or grounds) in support of one of the other sentences in the group that is receiving support.\nConclusion: A sentential assertion that is the part of an argument that is being supported by the premises.\nDeductive Argument: An argument whose premises are claimed to guarantee the truth of its conclusion. Deductive arguments can be either valid or invalid and either sound or unsound.\nInductive Argument: An argument whose premises are claimed to increase the likelihood that its conclusion is true. Inductive arguments can be weak or strong.\nLogic: The basic principles and techniques that are used in distinguishing correct (good) reasoning from incorrect (bad) reasoning.\nPremise: A sentential assertion that is part of an argument and is used to offer support for the conclusion.\nSentence: A unit of connected speech or writing that can have various uses, including that of expressing true/false claims.\nSound Argument: A valid deductive argument all of whose premises are true.\nValid Argument: A deductive argument whose conclusion would have to be true if its premises were true.",
+    "text": "Argument: A group of sentential assertions (claims, propositions) is an argument when one or more of these sentences in the group is/are used to give evidence (or if you like, reasons, or grounds) in support of one of the other sentences in the group that is receiving support.\nConclusion: A sentential assertion that is the part of an argument that is being supported by the premises.\nDeductive Argument: An argument whose premises are claimed to guarantee the truth of its conclusion. Deductive arguments can be either valid or invalid and either sound or unsound.\nInductive Argument: An argument whose premises are claimed to increase the likelihood that its conclusion is true. Inductive arguments can be weak or strong.\nLogic: The basic principles and techniques that are used in distinguishing correct (good) reasoning from incorrect (bad) reasoning.\nPremise: A sentential assertion that is part of an argument and is used to offer support for the conclusion.\nSentence: A unit of connected speech or writing that can have various uses, including that of expressing true/false claims.\nSound Argument: A valid deductive argument all of whose premises are true.\nValid Argument: A deductive argument whose conclusion would have to be true if its premises were true.\n\n\n\nBy ‘argument’ we mean a chain of reasoning, short or long, in support of some conclusion.\n\n\n\nLogic, then, is concerned with evaluating stretches of reasoning. First, we can ask whether this argument’s premisses A(1) and A(2) are true. Second, we can ask about the quality of the inference step, the move which takes you from the premisses A(1) and A(2) to the conclusion A(3).\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.\n\n\n\n\n\nAny inference step of the form\n\nAll F are G\nn is F\nSo: n is G\n\nIs reliable\n\n\n\nAll logicians are cool.\nRussell is a logician.\nTherefore, Russell is cool.\n\n\n\n\n\nAll robins have red breasts.\nTweety is a robin.\nTherefore, Tweety has a red breast.\n\n\n\n\n\nAll post-modernists write nonsense.\nDerrida is a post-modernist.\nTherefore, Derrida writes nonsense.\n\nHowever, this is not reliable:\n\nMost G are H\nMost H are K\nSo: At least some G are K.\n\n\n\n\n\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Which involve inductive reasoning?\n\nMost politicians are corrupt. After all, most ordinary people are corrupt – and politicians are ordinary people.\nAnyone who is well prepared for the exam, even if she doesn’t get an A grade, will at least get a B. Jane is well prepared, so she will get at least a B grade.\nJohn is taller than Mary and Jane is shorter than Mary. So John is taller than Jane.\nAt eleven, Fred is always either in the library or in the coffee bar. And assuming he’s in the coffee bar, he’s drinking an espresso. Fred was not in the library at eleven. So he was drinking an espresso then.\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nDogs have four legs. Fido is a dog. Therefore Fido has four legs.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#what-is-an-argument-p.-1",
+    "href": "2026_logic/weeks/week06/summary.html#what-is-an-argument-p.-1",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "",
+    "text": "By ‘argument’ we mean a chain of reasoning, short or long, in support of some conclusion.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#kinds-of-evaluation-p.-1",
+    "href": "2026_logic/weeks/week06/summary.html#kinds-of-evaluation-p.-1",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "",
+    "text": "Logic, then, is concerned with evaluating stretches of reasoning. First, we can ask whether this argument’s premisses A(1) and A(2) are true. Second, we can ask about the quality of the inference step, the move which takes you from the premisses A(1) and A(2) to the conclusion A(3).\n\n\n\nAll philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#deduction-vs.-induction-p.-2",
+    "href": "2026_logic/weeks/week06/summary.html#deduction-vs.-induction-p.-2",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "",
+    "text": "All philosophers are eccentric.\nJack is a philosopher.\nJack is eccentric.\n\n\nArgument A’s inference step is absolutely compelling: if A’s premisses are true, then its conclusion is guaranteed to be true too.\n\n\n\n\n\nEither Jill is in the library or she is in the bookshop.\nJill isn’t in the library. So\nJill is in the bookshop.\n\nWho knows whether the initial assumptions, the two premisses, are true or not? But we can immediately see that the inference step from 1 and 2 to 3, is again completely watertight.\n\nIf an inference step from premisses to a conclusion is completely watertight, i.e. if the truth of the premisses absolutely guarantees the truth of the conclusion, then we say that this inference step is deductively valid. Equivalently, when an inference step is deductively valid, we will say that its premisses deductively entail its conclusion.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#general-forms-p.-5",
+    "href": "2026_logic/weeks/week06/summary.html#general-forms-p.-5",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "",
+    "text": "Any inference step of the form\n\nAll F are G\nn is F\nSo: n is G\n\nIs reliable\n\n\n\nAll logicians are cool.\nRussell is a logician.\nTherefore, Russell is cool.\n\n\n\n\n\nAll robins have red breasts.\nTweety is a robin.\nTherefore, Tweety has a red breast.\n\n\n\n\n\nAll post-modernists write nonsense.\nDerrida is a post-modernist.\nTherefore, Derrida writes nonsense.\n\nHowever, this is not reliable:\n\nMost G are H\nMost H are K\nSo: At least some G are K.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#exercises",
+    "href": "2026_logic/weeks/week06/summary.html#exercises",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "",
+    "text": "What are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Which involve inductive reasoning?\n\nMost politicians are corrupt. After all, most ordinary people are corrupt – and politicians are ordinary people.\nAnyone who is well prepared for the exam, even if she doesn’t get an A grade, will at least get a B. Jane is well prepared, so she will get at least a B grade.\nJohn is taller than Mary and Jane is shorter than Mary. So John is taller than Jane.\nAt eleven, Fred is always either in the library or in the coffee bar. And assuming he’s in the coffee bar, he’s drinking an espresso. Fred was not in the library at eleven. So he was drinking an espresso then.\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nDogs have four legs. Fido is a dog. Therefore Fido has four legs.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#validity-defined-more-carefully-p.-9",
+    "href": "2026_logic/weeks/week06/summary.html#validity-defined-more-carefully-p.-9",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "2.1 Validity Defined More Carefully (p. 9)",
+    "text": "2.1 Validity Defined More Carefully (p. 9)\n\nWe said in §1.3 that an inference step is deductively valid if it is completely watertight – in other words, assuming that the inference’s premisses are true, its conclusion is absolutely guaranteed to be true as well.But talk of an inference being ‘watertight’ and talk of a conclusion being ‘guaranteed’ to be true is too metaphorical for comfort.\n\nTherefore:\n\nAn inference step is valid if and only if there is no possible situation in which its premisses would be true and its conclusion false. Equivalently, in such a case, we will say that the inference’s premisses entail its conclusion.\n\n\n\n\n\n\n\nNote\n\n\n\nIt is necessarily true that C if and only if it is true that C in every possible situation, in our most inclusive sense of ‘possible’.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#consistency-and-equivalence-p.-11",
+    "href": "2026_logic/weeks/week06/summary.html#consistency-and-equivalence-p.-11",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "2.2 Consistency and equivalence (p. 11)",
+    "text": "2.2 Consistency and equivalence (p. 11)\nWe need a term for the kind of thing that can feature as a premiss or conclusion in an argument – let’s use the traditional ‘proposition’. We will return in §§7.3–7.5 to consider the tricky question of the nature of propositions: for the moment, we just assume that propositions can sensibly be said to be true or false in various situations (unlike commands, questions, etc.).\n\n\n\n\n\n\nNote\n\n\n\nInconsistency: One or more propositions (statement that is either true or false) are (jointly) inconsistent if and only if there is no possible situation in which these propositions are all true together.\nConsistency: Or to put it another way, some propositions are (jointly) consistent if and only if there is a possible situation in which they are all true together.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#validity-truth-and-the-invalidity-principle",
+    "href": "2026_logic/weeks/week06/summary.html#validity-truth-and-the-invalidity-principle",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "2.3 Validity, Truth, and the Invalidity Principle",
+    "text": "2.3 Validity, Truth, and the Invalidity Principle\n\n\n\n\n\n\nTip\n\n\n\n\nTo assess whether an inference step is deductively valid, it is usually not enough to look at what is the case in the actual world; we also need to consider alternative possible situations, alternative ways things might conceivably have been – or, as some say, alternative possible worlds.\n\n\n\n\nArgument B:\n\nNo Welshman is a great poet.\nShakespeare is a Welshman.\nSo, Shakespeare is not a great poet.\n\n\nThe propositions here are all false about the actual world. But that doesn’t settle whether the premisses of B entail its conclusion. In fact, the inference step here is valid; there is no situation at all – even a merely possible one, in the weakest sense – in which the premisses would be true and the conclusion false.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#forms-of-inference",
+    "href": "2026_logic/weeks/week06/summary.html#forms-of-inference",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "Forms of Inference",
+    "text": "Forms of Inference\nWe saw in the first chapter how arguments can come in families which share the same type or pattern or form of inference step. Evaluating this shareable form of inference for reliability will then simultaneously give a verdict on a whole range of arguments depending on the same sort of inferential move.\nAll F are G\nn is F\nSo n is G.\nNo F is G\nn is F\nSo: n is not G\nSome F are R to every G\nNo F is R to any H\nSo: No G is H.\nFor the moment, let’s just note three more examples of deductively reliable forms of inference, involving different numbers of premisses:\nNo F is G\nSo: No G is F\n\nAll F are H\nNo G is H\nSo: No F is G\nAll F are either G or H\nAll G are K\nAll H are K\nSo: All F are K.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#exercises-3",
+    "href": "2026_logic/weeks/week06/summary.html#exercises-3",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "Exercises 3",
+    "text": "Exercises 3\n\n\n\n\n\n\nNote\n\n\n\n\nWhich of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’, and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premisses and a false conclusion.\n\n\n\n\nSome F are G; no G is H; so, some F are not H.\nSome F are G; some H are F ; so, some G are H.\nAll F are G; some F are H; so, some H are G.\nNo F is G; some G are H; so, some H are not F.\nNo F is G; no H is G; so, some F are not H.\nAll F are G; no G is H; so, no H is F.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#proofs-first-examples-28",
+    "href": "2026_logic/weeks/week06/summary.html#proofs-first-examples-28",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "4.1 Proofs: first examples (28)",
+    "text": "4.1 Proofs: first examples (28)\n\nBabies are illogical. (premiss)\nNobody is despised who can manage a crocodile. (premiss)\nIllogical persons are despised. (premiss)\nBabies are despised. (from 1, 3)\nBabies cannot manage a crocodile. (from 2, 4)\n\n\n\n\n\n\n\nNote\n\n\n\nWe can therefore get from the initial premisses to the final conclusion by a necessarily truth-preserving route.\nOne way of demonstrating that an inferential leap from some premisses to a given conclusion is valid is by breaking down the big leap into smaller inference steps, each one of which is clearly valid.",
+    "crumbs": [
+      "🗓️ Logic",
+      "Week 06",
+      "💻 Study Guide for Wednesday Feb 11"
+    ]
+  },
+  {
+    "objectID": "2026_logic/weeks/week06/summary.html#fully-annotated-proofs-30",
+    "href": "2026_logic/weeks/week06/summary.html#fully-annotated-proofs-30",
+    "title": "Study Guide for Wednesday February 11",
+    "section": "4.2 Fully annotated proofs (30)",
+    "text": "4.2 Fully annotated proofs (30)\n\n\n\n\n\n\nTip\n\n\n\nIn our first two examples of proofs, we have indicated at each new step which earlier statements the inference depended on. But we can do even better by also explicitly indicating what type or form of inference move is being invoked at each stage.\n\n\nConsider:\n\nR:\nNo F is G\nn is F\nSo: n is not G\nand\n\n\nS\nNo F is G\nSo: No G is F\nAnd the argument:\n\nNo logician is bad at abstract thought. (premiss)\nJo is bad at abstract thought. (premiss)\nNo one bad at abstract thought is a logician. (from 1 by S)\nJo is not a logician. (from 3, 2 by R)\n\nIn form:\n\nNo F is G. (premiss)\nn is G. (premiss)\nNo G is F. (from 1 by S)\nSo n is not F. (from 3, 2 by R)\n\nAnother one:\n\nAnyone who understands human nature is clever\nevery true poet can stir the heart\nShakespeare wrote Hamlet\nno one who does not understand human nature can stir the heart\nno one who is not a true poet wrote Hamlet\na true poet wrote Hamlet\nwhoever wrote Hamlet can stir the heart\nShakespeare can stir the heart\nwhoever can stir the heart understands human nature\nShakespeare understands human nature\nso Shakespeare is clever.\n\nConsider example 8 from the book\n\nEither the butler or the cook committed the murder.\nThe victim died from poison if the cook was the murderer.\nThe butler carried out the murder only if the victim was stabbed.\nThe victim didn’t die from poison.\nSo, the victim was stabbed.\n\nThere are two ways to complete this exercise. The book gives us:\nAnother valid argument. We could argue like this (careful with the ’if’s and ’only if’s):\n\nEither the butler or the cook committed the murder. premiss\nThe victim died from poison if the cook did the murder. premiss\nThe butler did the murder only if the victim was stabbed. premiss\nThe victim didn’t die from poison. premiss\nThe cook committed the murder. supposition (Let’s suppose the cook committed the murder)\nThe victim died from poison. (If the cook committed the murder, then from 2, 5)\nContradiction (from 4, 6, but the victim did not die from poison)\nThe cook didn’t commit the murder. (from 5–7, by RAA, so the cook did not commit the murder)\nThe butler committed the murder. (from 1, 8, if the cook did not commit the murder, then the butler did)\nThe victim was stabbed. (from 3, 9, if the butler did commit the murder, then the victim was stabbed)\n\nBut watch this shorter way:\n\nEither the butler or the cook committed the murder.\nThe victim died from poison if the cook was the murderer.\nThe butler carried out the murder only if the victim was stabbed.\nThe victim didn’t die from poison.\nEither the victim was stabbed or the victim died from poison (from a, b, and c)\nSo, the victim was stabbed. (from d and e)\n\n\n\nExercise Set 4, problem 5\n\nEvery event is causally determined. (premise)\nNo action should be punished if the agent isn’t responsible for it. (premise)\nAgents are only responsible for actions they can avoid doing. (premise)\nIf an events are causally determined, then an agent cannot avoid doing it. (premise)\nAgents should only be punished for actions they can avoid doing. (from b and c)\nAgents cannot avoid doing any actions. (from d and a)\nHence no action should be punished. (d and e)",
     "crumbs": [
       "🗓️ Logic",
       "Week 06",
