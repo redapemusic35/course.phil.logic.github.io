@@ -27,110 +27,107 @@ format:
     footer: 'PHIL104Q -- Introduction to Logic'
 ---
 
-# PL Syntax
+# 10 - PL Semantics
 
-> We start our more formal work by looking at length at a very restricted class of arguments, namely those whose relevant logical structure turns simply on the presence in premisses and/or conclusions of ‘and’, ‘or’, and ‘not’ (used as so-called sentential or propositional connectives).
-
-## Syntatic Rules for PL Languages
-
-Three stages for defining well-formed formulas
-
-![](../../../readings/wff-definition.png)
-
-(a) we fix the alphabet of symbols we
-can use in a PL language;
-(b) we stipulate what count as the ‘atomic’ wffs of a
-given language; finally,
-(c) we explain how other, ‘molecular’, wffs are built up
-from the atoms.
+> Having described the syntax of PL languages, we now turn to consider their
+semantics; in other words, we discuss questions of meaning and of truth. In
+particular, we introduce the crucial notion of a truth-value valuation. [@smit21, 81]
 
 ---
 
-![](./../../../readings/pl-languages.png)
+(P): Alun loves Bethan. \
+(Q): Bethan is Welsh. \
+(R): Alun is married to Bethan.
+
+1. We specify the senses of a PL language’s atoms by a glossary that fixes the
+atoms’ truth-conditions.
 
 ---
 
-![](./../../../readings/atomic-wffs.png)
+(1) ‘∧’ invariably forms a conjunction, no more and no less; it translates as ‘and’ (or ‘and also’ or ‘both . . . and . . . ’), so long as it is clear – perhaps from contextual clues – that the English rendition should be read as forming a bare conjunction (and not as meaning e.g. ‘and then’).
+(2) ‘∨’ invariably forms an inclusive disjunction, no more and no less; it translates as ‘either . . . or . . . or both’, or ‘and/or’ – or indeed as plain ‘or’, so long as context again makes it clear that the disjunction is to be understood as inclusive.
+(3) ‘¬’ invariably negates the whole wff that follows; it can be translated by ‘It is not the case that . . . ’, or often by a judiciously
+inserted ‘not’.
 
 ---
 
-## Remember the Three Connectives
+1. (R ∨ ¬Q) : Either Alun is married to Bethan or she isn’t Welsh. \
+2. (Q ∧ ¬P) : Bethan is Welsh and Alun doesn’t love her. \
+3. ((R ∧ P) ∧ ¬Q) : Alun is married to Bethan and he loves her, and she isn’t Welsh. \
+4. ¬(¬P ∧ R) : It’s not the case that Alun both doesn’t love Bethan and yet also is married to her. \
+5. ¬¬Q : It isn’t the case that Bethan is not Welsh.
 
-| | | | | |
-|---|---|---|---|---|
-| And | | $\land$ | \* | & |
-| Or | | $\lor$ | | |
-| Not | | $\neg$ | \~ | |
+## 10.3 Atomic wffs are true or false
 
----
-
-![](./../../../readings/jack-jill-pl.png)
+> But having fixed the meaning by settling which Jack and Jill are in question, etc., and therefore fixed the conditions under which ‘P’ is true, it is then up to how things are in the world whether ‘P’ is true (or if you prefer, whether what ‘P’ expresses is true). If Jack did take Jill to the party, then ‘P’ is true; if not, ‘P’ is false. [84]
 
 ---
 
-::: {.r-text-fit}
+::: {.callout-important collapse=false}
 
-Then let’s render the following into this miniature formalized language:
+*Determinacy 1* For any PL language, once we have stipulated the senses
+of its atoms – fixed their truth-conditions – each of these atoms will be
+determinately true or determinately false in any possible situation.
 
-(1) Jack doesn’t love Jill.
-(2) Jack is wise and he loves Jill.
-(3) Either Jack loves Jill or Jo does.
-(4) Jack and Jill love each other.
-(5) Neither Jack loves Jill nor does Jo.
-(6) It isn’t the case that Jack loves Jill nor does Jill love Jack.
-(7) Either Jack is not wise or both he and Jo love Jill.
-(8) It isn’t the case that either Jack loves Jill or Jill loves Jack.
+*Determinacy 2* The atoms of a PL language are to be interpreted so that
+they have determinate truth values, exactly one of T and F, in any possible
+
+situation
+
+:::
+
+::: {.callout-important collapse=false}
+
+If a wff (or indeed a sentence of an ordinary language) is true in a given
+situation, we say it then has the truth value true; and if it is false, it then
+has the truth value false. For brevity, we denote these truth values by simply
+‘T’ and ‘F’.
+
+We call an assignment of truth values to some wffs of a PL language a
+valuation of those wffs.
 
 :::
 
 ---
 
-::: {.r-text-fit}
+It is useful to have some brisk notation – added to logicians’ English – to talk
+about the assignment of a truth value to a wff. So we will write
 
-Give negations of the following in natural English:
+P := T, Q := F, (P ∧ Q) := F, ((P ∧ ¬Q) ∨ (¬P ∧ Q)) := T, . . .
 
-(1) It is not the case that both Jack and Jill went up the hill.
-(2) Neither Jack nor Jill went up the hill.
-(3) No one loves Jack.
-(4) Only tall men love Jill.
-(5) Everyone who loves Jack admires Jill.
-(6) Someone loves both Jack and Jill.
-(7) Some who love Jill are not themselves loveable.
-(8) Jill always arrives on time.
-(9) Whoever did that ought to pay for the damage.
-(10) Whenever it rains, it pours.
-(11) No one may smoke.
+to say that the value of ‘P’ is T, the value of ‘Q’ is F, the value of ‘(P ∧ Q)’ is
+F, etc. (The symbol ‘:=’ suggests itself because it is used in some programming
+languages for the assignment of values.)
+
+---
+
+::: {.callout-note callapse=false}
+
+If α := T and β := T, then (α ∧ β) := T. \
+If α := T and β := F, then (α ∧ β) := F. \
+If α := F and β := T, then (α ∧ β) := F. \
+If α := F and β := F, then (α ∧ β) := F. \
+
+:::
+
+::: {.callout-note callapse=false}
+
+If α := T and β := T, then (α ∨ β) := T. \
+If α := T and β := F, then (α ∨ β) := T. \
+If α := F and β := T, then (α ∨ β) := T. \
+If α := F and β := F, then (α ∨ β) := F.
 
 :::
 
 ---
 
-::: {.r-text-fit}
-
-(1) Jack is unwise and loves Jill.
-(2) Jack and Jo both love Jill.
-(3) It isn’t true that Jack doesn’t love Jill.
-(4) Jack loves Jill but Jo doesn’t.
-(5) Jack doesn’t love Jill, neither is he wise.
-(6) Either Jack loves Jill or Jill loves Jack.
-(7) Either Jack loves Jill or Jill loves Jack, but not both.
-(8) Either Jack is unwise or he loves Jill and Jo loves Jill.
-
-:::
-
-## 9.2 Construction histories, parse trees
-
-(a) Assume we are dealing with a PL language whose atoms are ‘P’, ‘Q’, ‘R’, ‘S’. Let’s use our stated W-rules to prove that the sequence of symbols ¬((P ∨ Q) ∧ ¬(¬Q ∨ R))
-
----
-
-(1) ‘P’ is a wff. (premise)
-(2) ‘Q’ is a wff. (premise)
-(3) ‘R’ is a wff. (premise)
-(4) ‘(P ∨ Q)’ is a wff. (from 1, 2 by W3)
-(5) ‘¬Q’ is a wff. (from 2 by W4)
-(6) ‘(¬Q ∨ R)’ is a wff. (from 5, 3 by W3)
-(7) ‘¬(¬Q ∨ R)’ is a wff. (from 6 by W4)
-(8) ‘((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 4, 7 by W2)
-(9) ‘¬((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 8 by W4)
+(1) P := T. (premiss)
+(2) Q := T. (premiss)
+(3) R := F. (premiss)
+(4) (P ∨ Q) := T, (from 1, 2 by the table for ‘∨’)
+(5) ¬Q := F. (from 2 by the table for ‘¬’)
+(6) (¬Q ∨ R) := F. (from 5, 2 by the table for ‘∨’)
+(7) ¬(¬Q ∨ R) := T. (from 6 the table for ‘¬’)
+(8) ((P ∨ Q) ∧ ¬(¬Q ∨ R)) := T. (from 4, 7 by the table for ‘∧’)
+(9) ¬((P ∨ Q) ∧ ¬(¬Q ∨ R)) := F. (from 8 by the table for ‘¬’)
 
