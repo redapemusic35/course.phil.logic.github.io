@@ -992,25 +992,11 @@
     "text": "Some Exercises\n\nBeth is fortunate. So is Carl. Therefore, both Carl and Beth are fortunate.\nTheft is not praiseworthy, but blameworthy. Hence theft is blameworthy.\nHealing is good. So something is good."
   },
   {
-    "objectID": "2026_logic/weeks/week05/slides.html#syntatic-rules-for-pl-languages",
-    "href": "2026_logic/weeks/week05/slides.html#syntatic-rules-for-pl-languages",
+    "objectID": "2026_logic/weeks/week05/slides.html#atomic-wffs-are-true-or-false",
+    "href": "2026_logic/weeks/week05/slides.html#atomic-wffs-are-true-or-false",
     "title": "🗓️ Week 4 Review of Chapter 6, Chapters 8 and 9",
-    "section": "Syntatic Rules for PL Languages",
-    "text": "Syntatic Rules for PL Languages\nThree stages for defining well-formed formulas\n\n\nwe fix the alphabet of symbols we can use in a PL language;\nwe stipulate what count as the ‘atomic’ wffs of a given language; finally,\nwe explain how other, ‘molecular’, wffs are built up from the atoms."
-  },
-  {
-    "objectID": "2026_logic/weeks/week05/slides.html#remember-the-three-connectives",
-    "href": "2026_logic/weeks/week05/slides.html#remember-the-three-connectives",
-    "title": "🗓️ Week 4 Review of Chapter 6, Chapters 8 and 9",
-    "section": "Remember the Three Connectives",
-    "text": "Remember the Three Connectives\n\n\n\nAnd\n\n\\(\\land\\)\n*\n&\n\n\nOr\n\n\\(\\lor\\)\n\n\n\n\nNot\n\n\\(\\neg\\)\n~"
-  },
-  {
-    "objectID": "2026_logic/weeks/week05/slides.html#construction-histories-parse-trees",
-    "href": "2026_logic/weeks/week05/slides.html#construction-histories-parse-trees",
-    "title": "🗓️ Week 4 Review of Chapter 6, Chapters 8 and 9",
-    "section": "9.2 Construction histories, parse trees",
-    "text": "9.2 Construction histories, parse trees\n\nAssume we are dealing with a PL language whose atoms are ‘P’, ‘Q’, ‘R’, ‘S’. Let’s use our stated W-rules to prove that the sequence of symbols ¬((P ∨ Q) ∧ ¬(¬Q ∨ R))"
+    "section": "10.3 Atomic wffs are true or false",
+    "text": "10.3 Atomic wffs are true or false\n\nBut having fixed the meaning by settling which Jack and Jill are in question, etc., and therefore fixed the conditions under which ‘P’ is true, it is then up to how things are in the world whether ‘P’ is true (or if you prefer, whether what ‘P’ expresses is true). If Jack did take Jill to the party, then ‘P’ is true; if not, ‘P’ is false. [84]"
   },
   {
     "objectID": "2026_logic/weeks/week05/slides-backup.html#syntatic-rules-for-pl-languages",

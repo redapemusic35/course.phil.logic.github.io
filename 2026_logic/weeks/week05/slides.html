@@ -157,130 +157,139 @@ Prof.&nbsp;<a href="#/">Reynolds</a>
   <p class="date">Sep 02 2026</p>
 </section>
 <section>
-<section id="pl-syntax" class="title-slide slide level1">
-<h1>PL Syntax</h1>
+<section id="pl-semantics" class="title-slide slide level1">
+<h1>10 - PL Semantics</h1>
 <blockquote>
-<p>We start our more formal work by looking at length at a very restricted class of arguments, namely those whose relevant logical structure turns simply on the presence in premisses and/or conclusions of ‘and’, ‘or’, and ‘not’ (used as so-called sentential or propositional connectives).</p>
+<p>Having described the syntax of PL languages, we now turn to consider their semantics; in other words, we discuss questions of meaning and of truth. In particular, we introduce the crucial notion of a truth-value valuation. <span class="citation" data-cites="smit21">(<a href="" role="doc-biblioref" onclick="return false;"><strong>smit21?</strong></a>)</span></p>
 </blockquote>
 </section>
-<section id="syntatic-rules-for-pl-languages" class="slide level2 scrollable">
-<h2>Syntatic Rules for PL Languages</h2>
-<p>Three stages for defining well-formed formulas</p>
-
-<img data-src="../../../readings/wff-definition.png" class="img-fluid r-stretch"><ol type="a">
-<li class="fragment">we fix the alphabet of symbols we can use in a PL language;</li>
-<li class="fragment">we stipulate what count as the ‘atomic’ wffs of a given language; finally,</li>
-<li class="fragment">we explain how other, ‘molecular’, wffs are built up from the atoms.</li>
-</ol>
-</section>
-<section class="slide level2">
-
-
-<img data-src="./../../../readings/pl-languages.png" class="img-fluid r-stretch"></section>
-<section class="slide level2">
-
-
-<img data-src="./../../../readings/atomic-wffs.png" class="img-fluid r-stretch"></section>
-<section id="remember-the-three-connectives" class="slide level2">
-<h2>Remember the Three Connectives</h2>
-<table class="caption-top">
-<tbody>
-<tr class="odd">
-<td>And</td>
-<td></td>
-<td><span class="math inline">\(\land\)</span></td>
-<td>*</td>
-<td>&amp;</td>
-</tr>
-<tr class="even">
-<td>Or</td>
-<td></td>
-<td><span class="math inline">\(\lor\)</span></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Not</td>
-<td></td>
-<td><span class="math inline">\(\neg\)</span></td>
-<td>~</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section class="slide level2">
-
-
-<img data-src="./../../../readings/jack-jill-pl.png" class="img-fluid r-stretch"></section>
 <section class="slide level2 scrollable">
 
-<div class="r-text-fit">
-<p>Then let’s render the following into this miniature formalized language:</p>
+<p>(P): Alun loves Bethan.<br>
+(Q): Bethan is Welsh.<br>
+(R): Alun is married to Bethan.</p>
 <ol type="1">
-<li class="fragment">Jack doesn’t love Jill.</li>
-<li class="fragment">Jack is wise and he loves Jill.</li>
-<li class="fragment">Either Jack loves Jill or Jo does.</li>
-<li class="fragment">Jack and Jill love each other.</li>
-<li class="fragment">Neither Jack loves Jill nor does Jo.</li>
-<li class="fragment">It isn’t the case that Jack loves Jill nor does Jill love Jack.</li>
-<li class="fragment">Either Jack is not wise or both he and Jo love Jill.</li>
-<li class="fragment">It isn’t the case that either Jack loves Jill or Jill loves Jack.</li>
+<li class="fragment">We specify the senses of a PL language’s atoms by a glossary that fixes the atoms’ truth-conditions.</li>
 </ol>
+</section>
+<section class="slide level2 scrollable">
+
+<ol type="1">
+<li class="fragment">‘∧’ invariably forms a conjunction, no more and no less; it translates as ‘and’ (or ‘and also’ or ‘both . . . and . . .’), so long as it is clear – perhaps from contextual clues – that the English rendition should be read as forming a bare conjunction (and not as meaning e.g.&nbsp;‘and then’).</li>
+<li class="fragment">‘∨’ invariably forms an inclusive disjunction, no more and no less; it translates as ‘either . . . or . . . or both’, or ‘and/or’ – or indeed as plain ‘or’, so long as context again makes it clear that the disjunction is to be understood as inclusive.</li>
+<li class="fragment">‘¬’ invariably negates the whole wff that follows; it can be translated by ‘It is not the case that . . .’, or often by a judiciously inserted ‘not’.</li>
+</ol>
+</section>
+<section class="slide level2 scrollable">
+
+<ol type="1">
+<li class="fragment">(R ∨ ¬Q) : Either Alun is married to Bethan or she isn’t Welsh.<br>
+</li>
+<li class="fragment">(Q ∧ ¬P) : Bethan is Welsh and Alun doesn’t love her.<br>
+</li>
+<li class="fragment">((R ∧ P) ∧ ¬Q) : Alun is married to Bethan and he loves her, and she isn’t Welsh.<br>
+</li>
+<li class="fragment">¬(¬P ∧ R) : It’s not the case that Alun both doesn’t love Bethan and yet also is married to her.<br>
+</li>
+<li class="fragment">¬¬Q : It isn’t the case that Bethan is not Welsh.</li>
+</ol>
+</section>
+<section id="atomic-wffs-are-true-or-false" class="slide level2">
+<h2>10.3 Atomic wffs are true or false</h2>
+<blockquote>
+<p>But having fixed the meaning by settling which Jack and Jill are in question, etc., and therefore fixed the conditions under which ‘P’ is true, it is then up to how things are in the world whether ‘P’ is true (or if you prefer, whether what ‘P’ expresses is true). If Jack did take Jill to the party, then ‘P’ is true; if not, ‘P’ is false. [84]</p>
+</blockquote>
+</section>
+<section class="slide level2">
+
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Important</strong></p>
+</div>
+<div class="callout-content">
+<p><em>Determinacy 1</em> For any PL language, once we have stipulated the senses of its atoms – fixed their truth-conditions – each of these atoms will be determinately true or determinately false in any possible situation.</p>
+<p><em>Determinacy 2</em> The atoms of a PL language are to be interpreted so that they have determinate truth values, exactly one of T and F, in any possible</p>
+<p>situation</p>
+</div>
+</div>
+</div>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Important</strong></p>
+</div>
+<div class="callout-content">
+<p>If a wff (or indeed a sentence of an ordinary language) is true in a given situation, we say it then has the truth value true; and if it is false, it then has the truth value false. For brevity, we denote these truth values by simply ‘T’ and ‘F’.</p>
+<p>We call an assignment of truth values to some wffs of a PL language a valuation of those wffs.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="slide level2">
+
+<p>It is useful to have some brisk notation – added to logicians’ English – to talk about the assignment of a truth value to a wff. So we will write</p>
+<p>P := T, Q := F, (P ∧ Q) := F, ((P ∧ ¬Q) ∨ (¬P ∧ Q)) := T, . . .</p>
+<p>to say that the value of ‘P’ is T, the value of ‘Q’ is F, the value of ‘(P ∧ Q)’ is F, etc. (The symbol ‘:=’ suggests itself because it is used in some programming languages for the assignment of values.)</p>
+</section>
+<section class="slide level2">
+
+<div data-callapse="false">
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>If α := T and β := T, then (α ∧ β) := T.<br>
+If α := T and β := F, then (α ∧ β) := F.<br>
+If α := F and β := T, then (α ∧ β) := F.<br>
+If α := F and β := F, then (α ∧ β) := F.<br>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-callapse="false">
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>If α := T and β := T, then (α ∨ β) := T.<br>
+If α := T and β := F, then (α ∨ β) := T.<br>
+If α := F and β := T, then (α ∨ β) := T.<br>
+If α := F and β := F, then (α ∨ β) := F.</p>
+</div>
+</div>
+</div>
 </div>
 </section>
 <section class="slide level2 scrollable">
 
-<div class="r-text-fit">
-<p>Give negations of the following in natural English:</p>
 <ol type="1">
-<li class="fragment">It is not the case that both Jack and Jill went up the hill.</li>
-<li class="fragment">Neither Jack nor Jill went up the hill.</li>
-<li class="fragment">No one loves Jack.</li>
-<li class="fragment">Only tall men love Jill.</li>
-<li class="fragment">Everyone who loves Jack admires Jill.</li>
-<li class="fragment">Someone loves both Jack and Jill.</li>
-<li class="fragment">Some who love Jill are not themselves loveable.</li>
-<li class="fragment">Jill always arrives on time.</li>
-<li class="fragment">Whoever did that ought to pay for the damage.</li>
-<li class="fragment">Whenever it rains, it pours.</li>
-<li class="fragment">No one may smoke.</li>
-</ol>
-</div>
-</section>
-<section class="slide level2 scrollable">
-
-<div class="r-text-fit">
-<ol type="1">
-<li class="fragment">Jack is unwise and loves Jill.</li>
-<li class="fragment">Jack and Jo both love Jill.</li>
-<li class="fragment">It isn’t true that Jack doesn’t love Jill.</li>
-<li class="fragment">Jack loves Jill but Jo doesn’t.</li>
-<li class="fragment">Jack doesn’t love Jill, neither is he wise.</li>
-<li class="fragment">Either Jack loves Jill or Jill loves Jack.</li>
-<li class="fragment">Either Jack loves Jill or Jill loves Jack, but not both.</li>
-<li class="fragment">Either Jack is unwise or he loves Jill and Jo loves Jill.</li>
-</ol>
-</div>
-</section>
-<section id="construction-histories-parse-trees" class="slide level2 scrollable">
-<h2>9.2 Construction histories, parse trees</h2>
-<ol type="a">
-<li class="fragment">Assume we are dealing with a PL language whose atoms are ‘P’, ‘Q’, ‘R’, ‘S’. Let’s use our stated W-rules to prove that the sequence of symbols ¬((P ∨ Q) ∧ ¬(¬Q ∨ R))</li>
-</ol>
-</section>
-<section class="slide level2 scrollable">
-
-<ol type="1">
-<li class="fragment">‘P’ is a wff. (premise)</li>
-<li class="fragment">‘Q’ is a wff. (premise)</li>
-<li class="fragment">‘R’ is a wff. (premise)</li>
-<li class="fragment">‘(P ∨ Q)’ is a wff. (from 1, 2 by W3)</li>
-<li class="fragment">‘¬Q’ is a wff. (from 2 by W4)</li>
-<li class="fragment">‘(¬Q ∨ R)’ is a wff. (from 5, 3 by W3)</li>
-<li class="fragment">‘¬(¬Q ∨ R)’ is a wff. (from 6 by W4)</li>
-<li class="fragment">‘((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 4, 7 by W2)</li>
-<li class="fragment">‘¬((P ∨ Q) ∧ ¬(¬Q ∨ R))’ is a wff. (from 8 by W4)</li>
+<li class="fragment">P := T. (premiss)</li>
+<li class="fragment">Q := T. (premiss)</li>
+<li class="fragment">R := F. (premiss)</li>
+<li class="fragment">(P ∨ Q) := T, (from 1, 2 by the table for ‘∨’)</li>
+<li class="fragment">¬Q := F. (from 2 by the table for ‘¬’)</li>
+<li class="fragment">(¬Q ∨ R) := F. (from 5, 2 by the table for ‘∨’)</li>
+<li class="fragment">¬(¬Q ∨ R) := T. (from 6 the table for ‘¬’)</li>
+<li class="fragment">((P ∨ Q) ∧ ¬(¬Q ∨ R)) := T. (from 4, 7 by the table for ‘∧’)</li>
+<li class="fragment">¬((P ∨ Q) ∧ ¬(¬Q ∨ R)) := F. (from 8 by the table for ‘¬’)</li>
 </ol>
 
 
