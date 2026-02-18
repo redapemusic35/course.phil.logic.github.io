@@ -67,7 +67,9 @@ website:
            text: Week 05
            contents:
              - href: 2026_logic/weeks/week05/page.qmd
-               text: 👨‍🏫 Lecture Material/Propositional Logic Semantics
+               text: 👨‍🏫 Lecture Material/Slides
+             - href: 2026_logic/weeks/week05/page.qmd
+               text: 👨‍🏫 Lecture Material/Slides for Day 2
             #  - href: 2026_aesthetics/weeks/week06/summary.qmd
             #    text: 💻 Lab Roadmap
             #  - href: 2023/weeks/week01/appendix.qmd
